@@ -11,6 +11,14 @@
         <title><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@creativebulma/bulma-tooltip@1.2.0/dist/bulma-tooltip.min.css"/>
+        <style>
+          span.line:before {
+            content: attr(data-line-num);
+          }
+          span.line {
+            display: block;
+          }
+        </style>
       </head>
       <body>
         <section class="section">
@@ -65,22 +73,31 @@
   </xsl:template>
 
   <xsl:template match="tei:l">
-    <xsl:value-of select="../@n"/>
-    <xsl:text>.</xsl:text>
-    <xsl:value-of select="@n"/>
-    <xsl:text>. </xsl:text>
+    <span class="line">
+      <xsl:attribute name="data-line-num">
+        <xsl:value-of select="../@n"/>
+        <xsl:text>.</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>. </xsl:text>
+      </xsl:attribute>
 
-    <xsl:apply-templates/>
-    <br/>
+      <xsl:apply-templates/>
+    </span>
   </xsl:template>
 
   <xsl:template match="tei:app">
     <span class="has-tooltip-arrow">
       <xsl:attribute name="data-tooltip">
+        <xsl:apply-templates select="tei:rdg"/>
       </xsl:attribute>
 
       <xsl:value-of select="tei:rdg[1]"/>
     </span>
+  </xsl:template>
+
+  <xsl:template match="tei:rdg">
+    <xsl:value-of select="."/>
+    <xsl:value-of select="substring-after(@wit, '#')"/>
   </xsl:template>
 
 </xsl:stylesheet>
