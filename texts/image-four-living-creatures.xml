@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type='text/xsl' href='../style.xsl'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>መልክአ፡ አርባዕቱ፡ እንስሳ፡ (Image of the Four Living Creatures)</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority></authority>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          
+          <witness xml:id="A" facs="http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_573_f055v">
+            <msDesc>
+              <msIdentifier>
+                <repository>British Library</repository>
+                <collection>Oriental</collection>
+                <idno>573</idno>                
+                <altIdentifier>
+                  <idno>Wright CXC</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="55v" to="59v"/><ab/></msItem>
+              </msContents>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="B" facs="https://gundagunde.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A94859#page/114/mode/1up">
+            <msDesc>
+              <msIdentifier>
+                <repository>Gunda Gunde</repository>
+                <idno>85</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="49v" to="58v"/><ab/></msItem>
+              </msContents>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="C" facs="https://masaheft.eu/manuscripts/EMIP00499/viewer">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMIP</repository>
+                <idno>499</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="103r" to="107v"/><ab/></msItem>
+              </msContents>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="D" facs="https://w3id.org/vhmml/readingRoom/view/203921">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>2092</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="46r" to="48v"/><ab/></msItem>
+              </msContents>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="E" facs="https://w3id.org/vhmml/readingRoom/view/201682">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>8937</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="140v" to="144r"/><ab/></msItem>
+              </msContents>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="F" facs="https://eap.bl.uk/archive-file/EAP286-1-1-370">
+            <msDesc>
+              <msIdentifier>
+                <repository>IES</repository>
+                <idno>103</idno>
+                <altIdentifier>
+                  <idno>EAP286/1/1/370</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="59r" to="69r"/><ab/></msItem>
+              </msContents>
+            </msDesc>
+          </witness>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        
+        <lg type="stanza" n="1">
+          <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ <app><rdg wit="#A #F">ዘተለዓለ፡</rdg><rdg wit="#B #D">ዘተልዕለ፡</rdg></app> ዕበዩ፡</l>
+          <l n="2">እምዝክረ፡ ከዋክብት፡ <app><rdg wit="#A #B">አርባዕ፡</rdg><rdg wit="#D">ዐርባዕ፡</rdg><rdg wit="#F"/></app> <app><rdg wit="#A #B #F">መዋዕለ፡</rdg><rdg wit="#D">መዋዕል፡</rdg></app> ዓመታት፡ <app><rdg wit="#A">እለ፡</rdg><rdg wit="#B #D #F"/></app> <app><rdg wit="#A #D"/><rdg wit="#B #F">ዘ</rdg></app><app><rdg wit="#A #D #F">ይሌልዩ፡</rdg><rdg wit="#B">ይሌዩ፡</rdg></app></l>
+          <l n="3">እንስሳ፡ አርባዕ፡ ለእግዚአብሔር፡ ጸወርተ፡ ሰማዩ፡</l>
+          <l n="4">ለዝክረ፡ ስምክሙ፡ ቦቱ፡ ከመ፡ <app><rdg wit="#A">ይሰንቀው፡</rdg><rdg wit="#B #D">እሰንቁ፡</rdg><rdg wit="#F">ይሰንቁ፡</rdg></app> <app><rdg wit="#A">ምኅላዩ፡</rdg><rdg wit="#B">መኃልዩ፡</rdg><rdg wit="#D">ማኅልዩ፡</rdg><rdg wit="#F">ምህላዩ፡</rdg></app></l>
+          <l n="5">ነገረ፡ ጥበብ፡ <app><rdg wit="#A #B #D"/><rdg wit="#F">አእምሮ፡</rdg></app> <app><rdg wit="#A #B">በአፉየ፡</rdg><rdg wit="#D">በአልባቢነ፡</rdg><rdg wit="#F">ለአፉዩ፡</rdg></app> ደዩ፡</l>
+        </lg>
+        
+        <lg type="stanza" n="2">
+          <l n="1">ሰላም፡ <app><rdg wit="#A #D #F">ለስእርተ፡ ርእስክሙ፡</rdg><rdg wit="#B">ለሥዕርትክሙ፡</rdg></app> <app><rdg wit="#A">ከመ፡</rdg><rdg wit="#B #D">አርአያ፡</rdg><rdg wit="#F">አምሳለ፡</rdg></app> በረድ፡ ንጹሕ፡</l>
+          <l n="2"><app><rdg wit="#A #B #F">ወ</rdg><rdg wit="#D"/></app><app><rdg wit="#A #B #D">ዘ</rdg><rdg wit="#F"/></app>ኅብረ፡ ያክንት፡ ቀይሕ፡</l>
+          <l n="3">ሰረገላቲሁ፡ ኪሩቤል፡ <app><rdg wit="#A #B #D">ለአምላክ፡</rdg><rdg wit="#F">ለአምላከ፡ ሰማይ፡</rdg></app> ስቡሕ፡</l>
+          <l n="4"><app><rdg wit="#A">ጸግዉኒ፡</rdg><rdg wit="#B #F">ጸግውኒ፡</rdg><rdg wit="#D">ፀግውኒ፡</rdg></app> አጋእዝትየ፡ <app><rdg wit="#A #B #F">እምጸጋክሙ፡</rdg><rdg wit="#D">እምላዕለ፡ ጸጋክሙ፡</rdg></app> ብዙኅ፡</l>
+          <l n="5"><app><rdg wit="#A">ናኅየ፡</rdg><rdg wit="#B #D #F">ናህየ፡</rdg></app> <app><rdg wit="#A #B #D">በሰርክ፡</rdg><rdg wit="#F">በሠርክ፡</rdg></app> ወሣህለ፡ በነግህ፡</l>
+        </lg>
+        
+        <!--
+        <lg type="stanza" n="">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        -->
+        
+      </div>
+    </body>
+  </text>
+</TEI>
