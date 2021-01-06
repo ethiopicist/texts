@@ -47,6 +47,7 @@
       <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:collection"/>
       <xsl:text> </xsl:text>
       <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:idno"/>
+      <xsl:apply-templates select="tei:msDesc/tei:msIdentifier/tei:altIdentifier"/>
       <xsl:text>, ff. </xsl:text>
       <xsl:value-of select="tei:msDesc/tei:msContents/tei:msItem/tei:locus/@from"/>
       <xsl:text>-</xsl:text>
@@ -61,6 +62,13 @@
       <xsl:text>]</xsl:text>
     </li>
   </xsl:template>
+
+  <xsl:template match="tei:altIdentifier">
+    <xsl:text> (</xsl:text>
+    <xsl:value-of select="tei:idno"/>
+    <xsl:text>)</xsl:text>
+  </xsl:template>
+
 
   <xsl:template match="tei:lg">
     <p>
@@ -86,7 +94,7 @@
   </xsl:template>
 
   <xsl:template match="tei:app">
-    <span class="has-tooltip-arrow">
+    <span class="has-tooltip-arrow has-background-light">
       <xsl:attribute name="data-tooltip">
         <xsl:apply-templates select="tei:rdg"/>
       </xsl:attribute>

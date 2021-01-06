@@ -17,8 +17,8 @@
           <witness xml:id="A" facs="http://www.bl.uk/manuscripts/Viewer.aspx?ref=or_573_f055v">
             <msDesc>
               <msIdentifier>
-                <repository>British Library</repository>
-                <collection>Oriental</collection>
+                <repository>BL</repository>
+                <collection>Or.</collection>
                 <idno>573</idno>                
                 <altIdentifier>
                   <idno>Wright CXC</idno>
@@ -47,6 +47,9 @@
               <msIdentifier>
                 <repository>EMIP</repository>
                 <idno>499</idno>
+                <altIdentifier>
+                  <idno>Kaleab Addis Project 65</idno>
+                </altIdentifier>
               </msIdentifier>
               <msContents>
                 <msItem><locus from="103r" to="107v"/><ab/></msItem>
@@ -84,7 +87,7 @@
                 <repository>IES</repository>
                 <idno>103</idno>
                 <altIdentifier>
-                  <idno>EAP286/1/1/370</idno>
+                  <idno>EAP 286/1/1/370</idno>
                 </altIdentifier>
               </msIdentifier>
               <msContents>
