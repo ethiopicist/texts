@@ -18,10 +18,20 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@creativebulma/bulma-tooltip@1.2.0/dist/bulma-tooltip.min.css"/>
         <style>
           span.line:before {
-            content: attr(data-line-num);
+            content: attr(id) ". ";
           }
+
           span.line {
             display: block;
+          }
+
+          span.app:empty {
+            min-height: 12px;
+            min-width: 5px;
+          }
+
+          span.app:empty:before {
+            content: "...";
           }
         </style>
       </head>
@@ -92,11 +102,10 @@
 
   <xsl:template match="tei:l">
     <span class="line">
-      <xsl:attribute name="data-line-num">
+      <xsl:attribute name="id">
         <xsl:value-of select="../@n"/>
         <xsl:text>.</xsl:text>
         <xsl:value-of select="@n"/>
-        <xsl:text>. </xsl:text>
       </xsl:attribute>
 
       <xsl:apply-templates/>
@@ -104,12 +113,13 @@
   </xsl:template>
 
   <xsl:template match="tei:app">
-    <span class="has-tooltip-arrow has-background-light">
+    <span class="app has-tooltip-arrow has-background-light">
       <xsl:attribute name="data-tooltip">
         <xsl:apply-templates select="tei:rdg"/>
       </xsl:attribute>
 
       <xsl:value-of select="tei:rdg[1]"/>
+      <xsl:if test="tei:rdg[1]=''"><xsl:text>___</xsl:text></xsl:if>
     </span>
   </xsl:template>
 
