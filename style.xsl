@@ -50,10 +50,31 @@
             <ol type="A">
               <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listWit/tei:witness"/>
             </ol>
+          
+          </div>
+        </section>
+        
+        <section class="section">
+          <div class="container">
+          <div class="columns">
+
+          <div class="column content">
 
             <h2 class="is-4">Text</h2>
-            <xsl:apply-templates select="tei:text/tei:body/tei:div/tei:lg"/>
+            <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='text']/tei:lg"/>
 
+          </div>
+
+          <xsl:if test="tei:text/tei:body/tei:div[@type='translation']">
+          <div class="column content">
+
+            <h2 class="is-4">Translation</h2>
+            <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='translation']/tei:lg"/>
+
+          </div>
+          </xsl:if>
+
+          </div>
           </div>
         </section>
       </body>

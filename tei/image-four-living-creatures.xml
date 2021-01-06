@@ -103,7 +103,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="text">
         
         <lg type="stanza" n="1">
           <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ <app><rdg wit="#A #F">ዘተለዓለ፡</rdg><rdg wit="#B #D">ዘተልዕለ፡</rdg></app> ዕበዩ፡</l>
@@ -130,6 +130,18 @@
           <l n="5"></l>
         </lg>
         -->
+        
+      </div>
+      
+      <div type="incomplete-translation">
+        
+        <lg type="stanza" n="1">
+          <l n="1">Salutation to the memory of your names</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
         
       </div>
     </body>
