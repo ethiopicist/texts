@@ -187,6 +187,10 @@
   <xsl:template match="tei:rdg">
     <xsl:if test="position()>1"><xsl:text>; </xsl:text></xsl:if>
 
+    <xsl:if test="../tei:lem=''">
+      <xsl:text>Add. </xsl:text>
+    </xsl:if>
+
     <xsl:value-of select="."/>
     <xsl:if test=".=''"><xsl:text>Om.</xsl:text></xsl:if>
 
