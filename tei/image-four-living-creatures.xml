@@ -70,7 +70,7 @@
               </msContents>
               <history>
                 <origin>
-                  <origDate>Late 18th c.</origDate>
+                  <origDate>late 18th c.</origDate>
                 </origin>
               </history>
             </msDesc>
@@ -124,7 +124,7 @@
               <history>
                 <origin>
                   <origDate></origDate>
-                  <origPlace></origPlace>
+                  <!--<origPlace></origPlace>-->
                 </origin>
               </history>
             </msDesc>
@@ -144,7 +144,7 @@
               </msContents>
               <history>
                 <origin>
-                  <origDate>Early 18th c.</origDate>
+                  <origDate>early 18th c.</origDate>
                 </origin>
               </history>
             </msDesc>

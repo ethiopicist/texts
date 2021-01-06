@@ -88,11 +88,22 @@
       <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:collection"/>
       <xsl:text> </xsl:text>
       <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:idno"/>
+
       <xsl:apply-templates select="tei:msDesc/tei:msIdentifier/tei:altIdentifier"/>
+
+      <xsl:if test="tei:msDesc/tei:history/tei:origin/tei:origPlace">
+        <xsl:text>, </xsl:text>
+        <xsl:value-of select="tei:msDesc/tei:history/tei:origin/tei:origPlace"/>
+      </xsl:if>
+
+      <xsl:text>, </xsl:text>
+      <xsl:value-of select="tei:msDesc/tei:history/tei:origin/tei:origDate"/>
+
       <xsl:text>, ff. </xsl:text>
       <xsl:value-of select="tei:msDesc/tei:msContents/tei:msItem/tei:locus/@from"/>
       <xsl:text>-</xsl:text>
       <xsl:value-of select="tei:msDesc/tei:msContents/tei:msItem/tei:locus/@to"/>
+
       <xsl:text> [</xsl:text>
       <a target="_blank">
         <xsl:attribute name="href">
