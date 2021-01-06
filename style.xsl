@@ -21,7 +21,7 @@
             content: attr(id) ". ";
           }
 
-          span.line {
+          span.line, span.alt-line {
             display: block;
           }
 
@@ -117,14 +117,16 @@
         <xsl:value-of select="@n"/>
       </xsl:attribute>
 
-      <xsl:apply-templates select="tei:l"/>
+      <xsl:apply-templates select="tei:l|tei:app/tei:lem/tei:l|tei:app/tei:rdg/tei:l"/>
     </p>
   </xsl:template>
 
-  <xsl:template match="tei:l">
+  <xsl:template match="tei:lg/tei:l|tei:lem/tei:l">
     <span class="line">
       <xsl:attribute name="id">
         <xsl:value-of select="../@n"/>
+        <xsl:if test="name(..)='lem'"><xsl:value-of select="../../../@n"/></xsl:if>
+
         <xsl:text>.</xsl:text>
         <xsl:value-of select="@n"/>
       </xsl:attribute>
@@ -133,14 +135,41 @@
     </span>
   </xsl:template>
 
+  <xsl:template match="tei:rdg/tei:l">
+    <span class="alt-line pl-4">
+      <xsl:value-of select="translate(translate(../@wit,'#',''),' ','')"/>
+      <xsl:text>] </xsl:text>
+
+      <xsl:apply-templates/>
+      <xsl:if test=".=''"><em>Om.</em></xsl:if>
+    </span>
+  </xsl:template>
+
   <xsl:template match="tei:app">
-    <span class="app has-tooltip-arrow has-background-light">
+    <span>
       <xsl:attribute name="data-tooltip">
         <xsl:apply-templates select="tei:rdg"/>
       </xsl:attribute>
 
-      <xsl:value-of select="tei:rdg[1]"/>
-      <xsl:if test="tei:rdg[1]=''"><xsl:text>___</xsl:text></xsl:if>
+      <xsl:choose>
+        <xsl:when test="tei:lem">
+          <xsl:attribute name="class">
+            <xsl:text>app has-tooltip-arrow has-background-light</xsl:text>
+          </xsl:attribute>
+
+          <xsl:value-of select="tei:lem"/>
+          <xsl:if test="tei:lem=''"><xsl:text>__</xsl:text></xsl:if>
+
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:attribute name="class">
+            <xsl:text>app has-tooltip-arrow has-background-warning-light</xsl:text>
+          </xsl:attribute>
+
+          <xsl:value-of select="tei:rdg[1]"/>
+          <xsl:if test="tei:rdg[1]=''"><xsl:text>__</xsl:text></xsl:if>
+        </xsl:otherwise>
+      </xsl:choose>
     </span>
   </xsl:template>
 
