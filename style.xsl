@@ -8,7 +8,12 @@
       <head>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <title><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></title>
+        <title>
+          <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang='gez']"/>
+          <xsl:text> (</xsl:text>
+          <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang='en']"/>
+          <xsl:text>)</xsl:text>
+        </title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@creativebulma/bulma-tooltip@1.2.0/dist/bulma-tooltip.min.css"/>
         <style>
@@ -24,14 +29,19 @@
         <section class="section">
           <div class="container content">
 
-            <h1 class="title is-3"><xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></h1>
+            <h1 class="title is-3">
+              <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang='gez']"/>
+            </h1>
+            <h2 class="subtitle is-5">
+              <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang='en']"/>
+            </h2>
 
-            <h2 class="title is-4">Witnesses</h2>
+            <h2 class="is-4">Witnesses</h2>
             <ol type="A">
               <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listWit/tei:witness"/>
             </ol>
 
-            <h2 class="title is-4">Text</h2>
+            <h2 class="is-4">Text</h2>
             <xsl:apply-templates select="tei:text/tei:body/tei:div/tei:lg"/>
 
           </div>

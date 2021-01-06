@@ -6,7 +6,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>መልክአ፡ አርባዕቱ፡ እንስሳ፡ (Image of the Four Living Creatures)</title>
+        <title xml:lang="gez">መልክአ፡ አርባዕቱ፡ እንስሳ፡</title>
+        <title xml:lang="en">Image of the Four Living Creatures</title>
       </titleStmt>
       <publicationStmt>
         <authority></authority>
