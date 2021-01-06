@@ -96,8 +96,13 @@
   </xsl:template>
 
   <xsl:template match="tei:rdg">
+    <xsl:if test="position()>1"><xsl:text>; </xsl:text></xsl:if>
+
     <xsl:value-of select="."/>
-    <xsl:value-of select="substring-after(@wit, '#')"/>
+    <xsl:if test=".=''"><xsl:text>Om.</xsl:text></xsl:if>
+
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="translate(translate(@wit,'#',''),' ','')"/>
   </xsl:template>
 
 </xsl:stylesheet>
