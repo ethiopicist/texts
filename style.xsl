@@ -56,27 +56,41 @@
         
         <section class="section">
           <div class="container">
-          <div class="columns">
+            <div class="columns">
 
-          <div class="column content">
+              <div class="column content">
 
-            <h2 class="is-4">Text</h2>
-            <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='text']/tei:lg"/>
+                <h2 class="is-4">Text</h2>
+                <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='text']/tei:lg"/>
 
-          </div>
+              </div>
 
-          <xsl:if test="tei:text/tei:body/tei:div[@type='translation']">
-          <div class="column content">
+              <xsl:if test="tei:text/tei:body/tei:div[@type='translation']">
+              <div class="column content">
 
-            <h2 class="is-4">Translation</h2>
-            <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='translation']/tei:lg"/>
+                <h2 class="is-4">Translation</h2>
+                <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='translation']/tei:lg"/>
 
-          </div>
-          </xsl:if>
+              </div>
+              </xsl:if>
 
-          </div>
+            </div>
           </div>
         </section>
+
+        <footer class="footer">
+          <div class="container">
+            <xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:respStmt"/>
+            © <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:date"/>.
+            <br/>
+            <a target="_blank">
+              <xsl:attribute name="href">
+                <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:licence/@target"/>
+              </xsl:attribute>
+              <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability/tei:licence"/>
+            </a>
+          </div>
+        </footer>
       </body>
     </html>
   </xsl:template>
@@ -196,6 +210,11 @@
 
     <xsl:text> </xsl:text>
     <xsl:value-of select="translate(translate(@wit,'#',''),' ','')"/>
+  </xsl:template>
+
+  <xsl:template match="tei:respStmt/tei:name">
+    <xsl:value-of select="."/>.
+    <br/>
   </xsl:template>
 
 </xsl:stylesheet>

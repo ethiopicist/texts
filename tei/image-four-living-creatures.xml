@@ -8,9 +8,19 @@
       <titleStmt>
         <title xml:lang="gez">መልክአ፡ አርባዕቱ፡ እንስሳ፡</title>
         <title xml:lang="en">Image of the Four Living Creatures</title>
+        
+        <respStmt>
+          <resp>Manuscripts transcribed and encoded in TEI by</resp>
+          <name>Augustine Dickinson</name>
+        </respStmt>
+        <respStmt>
+          <resp>Critical edition and translation based on discussions from the</resp>
+          <name>"ጉባኤ፡ አንባብያነ፡ መልክአ፡ ጉባኤ፡" reading group</name>
+        </respStmt>
       </titleStmt>
       <publicationStmt>
-        <authority></authority>
+        <authority/>
+        <date>2021</date>
         <availability>
           <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.</licence>
         </availability>
@@ -572,7 +582,7 @@
           <l n="1">Salutation to your breath, its colour is invisible</l>
           <l n="2">And its effect is untouchable.</l>
           <l n="3">Four Creatures, bearers of the Lord's throne,</l>
-          <l n="4">Men of blood conspire against me;</l>
+          <l n="4">If men of blood conspire evil against me,</l>
           <l n="5">Let your breath spread flames upon them.</l>
         </lg>
         
