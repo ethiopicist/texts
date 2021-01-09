@@ -263,7 +263,7 @@
         </lg>
         
         <lg type="stanza" n="5">
-          <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ <app><rdg wit="#A">፬</rdg><rdg wit="#B #C">ኪሩባውያን</rdg><rdg wit="#D">ርቡዐነ፡ ገጽ፡</rdg><rdg wit="#E #F #H">ርቡዓነ፡ ገጽ፡</rdg><rdg wit="#G">፬እ</rdg></app> እንስሳ፡</l>
+          <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ <app><lem wit="#E #F #H">ርቡዓነ፡ ገጽ፡</lem><rdg wit="#A">፬</rdg><rdg wit="#B #C">ኪሩባውያን</rdg><rdg wit="#D">ርቡዐነ፡ ገጽ፡</rdg><rdg wit="#G">፬እ</rdg></app> እንስሳ፡</l>
           <app>
             <lem wit="#B #C #D #F #H">
               <l n="2"><app><lem wit="#B #C">ገጸ፡ ላህም፡</lem><rdg wit="#D">ዘላህም፡</rdg><rdg wit="#F #H">ዘአምሳለ፡ ላህም፡</rdg></app> <app><lem wit="#B #F #H">መግዝዕ፡</lem><rdg wit="#C">መግእዝዕ፡</rdg><rdg wit="#D"/></app> <app><lem wit="#B #C #D #H">ወገጸ፡</lem><rdg wit="#F">ወበገጸ፡</rdg></app> ግሩም፡ አንበሳ፡</l>
@@ -609,7 +609,7 @@
           </app>
           <l n="3">Creatures who carry the throne of the spiritual (kingdom),</l>
           <l n="4">Adorn my face with the adornment of your face</l>
-          <l n="5">So that I may resemble a groom who has gone out from the bridal chamber.</l>
+          <l n="5">So that I may resemble a bridegroom who has gone out from the bridal chamber.</l>
         </lg>
         
       </div>
