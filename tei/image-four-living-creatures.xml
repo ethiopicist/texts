@@ -423,11 +423,11 @@
         </lg>
         
         <lg type="stanza" n="17">
-          <l n="1">ሰላም፡ <app><rdg wit="#A #D #G">ለክሳድክሙ፡</rdg><rdg wit="#B #C #E #F">ለክሳውዲክሙ፡</rdg><rdg wit="#H">ለክሣድክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #F #G #H">መልዕልተ፡</lem><rdg wit="#E"/></app> <app><lem wit="#A #B #C #D #E #F #G">መታክፍ፡</lem><rdg wit="#H">መታክፍት፡</rdg></app> እለ፡ ይነብራ፡</l>
-          <l n="2"><app><lem wit="#A #B #C #E #F #G #H">መኰንነ፡</lem><rdg wit="#D">መኵንነ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #H">አባል፡</lem><rdg wit="#G">ዐባል፡</rdg></app> <app><rdg wit="#A #C #E">ርእሰ፡</rdg><rdg wit="#B #D #G #H">ርእስ፡</rdg><rdg wit="#F">ርእሶ፡</rdg></app> <app><lem wit="#A #B #C #E #G">እንዘ፡</lem><rdg wit="#D #F #H">እለ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H">ይጸውራ፡</lem><rdg wit="#D">ይነብራ፡</rdg></app></l>
+          <l n="1">ሰላም፡ <app><lem wit="#B #C #E #F">ለክሳውዲክሙ፡</lem><rdg wit="#A #D #G">ለክሳድክሙ፡</rdg><rdg wit="#H">ለክሣድክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #F #G #H">መልዕልተ፡</lem><rdg wit="#E"/></app> <app><lem wit="#A #B #C #D #E #F #G">መታክፍ፡</lem><rdg wit="#H">መታክፍት፡</rdg></app> እለ፡ ይነብራ፡</l>
+          <l n="2"><app><lem wit="#A #B #C #E #F #G #H">መኰንነ፡</lem><rdg wit="#D">መኵንነ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #H">አባል፡</lem><rdg wit="#G">ዐባል፡</rdg></app> <app><lem wit="#A #C #E">ርእሰ፡</lem><rdg wit="#B #D #G #H">ርእስ፡</rdg><rdg wit="#F">ርእሶ፡</rdg></app> <app><lem wit="#A #B #C #E #G">እንዘ፡</lem><rdg wit="#D #F #H">እለ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H">ይጸውራ፡</lem><rdg wit="#D">ይነብራ፡</rdg></app></l>
           <l n="3"><app><lem wit="#A #B #C #D #F #G #H">አምሳላቲክሙ፡</lem><rdg wit="#E">አባላቲክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H">ቅድመ፡</lem><rdg wit="#F"/></app> ኪሩባውያን፡ ሐራ፡</l>
-          <l n="4"><app><rdg wit="#A"/><rdg wit="#B #C #E #F #H">አመረ፡</rdg><rdg wit="#D">ለአመረ፡</rdg><rdg wit="#G">አእመረ፡</rdg></app> <app><rdg wit="#A">ገብረ፡</rdg><rdg wit="#B #E #F">በግብረ፡</rdg><rdg wit="#C">በግረ፡</rdg><rdg wit="#D">በጊዜ፡</rdg><rdg wit="#G">ግብረ፡</rdg><rdg wit="#H">በግብር፡</rdg></app> <app><rdg wit="#A">ምእናመ፡</rdg><rdg wit="#B #C #D #G #H">ምእናም፡</rdg><rdg wit="#E">ምእናሙ፡</rdg><rdg wit="#F">ምእመና፡</rdg></app> <app><lem wit="#A #B #D #E #F #G #H">ባስልኤል፡</lem><rdg wit="#C">ባስኤል፡</rdg></app> <app><rdg wit="#A #B #E #H">ዘኡራ፡</rdg><rdg wit="#F">ዘዑራ፡</rdg><rdg wit="#C #D">ዘኦራ፡</rdg><rdg wit="#G">ዘቡራ፡</rdg></app></l>
-          <l n="5"><app><rdg wit="#A">በአፃብዒሃ፡</rdg><rdg wit="#B #C #D #F #H">በአዕፃዳቲሃ፡</rdg><rdg wit="#E">በአጽባዕቲሃ፡</rdg><rdg wit="#G">በአዕፃዲሃ፡</rdg></app> <app><rdg wit="#A #B #C #E #H">ዓሥር፡</rdg><rdg wit="#D">አሥር፡</rdg><rdg wit="#F">ዐሥር፡</rdg><rdg wit="#G">አስር፡</rdg></app> <app><rdg wit="#A #B #C #F #G #H">ለብሊት፡</rdg><rdg wit="#D">ዕብሊት፡</rdg><rdg wit="#E">ለብእሲት፡</rdg></app> ደብተራ፡</l>
+          <l n="4"><app><lem wit="#B #C #E #F #H">አመረ፡</lem><rdg wit="#A"/><rdg wit="#D">ለአመረ፡</rdg><rdg wit="#G">አእመረ፡</rdg></app> <app><lem wit="#B #E #F">በግብረ፡</lem><rdg wit="#A">ገብረ፡</rdg><rdg wit="#C">በግረ፡</rdg><rdg wit="#D">በጊዜ፡</rdg><rdg wit="#G">ግብረ፡</rdg><rdg wit="#H">በግብር፡</rdg></app> <app><rdg wit="#A">ምእናመ፡</rdg><rdg wit="#B #C #D #G #H">ምእናም፡</rdg><rdg wit="#E">ምእናሙ፡</rdg><rdg wit="#F">ምእመና፡</rdg></app> <app><lem wit="#A #B #D #E #F #G #H">ባስልኤል፡</lem><rdg wit="#C">ባስኤል፡</rdg></app> <app><rdg wit="#A #B #E #H">ዘኡራ፡</rdg><rdg wit="#F">ዘዑራ፡</rdg><rdg wit="#C #D">ዘኦራ፡</rdg><rdg wit="#G">ዘቡራ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#B #C #D #F #H">በአዕፃዳቲሃ፡</lem><rdg wit="#A">በአፃብዒሃ፡</rdg><rdg wit="#E">በአጽባዕቲሃ፡</rdg><rdg wit="#G">በአዕፃዲሃ፡</rdg></app> <app><rdg wit="#A #B #C #E #H">ዓሥር፡</rdg><rdg wit="#D">አሥር፡</rdg><rdg wit="#F">ዐሥር፡</rdg><rdg wit="#G">አስር፡</rdg></app> <app><rdg wit="#A #B #C #F #G #H">ለብሊት፡</rdg><rdg wit="#D">ዕብሊት፡</rdg><rdg wit="#E">ለብእሲት፡</rdg></app> ደብተራ፡</l>
         </lg>
         
         <lg type="stanza" n="18">
@@ -654,9 +654,17 @@
         <lg type="stanza" n="16">
           <l n="1">Salutation to your throat, which shouts holiness.</l>
           <l n="2">Creatures of fire, Cherubim, fountains of glorification and praise</l>
-          <l n="3">From the face of your shining beauty to </l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="3">From the face of your shining beauty, three in five lights</l>
+          <l n="4">When she became human</l>
+          <l n="5">The queen of the night, Bǝnāse, became dull.</l>
+        </lg>
+        
+        <lg type="stanza" n="17">
+          <l n="1">Salutation to your necks, which sit atop your shoulders,</l>
+          <l n="2">As they carry your head, the judge of flesh.</l>
+          <l n="3">Your likenesses, before the cherubic army,</l>
+          <l n="4">Bezalel, (son) of Uri, through the craft of weaving, displayed</l>
+          <l n="5">On the ten courtyards of the camp of old.</l>
         </lg>
         
         <!--
