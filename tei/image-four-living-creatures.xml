@@ -311,7 +311,7 @@
             </app>
           </l>
           <l n="3">ንጉሠ፡ ይሁዳ፡ ሰሎሞን፡ <app><lem wit="#A #B #C #D #E #G #H">ወመልአከ፡ ኤፍሬም፡</lem><rdg wit="#I">መልአከ፡ ኤፍሬም፡</rdg><rdg wit="#F"/></app> <app><lem wit="#B #G">ዘደወለ፡ ምሕሳ፡</lem><rdg wit="#A #C">ዘወለምሕሳ፡</rdg><rdg wit="#D #I">ዘወልደ፡ ምሕሳ፡</rdg><rdg wit="#E #F #H">ዘወለ፡ ምሕሳ፡</rdg></app></l>
-          <l n="4"><app><lem wit="#D #I">አግለፈ፡</lem><rdg wit="#A #B #C #F #G #H">ገለፈ፡</rdg><rdg wit="#E">አግበረ፡</rdg></app> <app><lem wit="#A #B #C #D #E #H">አምሳሊክሙ፡</lem><rdg wit="#F">አምሳሌ፡ ቲክሙ፡</rdg><rdg wit="#G">ምስሌክሙ፡</rdg><rdg wit="#I">አርአያክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H">ለቤተ፡</lem><rdg wit="#F #I">ለእሙ፡</rdg></app> <app><rdg wit="#A #B #D #E #G">አምላኩ፡</rdg><rdg wit="#C #H">አምላክ፡</rdg><rdg wit="#F #I"/></app> በከርሣ፡</l>
+          <l n="4"><app><lem wit="#D #I">አግለፈ፡</lem><rdg wit="#A #B #C #F #G #H">ገለፈ፡</rdg><rdg wit="#E">አግበረ፡</rdg></app> <app><lem wit="#A #B #C #D #E #H">አምሳሊክሙ፡</lem><rdg wit="#F">አምሳሌ፡ ቲክሙ፡</rdg><rdg wit="#G">ምስሌክሙ፡</rdg><rdg wit="#I">አርአያክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H">ለቤተ፡</lem><rdg wit="#F #I">ለእሙ፡</rdg></app> <app><lem wit="#A #B #D #E #G">አምላኩ፡</lem><rdg wit="#C #H">አምላክ፡</rdg><rdg wit="#F #I"/></app> በከርሣ፡</l>
           <l n="5">ድኅረ፡ <app><lem wit="#A #B #C #D #E #G #H #I">ተፈጸመ፡</lem><rdg wit="#F">ተፈጸሙ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I">ዓመታት፡</lem><rdg wit="#D">ሱባዕያት፡</rdg></app> <app><lem wit="#H">ሠላሳ፡</lem><rdg wit="#A">፴ሳ፡</rdg><rdg wit="#B #C #E #F">፴፡</rdg><rdg wit="#D #G">ስሳ፡</rdg><rdg wit="#I">እስሳ፡</rdg></app></l>
         </lg>
         
@@ -326,7 +326,7 @@
         <lg type="stanza" n="8">
           <l n="1">ሰላም፡ <app><lem wit="#A #B #C #E #G">ለአእዛኒክሙ፡</lem><rdg wit="#D #F #H #I">ለአዕዛኒክሙ፡</rdg></app> እለ፡ <app><lem wit="#B #C #E #I">ያጸምአ፡</lem><rdg wit="#A #F #G #H">ያጸምዓ፡</rdg><rdg wit="#D">ያጸምዐ፡</rdg></app> ንባቦ፡</l>
           <l n="2"><app><lem wit="#A #B #C #E #F #G #H">ለመንበረ፡ ንግሡ፡</lem><rdg wit="#D">ለንጉሥ፡</rdg><rdg wit="#I">መንበረ፡ ንግሡ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H">ስቡሕ፡</lem><rdg wit="#I">ስቡሐ፡</rdg></app> ዲበ፡ አክናፊክሙ፡ <app><rdg wit="#A #B #C #F #G">ለዘረበቦ፡</rdg><rdg wit="#D #H #I">ዘረበቦ፡</rdg><rdg wit="#E">ለዘ፡ ረበቦ፡</rdg></app></l>
-          <l n="3">አቅርንተ፡ ቅዳሴ፡ <app><rdg wit="#A #G">አርባዕ፡</rdg><rdg wit="#B #C #D #E #F #H #I">ኪሩቤል፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ወመሰናቅው፡</lem><rdg wit="#F">ወበሰናቅው፡</rdg></app> <app><lem wit="#A #B #D #E #F #H #I">ዘቃለ፡</lem><rdg wit="#C">ዘቀርነ፡</rdg><rdg wit="#G">ለቃለ፡</rdg></app> የብቦ፡</l>
+          <l n="3">አቅርንተ፡ ቅዳሴ፡ <app><lem wit="#B #C #D #E #F #H #I">ኪሩቤል፡</lem><rdg wit="#A #G">አርባዕ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ወመሰናቅው፡</lem><rdg wit="#F">ወበሰናቅው፡</rdg></app> <app><lem wit="#A #B #D #E #F #H #I">ዘቃለ፡</lem><rdg wit="#C">ዘቀርነ፡</rdg><rdg wit="#G">ለቃለ፡</rdg></app> የብቦ፡</l>
           <l n="4"><app><lem wit="#A #B #C #D #F #G #H #I">መኑሂ፡</lem><rdg wit="#E">መኑ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">እመላእክት፡</lem><rdg wit="#F">ዘመላእክት፡</rdg></app> ሞገሰ፡ <app><lem wit="#A #C #D #E #F #G #H #I">ረኪቦ፡</lem><rdg wit="#B">ረከቦ፡</rdg></app></l>
           <l n="5"><app><lem wit="#A #B #C #D #E #G #H #I">ኀበ፡</lem><rdg wit="#F">አመ፡</rdg></app> <app><lem wit="#A #B #C #G">ዓቅምክሙ፡</lem><rdg wit="#D #E #F #H #I">አቅምክሙ፡</rdg></app> ዘይበጽሕ፡ አልቦ፡</l>
         </lg>
@@ -775,19 +775,8 @@
           <l n="5">So that I may resemble a bridegroom who has gone out from the bridal chamber<note>cf. Ps. 18:5</note>.</l>
         </lg>
         
-      </div>
-      <div type="incomplete-translation">
-        
-        <lg type="stanza" n="1">
-          <l n="1">Salutation to your creation from wind and fire</l>
-          <l n="2">On Sunday along with the heavens and the earth.</l>
-          <l n="3">Creatures, you who sustain the throne of the Trinity upon (your) hand(s),</l>
-          <l n="4">Grant that I may be a servant to you</l>
-          <l n="5">So that I may stand nearby with your company.</l>
-        </lg>
-        
         <lg type="stanza" n="6">
-          <l n="1">Salutation to your eyelashes, cherubic Creatures,</l>
+          <l n="1">Salutation to your eyelashes, four-faced Creatures,</l>
           <l n="2">The face of an ox and an eagle, the face of a man and the face of a lion.</l>
           <l n="3">Solomon, the King of Judah, and the messenger of Ephraim, of the region of Mǝḥsa,</l>
           <l n="4">Had your likeness engraved in the interior of the Temple of his God<note>The image of the Four Living Creatures carved in the Temple of Solomon is the subject of one of the miracles of Jesus (PO 14.5, no. 14)</note></l>
@@ -797,17 +786,28 @@
         <lg type="stanza" n="7">
           <l n="1">Salutation, salutation to the eyes of your face</l>
           <l n="2">Cherubim, siblings of lightning and companions of electrum<note>cf. Ez. 1:4</note>.</l>
-          <l n="3">Your appearance before a window.</l>
+          <l n="3">Your appearance upon the propitiatory (of the Ark),</l>
           <l n="4">Two years after Egypt was destroyed,</l>
           <l n="5">Moses had made a cherub of wood.</l>
         </lg>
         
         <lg type="stanza" n="8">
           <l n="1">Salutation to your ears, which are attentive to the utterance</l>
-          <l n="2">Of the throne of glorified majesty which he spread out upon your wings.</l>
-          <l n="3">Trumpets of sanctity, Cherubim, and harps of words of praise,</l>
-          <l n="4">None of the angels, having found grace,</l>
-          <l n="5">Have arrived at your station.</l>
+          <l n="2">From the throne of his glorified kingdom, which he established out upon your wings.</l>
+          <l n="3">Trumpets of praise, Cherubim, and lyres of joyful sound,</l>
+          <l n="4">None of the angels, having received grace,</l>
+          <l n="5">Have reached your station.</l>
+        </lg>
+        
+      </div>
+      <div type="incomplete-translation">
+        
+        <lg type="stanza" n="1">
+          <l n="1">Salutation to your creation from wind and fire</l>
+          <l n="2">On Sunday along with the heavens and the earth.</l>
+          <l n="3">Creatures, you who sustain the throne of the Trinity upon (your) hand(s),</l>
+          <l n="4">Grant that I may be a servant to you</l>
+          <l n="5">So that I may stand nearby with your company.</l>
         </lg>
         
         <lg type="stanza" n="9">
