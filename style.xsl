@@ -17,6 +17,10 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@creativebulma/bulma-tooltip@1.2.0/dist/bulma-tooltip.min.css"/>
         <style>
+          span.alt-stanza {
+            display: block;
+          }
+
           span.line:before {
             content: attr(id) ". ";
           }
@@ -61,7 +65,7 @@
               <div class="column content">
 
                 <h2 class="is-4">Text</h2>
-                <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='text']/tei:lg"/>
+                <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='text']/tei:lg|tei:text/tei:body/tei:div[@type='text']/tei:app[@type='stanza']"/>
 
               </div>
 
@@ -75,6 +79,15 @@
               </xsl:if>
 
             </div>
+          </div>
+        </section>
+
+        <section class="section">
+          <div class="container content">
+            <h2 class="is-4">Notes</h2>
+            <ol>
+              <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='translation']//tei:note" mode="endnote"/>
+            </ol>
           </div>
         </section>
 
@@ -135,8 +148,36 @@
     <xsl:text>)</xsl:text>
   </xsl:template>
 
+  
+  <xsl:template match="tei:app[@type='stanza']">
+    <p>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
 
-  <xsl:template match="tei:lg">
+  <xsl:template match="tei:app[@type='stanza']/tei:rdg">
+    <xsl:choose>
+      <xsl:when test=".=''">
+        <xsl:text>[</xsl:text>
+        <em>Stanza om. in </em>
+        <xsl:value-of select="translate(translate(@wit,'#',''),' ','')"/>
+        <xsl:text>]</xsl:text>
+      </xsl:when>
+
+      <xsl:otherwise>
+        <span class="alt-stanza mt-4 pl-4">
+          <xsl:text>[</xsl:text>
+          <em>Alt. stanza in </em>
+          <xsl:value-of select="translate(translate(@wit,'#',''),' ','')"/>
+          <xsl:text>]</xsl:text>
+          <xsl:apply-templates/>
+        </span>
+      </xsl:otherwise>
+    </xsl:choose>
+
+  </xsl:template>
+
+  <xsl:template match="tei:div/tei:lg">
     <p>
       <xsl:attribute name="id">
         <xsl:value-of select="@n"/>
@@ -146,12 +187,10 @@
     </p>
   </xsl:template>
 
-  <xsl:template match="tei:lg/tei:l|tei:lem/tei:l">
+  <xsl:template match="tei:l">
     <span class="line">
       <xsl:attribute name="id">
         <xsl:value-of select="../@n"/>
-        <xsl:if test="name(..)='lem'"><xsl:value-of select="../../../@n"/></xsl:if>
-
         <xsl:text>.</xsl:text>
         <xsl:value-of select="@n"/>
       </xsl:attribute>
@@ -160,9 +199,14 @@
     </span>
   </xsl:template>
 
-  <xsl:template match="tei:rdg/tei:l">
+  <xsl:template match="tei:app[@type='line']/tei:lem">
+    <xsl:apply-templates/>
+    <xsl:if test=".=''"><em>Om.</em></xsl:if>
+  </xsl:template>
+
+  <xsl:template match="tei:app[@type='line']/tei:rdg">
     <span class="alt-line pl-4">
-      <xsl:value-of select="translate(translate(../@wit,'#',''),' ','')"/>
+      <xsl:value-of select="translate(translate(@wit,'#',''),' ','')"/>
       <xsl:text>] </xsl:text>
 
       <xsl:apply-templates/>
@@ -170,7 +214,7 @@
     </span>
   </xsl:template>
 
-  <xsl:template match="tei:app">
+  <xsl:template match="tei:app[not(@type)]">
     <span>
       <xsl:attribute name="data-tooltip">
         <xsl:apply-templates select="tei:rdg"/>
@@ -198,7 +242,7 @@
     </span>
   </xsl:template>
 
-  <xsl:template match="tei:rdg">
+  <xsl:template match="tei:app[not(@type)]/tei:rdg">
     <xsl:if test="position()>1"><xsl:text>; </xsl:text></xsl:if>
 
     <xsl:if test="../tei:lem=''">
@@ -211,6 +255,50 @@
     <xsl:text> </xsl:text>
     <xsl:value-of select="translate(translate(@wit,'#',''),' ','')"/>
   </xsl:template>
+
+
+  <xsl:template match="tei:div[@type='translation']//tei:note">
+    <sup>
+      <a>
+        <xsl:attribute name="name">
+          <xsl:text>n-</xsl:text>
+          <xsl:number level="any" count="tei:note" format="1"/>
+          <xsl:text>-ref</xsl:text>
+        </xsl:attribute>
+
+        <xsl:attribute name="href">
+          <xsl:text>#n-</xsl:text>
+          <xsl:number level="any" count="tei:note" format="1"/>
+        </xsl:attribute>
+
+        <xsl:number level="any" count="tei:note" format="1"/>
+      </a>
+    </sup>
+  </xsl:template>
+
+  <xsl:template match="tei:div[@type='translation']//tei:note" mode="endnote">
+    <li>
+
+      <a>
+        <xsl:attribute name="href">
+          <xsl:text>#n-</xsl:text>
+          <xsl:number level="any" count="tei:note" format="1"/>
+          <xsl:text>-ref</xsl:text>
+        </xsl:attribute>
+
+        <xsl:attribute name="name">
+          <xsl:text>n-</xsl:text>
+          <xsl:number level="any" count="tei:note" format="1"/>
+        </xsl:attribute>
+
+        <xsl:text>^</xsl:text>
+      </a>
+
+      <xsl:text> </xsl:text>
+      <xsl:apply-templates/>
+    </li>
+  </xsl:template>
+
 
   <xsl:template match="tei:respStmt/tei:name">
     <xsl:value-of select="."/>.
