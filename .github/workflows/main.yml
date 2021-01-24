@@ -1,0 +1,17 @@
+name: Lint
+
+on: [push]
+
+jobs:
+  xml-linters:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@main
+    - name: Download schema
+      run: wget https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd
+    - name: Lint xml
+      uses: ChristophWurst/xmllint-action@v1
+      with:
+        xml-file: ./tei/image-four-living-creatures.xml
+        xml-schema-file: ./tei_all.xsd
