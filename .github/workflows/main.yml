@@ -8,8 +8,14 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@main
-    - name: Download schema
+    - name: Download schema file 1
       run: wget https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd
+    - name: Download schema file 2
+      run: wget https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all_dcr.xsd
+    - name: Download schema file 3
+      run: wget https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all_teix.xsd
+    - name: Download schema file 4
+      run: wget https://tei-c.org/release/xml/tei/custom/schema/xsd/tei_all_xml.xsd
     - name: Lint xml
       uses: ChristophWurst/xmllint-action@v1
       with:
