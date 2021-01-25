@@ -198,7 +198,7 @@
             </msDesc>
           </witness>
           
-          <!--<witness xml:id="J" facs="https://masaheft.eu/manuscripts/EMIP00764/viewer">
+          <witness xml:id="J" facs="https://masaheft.eu/manuscripts/EMIP00764/viewer">
             <msDesc>
               <msIdentifier>
                 <repository>EMIP</repository>
@@ -216,7 +216,7 @@
                 </origin>
               </history>
             </msDesc>
-          </witness>-->
+          </witness>
           
         </listWit>
       </sourceDesc>
@@ -236,128 +236,129 @@
               <l n="5">ከመ፡ እቁም፡ ምስሌክሙ፡ ድርገተ፡ በዓውድ፡</l>
             </lg>
           </lem>
-          <rdg wit="#A #B #C #D #E #F #G #H"/>
+          <rdg wit="#A #B #C #D #E #F #G #H #J"/>
         </app>
         
         <lg type="stanza" n="2">
-          <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ <app><lem wit="#F">ዘተለዐለ፡</lem><rdg wit="#A #E #G #I">ዘተለዓለ፡</rdg><rdg wit="#B #D">ዘተልዕለ፡</rdg><rdg wit="#C">ዘተለዓለዓለ፡</rdg><rdg wit="#H">ዘተልዕለ፡</rdg></app> ዕበዩ፡</l>
-          <l n="2">እምዝክረ፡ ከዋክብት፡ <app><lem wit="#A #B #C #E #F #H #I">አርባዕ፡</lem><rdg wit="#D">ዐርባዕ፡</rdg><rdg wit="#G"/></app> <app><lem wit="#A #B #C #E #F #G #H #I">መዋዕለ፡</lem><rdg wit="#D">መዋዕል፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ዓመታት፡</lem><rdg wit="#F">አመታት፡</rdg></app> <app><lem wit="#F #G">ዘይሌልዩ፡</lem><rdg wit="#A">እለ፡ ይሌልዩ፡</rdg><rdg wit="#B">ዘይሌሉ፡</rdg><rdg wit="#C">ዘይሔልዩ፡</rdg><rdg wit="#D">ይሌልዩ፡</rdg><rdg wit="#E #H">ዘይትሌለዩ፡</rdg><rdg wit="#I">እለ፡ ይትሌዩ፡</rdg></app></l>
-          <l n="3">እንስሳ፡ <app><lem wit="#A #B #C #D #F #G #H">አርባዕ፡</lem><rdg wit="#E">፬፡</rdg><rdg wit="#I">፬ቱ፡</rdg></app> ለእግዚአብሔር፡ <app><lem wit="#A #B #C #D #E #F #G #I">ጸወርተ፡</lem><rdg wit="#H"/></app> ሰማዩ፡</l>
-          <l n="4">ለዝክረ፡ ስምክሙ፡ <app><lem wit="#A #B #C #D #E #G #H #I">ቦቱ፡</lem><rdg wit="#F">ውስተ፡ አፉየ፡</rdg></app> ከመ፡ <app><lem wit="#A #E">ይሰንቀው፡</lem><rdg wit="#B #C #D">እሰንቁ፡</rdg><rdg wit="#F">ትሰንቅው፡</rdg><rdg wit="#G">ይሰንቁ፡</rdg><rdg wit="#H">ይሰንቅዉ፡</rdg><rdg wit="#I">ይሰነቅው፡</rdg></app> <app><lem wit="#C #D #E #H #I">ማኅልዩ፡</lem><rdg wit="#A">ምኅላዩ፡</rdg><rdg wit="#B">መኃልዩ፡</rdg><rdg wit="#F #G">ምህላዩ፡</rdg></app></l>
+          <l n="1">ሰላም፡ ለዝክረ፡ ስምክሙ፡ <app><lem wit="#F">ዘተለዐለ፡</lem><rdg wit="#A #E #G #I #J">ዘተለዓለ፡</rdg><rdg wit="#B #D">ዘተልዕለ፡</rdg><rdg wit="#C">ዘተለዓለዓለ፡</rdg><rdg wit="#H">ዘተልዕለ፡</rdg></app> ዕበዩ፡</l>
+          <l n="2">እምዝክረ፡ ከዋክብት፡ <app><lem wit="#A #B #C #E #F #H #I #J">አርባዕ፡</lem><rdg wit="#D">ዐርባዕ፡</rdg><rdg wit="#G"/></app> <app><lem wit="#A #B #C #E #F #G #H #I #J">መዋዕለ፡</lem><rdg wit="#D">መዋዕል፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I #J">ዓመታት፡</lem><rdg wit="#F">አመታት፡</rdg></app> <app><lem wit="#F #G #J">ዘይሌልዩ፡</lem><rdg wit="#A">እለ፡ ይሌልዩ፡</rdg><rdg wit="#B">ዘይሌሉ፡</rdg><rdg wit="#C">ዘይሔልዩ፡</rdg><rdg wit="#D">ይሌልዩ፡</rdg><rdg wit="#E #H">ዘይትሌለዩ፡</rdg><rdg wit="#I">እለ፡ ይትሌዩ፡</rdg></app></l>
+          <l n="3">እንስሳ፡ <app><lem wit="#A #B #C #D #F #G #H #J">አርባዕ፡</lem><rdg wit="#E">፬፡</rdg><rdg wit="#I">፬ቱ፡</rdg></app> ለእግዚአብሔር፡ <app><lem wit="#A #B #C #D #E #F #G #I #J">ጸወርተ፡</lem><rdg wit="#H"/></app> ሰማዩ፡</l>
+          <l n="4">ለዝክረ፡ ስምክሙ፡ <app><lem wit="#A #B #C #D #E #G #H #I">ቦቱ፡</lem><rdg wit="#F #J">ውስተ፡ አፉየ፡</rdg></app> ከመ፡ <app><lem wit="#A #E">ይሰንቀው፡</lem><rdg wit="#B #C #D">እሰንቁ፡</rdg><rdg wit="#F">ትሰንቅው፡</rdg><rdg wit="#G #J">ይሰንቁ፡</rdg><rdg wit="#H">ይሰንቅዉ፡</rdg><rdg wit="#I">ይሰነቅው፡</rdg></app> <app><lem wit="#C #D #E #H #I #J">ማኅልዩ፡</lem><rdg wit="#A">ምኅላዩ፡</rdg><rdg wit="#B">መኃልዩ፡</rdg><rdg wit="#F #G">ምህላዩ፡</rdg></app></l>
           <l n="5">
             <app type="line">
               <lem wit="#A #B #C #D #E #G #H #I">ነገረ፡ ጥበብ፡ <app><lem wit="#A #B #C #D #E #H #I"/><rdg wit="#G">ወአእምሮ፡</rdg></app> <app><lem wit="#A #B #C #E #H #I">በአፉየ፡</lem><rdg wit="#D">በአልባቢነ፡</rdg><rdg wit="#G">ለአፉዩ፡</rdg></app> ደዩ፡</lem>
               <rdg wit="#F">እምከፍርየ፡ ልዕላዔ፡ ጻሕይዩ፡</rdg>
+              <rdg wit="#J">በከናፍርየ፡ ማኃልየ፡ ደዩ፡</rdg>
             </app>
           </l>
         </lg>
         
         <lg type="stanza" n="3">
-          <l n="1">ሰላም፡ <app><lem wit="#C #E">ለሥዕርተ፡ ርእስክሙ፡</lem><rdg wit="#A #D #G #I">ለስእርተ፡ ርእስክሙ፡</rdg><rdg wit="#B #H">ለሥዕርትክሙ፡</rdg><rdg wit="#F">ለዝክረ፡ ስምክሙ፡</rdg></app> <app><lem wit="#B #C #D #I">አርአያ፡</lem><rdg wit="#A">ከመ፡</rdg><rdg wit="#E #F #H">ዘአርአያ፡</rdg><rdg wit="#G">አምሳለ፡</rdg></app> በረድ፡ ንጹሕ፡</l>
-          <l n="2"><app><lem wit="#A #B #C #E #H #I">ወዘኅብረ፡</lem><rdg wit="#D">ዘኅብረ፡</rdg><rdg wit="#F">ወዘሕብረ፡</rdg><rdg wit="#G">ወኅብረ፡</rdg></app> ያክንት፡ ቀይሕ፡</l>
-          <l n="3"><app><lem wit="#A #B #D #F #G #H #I">ሰረገላቲሁ፡</lem><rdg wit="#C">ሠረገላቲሁ፡</rdg><rdg wit="#E">መናብርቲሁ፡</rdg></app> ኪሩቤል፡ <app><lem wit="#A #B #C #D #F #H #I">ለአምላክ፡</lem><rdg wit="#E">ለእግዚአብሔር፡</rdg><rdg wit="#G">ለአምላከ፡ ሰማይ፡</rdg></app> ስቡሕ፡</l>
-          <l n="4"><app><lem wit="#A #C #H">ጸግዉኒ፡</lem><rdg wit="#B #E #G #I">ጸግውኒ፡</rdg><rdg wit="#D">ፀግውኒ፡</rdg><rdg wit="#F">ጸግወኒ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #I">አጋእዝትየ፡</lem><rdg wit="#H">አጋዕዝትየ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I">እምጸጋክሙ፡</lem><rdg wit="#D">እምላዕለ፡ ጸጋክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ብዙኅ፡</lem><rdg wit="#F">ብዙሕ፡</rdg></app></l>
-          <l n="5"><app><lem wit="#B #D #E #F #G #I">ናህየ፡</lem><rdg wit="#A #C">ናኅየ፡</rdg><rdg wit="#H">ናሕየ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #I">በሰርክ፡</lem><rdg wit="#G #H">በሠርክ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ወሣህለ፡</lem><rdg wit="#F">ወሣህል፡</rdg></app> በነግህ፡</l>
+          <l n="1">ሰላም፡ <app><lem wit="#C #E">ለሥዕርተ፡ ርእስክሙ፡</lem><rdg wit="#A #D #G #I">ለስእርተ፡ ርእስክሙ፡</rdg><rdg wit="#B #H #J">ለሥዕርትክሙ፡</rdg><rdg wit="#F">ለዝክረ፡ ስምክሙ፡</rdg></app> <app><lem wit="#B #C #D #I">አርአያ፡</lem><rdg wit="#A">ከመ፡</rdg><rdg wit="#E #F #H #J">ዘአርአያ፡</rdg><rdg wit="#G">አምሳለ፡</rdg></app> በረድ፡ ንጹሕ፡</l>
+          <l n="2"><app><lem wit="#A #B #C #E #H #I #J">ወዘኅብረ፡</lem><rdg wit="#D">ዘኅብረ፡</rdg><rdg wit="#F">ወዘሕብረ፡</rdg><rdg wit="#G">ወኅብረ፡</rdg></app> ያክንት፡ ቀይሕ፡</l>
+          <l n="3"><app><lem wit="#A #B #D #F #G #H #I #J">ሰረገላቲሁ፡</lem><rdg wit="#C">ሠረገላቲሁ፡</rdg><rdg wit="#E">መናብርቲሁ፡</rdg></app> ኪሩቤል፡ <app><lem wit="#A #B #C #D #F #H #I #J">ለአምላክ፡</lem><rdg wit="#E">ለእግዚአብሔር፡</rdg><rdg wit="#G">ለአምላከ፡ ሰማይ፡</rdg></app> ስቡሕ፡</l>
+          <l n="4"><app><lem wit="#A #C #H #J">ጸግዉኒ፡</lem><rdg wit="#B #E #G #I">ጸግውኒ፡</rdg><rdg wit="#D">ፀግውኒ፡</rdg><rdg wit="#F">ጸግወኒ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #I #J">አጋእዝትየ፡</lem><rdg wit="#H">አጋዕዝትየ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I #J">እምጸጋክሙ፡</lem><rdg wit="#D">እምላዕለ፡ ጸጋክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I #J">ብዙኅ፡</lem><rdg wit="#F">ብዙሕ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#B #D #E #F #G #I #J">ናህየ፡</lem><rdg wit="#A #C">ናኅየ፡</rdg><rdg wit="#H">ናሕየ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #I #J">በሰርክ፡</lem><rdg wit="#G #H">በሠርክ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I #J">ወሣህለ፡</lem><rdg wit="#F">ወሣህል፡</rdg></app> በነግህ፡</l>
         </lg>
         
         <lg type="stanza" n="4">
           <l n="1">
             <app type="line">
               <lem wit="#A #B #C #D #E #G #H">ሰላም፡ ለርእስክሙ፡ <app><lem wit="#A #B #C #E #H">ዘካልእ፡</lem><rdg wit="#D #G">ዘካልዕ፡</rdg></app> ሕጋ፡</lem>
-              <rdg wit="#F #I">ሰላም፡ ለርእስክሙ፡ አኮ፡ ዘሥጋ፡</rdg>
+              <rdg wit="#F #I #J">ሰላም፡ ለርእስክሙ፡ አኮ፡ ዘሥጋ፡</rdg>
             </app>
           </l>
           <l n="2">
             <app type="line">
               <lem wit="#A #B #C #D #E #G #H">እምርእሰ፡ ኵሉ፡ ዘሥጋ፡</lem>
-              <rdg wit="#F #I"><app><lem wit="#F">ካልእ፡</lem><rdg wit="#I">ካልዕ፡</rdg></app> ሕጋ፡</rdg>
+              <rdg wit="#F #I #J"><app><lem wit="#F #I"/><rdg wit="#J">ዳእሙ፡</rdg></app> <app><lem wit="#F #J">ካልእ፡</lem><rdg wit="#I">ካልዕ፡</rdg></app> ሕጋ፡</rdg>
             </app>
           </l>
-          <l n="3"><app><lem wit="#C #D #E #F #H">ኪሩቤል፡</lem><rdg wit="#A #B #G #I">እንስሳ፡</rdg></app> <app><lem wit="#A #B #C #F #G #H #I">አርባዕ፡</lem><rdg wit="#D">ዐርባዕ፡</rdg><rdg wit="#E">፬፡</rdg></app> ለገነት፡ <app><lem wit="#A #B #D #E #F #G #H #I">ከመ፡</lem><rdg wit="#C">ውስተ፡</rdg></app> <app><lem wit="#A #B #C #D #F #G #H #I">አፍላጋ፡</lem><rdg wit="#E">ፈለጋ፡</rdg></app></l>
+          <l n="3"><app><lem wit="#C #D #E #F #H">ኪሩቤል፡</lem><rdg wit="#A #B #G #I #J">እንስሳ፡</rdg></app> <app><lem wit="#A #B #C #F #G #H #I #J">አርባዕ፡</lem><rdg wit="#D">ዐርባዕ፡</rdg><rdg wit="#E">፬፡</rdg></app> ለገነት፡ <app><lem wit="#A #B #D #E #F #G #H #I #J">ከመ፡</lem><rdg wit="#C">ውስተ፡</rdg></app> <app><lem wit="#A #B #C #D #F #G #H #I #J">አፍላጋ፡</lem><rdg wit="#E">ፈለጋ፡</rdg></app></l>
           <l n="4">
             <app type="line">
-              <lem wit="#A #B #C #D #F #G #H #I">ተማኅፀንኩ፡ በርእስክሙ፡ መንገለ፡ <app><lem wit="#B #C #D #F #H">ሰማይ፡</lem><rdg wit="#A #G #I">ሰማያት፡</rdg></app> <app><lem wit="#A #B #G #H">ዓሪጋ፡</lem><rdg wit="#C #D #F #I">አሪጋ፡</rdg></app></lem>
+              <lem wit="#A #B #C #D #F #G #H #I #J">ተማኅፀንኩ፡ በርእስክሙ፡ መንገለ፡ <app><lem wit="#B #C #D #F #H">ሰማይ፡</lem><rdg wit="#A #G #I #J">ሰማያት፡</rdg></app> <app><lem wit="#A #B #G #H #J">ዓሪጋ፡</lem><rdg wit="#C #D #F #I">አሪጋ፡</rdg></app></lem>
               <rdg wit="#E">ኀበ፡ ገጽክሙ፡ እንበለ፡ ካልአት፡ ዐሪጋ፡</rdg>
             </app>
           </l>
-          <l n="5">ቃለ፡ <app><lem wit="#A #B #C #D #F #G #H #I">ማኅሌትየ፡</lem><rdg wit="#E">ስእለትየ፡</rdg></app> ትትመየጥ፡ በጸጋ፡</l>
+          <l n="5">ቃለ፡ <app><lem wit="#A #B #C #D #F #G #H #I #J">ማኅሌትየ፡</lem><rdg wit="#E">ስእለትየ፡</rdg></app> ትትመየጥ፡ በጸጋ፡</l>
         </lg>
         
         <lg type="stanza" n="5">
           <l n="1">
             <app type="line">
               <lem wit="#A #B #C #D #G #H">ሰላም፡ ለገጽክሙ፡ እንዘ፡ ሀሎ፡ <app><lem wit="#D #G">በፄዋዌ፡</lem><rdg wit="#A #B">በፂዋዌ፡</rdg><rdg wit="#C #H">በጼዋዌ፡</rdg></app></lem>
-              <rdg wit="#E #F #I">ሰላም፡ ለገጽክሙ፡ <app><lem wit="#F">ሕዝቅኤል፡ ርእዮ፡</lem><rdg wit="#E">ዘርእዮ፡ ሕዝቅል፡</rdg><rdg wit="#I">ሕዝቅኤል፡ ዘርእዮ፡</rdg></app> <app><lem wit="#E">በፄዋዌ፡</lem><rdg wit="#F">በጼዋዌ፡</rdg><rdg wit="#I">በጺዋዌ፡</rdg></app></rdg>
+              <rdg wit="#E #F #I #J">ሰላም፡ ለገጽክሙ፡ <app><lem wit="#J">ዘርእዮ፡ ሕዝቅኤል፡</lem><rdg wit="#E">ዘርእዮ፡ ሕዝቅል፡</rdg><rdg wit="#I">ሕዝቅኤል፡ ዘርእዮ፡</rdg><rdg wit="#F">ሕዝቅኤል፡ ርእዮ፡</rdg></app> <app><lem wit="#E">በፄዋዌ፡</lem><rdg wit="#F">በጼዋዌ፡</rdg><rdg wit="#I">በጺዋዌ፡</rdg><rdg wit="#J">በፂዋዌ፡</rdg></app></rdg>
             </app>
           </l>
           <l n="2">
             <app type="line">
               <lem wit="#A #B #C #D #G #H">ሕዝቅኤል፡ <app><lem wit="#A #B #D #E #G">ነቢይ፡</lem><rdg wit="#C #H"/></app> ዘርእዮ፡ <app><lem wit="#G">በዐይነ፡</lem><rdg wit="#A #B #C #D #H">በዓይነ፡</rdg></app> <app><lem wit="#A #B #C #D #H">ልባዌ፡</lem><rdg wit="#G">ልባዊ፡</rdg></app></lem>
-              <rdg wit="#E #F #I">ለለ፩፩፡ <app><lem wit="#E #F">ርቡዓን፡</lem><rdg wit="#I">ርቡአን፡</rdg></app> በግጻዌ፡</rdg>
+              <rdg wit="#E #F #I #J">ለለ፩፩፡ <app><lem wit="#E #F #J">ርቡዓን፡</lem><rdg wit="#I">ርቡአን፡</rdg></app> በግጻዌ፡</rdg>
             </app>
           </l>
-          <l n="3"><app><lem wit="#B #C #F #H #I">እለ፡ ትጸውሩ፡</lem><rdg wit="#A #E">ዘትጸውሩ፡</rdg><rdg wit="#D">እለ፡ ትፀውሩ፡</rdg><rdg wit="#G">እንዘ፡ ትጸውሩ፡</rdg></app> <app><lem wit="#B #C #D #F #H">እንስሳ፡</lem><rdg wit="#A #E #I">ኪሩቤል፡</rdg><rdg wit="#G">ኪሩብ፡</rdg></app> መንበረ፡ መንፈሳዌ፡</l>
-          <l n="4">ለገጽየ፡ <app><lem wit="#B #D #G">አሰርግውዎ፡</lem><rdg wit="#A #E #F #H">አሠርግውዎ፡</rdg><rdg wit="#C">አሠርግዎ፡</rdg><rdg wit="#I">አሰርገውዎ፡</rdg></app> <app><lem wit="#A #B #C #F #H #I">ዘገጽክሙ፡</lem><rdg wit="#D #E #G">በገጽክሙ፡</rdg></app> <app><lem wit="#D">ስርጋዌ፡</lem><rdg wit="#A #B #C #E #F #H #I">ሥርጋዌ፡</rdg><rdg wit="#G">ሥጋዌ፡</rdg></app></l>
-          <l n="5"><app><lem wit="#A #B #C #E #G #H #I">እምጽርሑ፡</lem><rdg wit="#D #F">እምጽርኁ፡</rdg></app> <app><lem wit="#A #B #C">ዘወፅአ፡</lem><rdg wit="#D #E #F #G #H #I">ዘወጽአ፡</rdg></app> <app><lem wit="#A #B #C #D #E #I">እትመሰል፡</lem><rdg wit="#F">ይትመሰል፡</rdg><rdg wit="#G #H">እትሜሰል፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H">መርዓዌ፡</lem><rdg wit="#I">መርአዌ፡</rdg></app></l>
+          <l n="3"><app><lem wit="#B #C #F #H #I #J">እለ፡ ትጸውሩ፡</lem><rdg wit="#A #E">ዘትጸውሩ፡</rdg><rdg wit="#D">እለ፡ ትፀውሩ፡</rdg><rdg wit="#G">እንዘ፡ ትጸውሩ፡</rdg></app> <app><lem wit="#B #C #D #F #H #J">እንስሳ፡</lem><rdg wit="#A #E #I">ኪሩቤል፡</rdg><rdg wit="#G">ኪሩብ፡</rdg></app> መንበረ፡ መንፈሳዌ፡</l>
+          <l n="4">ለገጽየ፡ <app><lem wit="#B #D #G">አሰርግውዎ፡</lem><rdg wit="#A #E #F #H #J">አሠርግውዎ፡</rdg><rdg wit="#C">አሠርግዎ፡</rdg><rdg wit="#I">አሰርገውዎ፡</rdg></app> <app><lem wit="#A #B #C #F #H #I #J">ዘገጽክሙ፡</lem><rdg wit="#D #E #G">በገጽክሙ፡</rdg></app> <app><lem wit="#D">ስርጋዌ፡</lem><rdg wit="#A #B #C #E #F #H #I #J">ሥርጋዌ፡</rdg><rdg wit="#G">ሥጋዌ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#A #B #C #E #G #H #I #J">እምጽርሑ፡</lem><rdg wit="#D #F">እምጽርኁ፡</rdg></app> <app><lem wit="#A #B #C #J">ዘወፅአ፡</lem><rdg wit="#D #E #F #G #H #I">ዘወጽአ፡</rdg></app> <app><lem wit="#A #B #C #D #E #I #J">እትመሰል፡</lem><rdg wit="#F">ይትመሰል፡</rdg><rdg wit="#G #H">እትሜሰል፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J">መርዓዌ፡</lem><rdg wit="#I">መርአዌ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="6">
-          <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ <app><lem wit="#E #F #H">ርቡዓነ፡ ገጽ፡</lem><rdg wit="#A #I">፬</rdg><rdg wit="#B #C">ኪሩባውያን</rdg><rdg wit="#D">ርቡዐነ፡ ገጽ፡</rdg><rdg wit="#G">፬እ</rdg></app> እንስሳ፡</l>
+          <l n="1">ሰላም፡ ለቀራንብቲክሙ፡ <app><lem wit="#E #F #H #J">ርቡዓነ፡ ገጽ፡</lem><rdg wit="#A #I">፬</rdg><rdg wit="#B #C">ኪሩባውያን</rdg><rdg wit="#D">ርቡዐነ፡ ገጽ፡</rdg><rdg wit="#G">፬እ</rdg></app> እንስሳ፡</l>
           <l n="2">
             <app type="line">
-              <lem wit="#B #C #D #F #H"><app><lem wit="#B #C">ገጸ፡ ላህም፡</lem><rdg wit="#D">ዘላህም፡</rdg><rdg wit="#F #H">ዘአምሳለ፡ ላህም፡</rdg></app> <app><lem wit="#B #F #H">መግዝዕ፡</lem><rdg wit="#C">መግእዝዕ፡</rdg><rdg wit="#D"/></app> <app><lem wit="#B #C #D #H">ወገጸ፡</lem><rdg wit="#F">ወበገጸ፡</rdg></app> ግሩም፡ አንበሳ፡</lem>
+              <lem wit="#B #C #D #F #H #J"><app><lem wit="#B #C">ገጸ፡ ላህም፡</lem><rdg wit="#D">ዘላህም፡</rdg><rdg wit="#F #H #J">ዘአምሳለ፡ ላህም፡</rdg></app> <app><lem wit="#B #F #H">መግዝዕ፡</lem><rdg wit="#J">መግዝእ፡</rdg><rdg wit="#C">መግእዝዕ፡</rdg><rdg wit="#D"/></app> <app><lem wit="#B #C #D #H #J">ወገጸ፡</lem><rdg wit="#F">ወበገጸ፡</rdg></app> ግሩም፡ አንበሳ፡</lem>
               <rdg wit="#A #E #G">ገጸ፡ ላህም፡ <app><lem wit="#A #G">ወንስር፡</lem><rdg wit="#E">ንስር፡</rdg></app> ገጸ፡ ሰብእ፡ <app><lem wit="#A #G">ወገጸ፡</lem><rdg wit="#E"/></app> <app><lem wit="#A">አንበሳ፡</lem><rdg wit="#E">ወአንበሳ፡</rdg><rdg wit="#G">እንስሳ፡</rdg></app></rdg>
               <rdg wit="#I">በአምሳለ፡ ላህም፡ ወሰብእ፡ ወንስር፡ ወዘገጸ፡ ግሩም፡ አንበሳ፡</rdg>
             </app>
           </l>
-          <l n="3">ንጉሠ፡ ይሁዳ፡ ሰሎሞን፡ <app><lem wit="#A #B #C #D #E #G #H">ወመልአከ፡ ኤፍሬም፡</lem><rdg wit="#I">መልአከ፡ ኤፍሬም፡</rdg><rdg wit="#F"/></app> <app><lem wit="#B #G">ዘደወለ፡ ምሕሳ፡</lem><rdg wit="#A #C">ዘወለምሕሳ፡</rdg><rdg wit="#D #I">ዘወልደ፡ ምሕሳ፡</rdg><rdg wit="#E #F #H">ዘወለ፡ ምሕሳ፡</rdg></app></l>
-          <l n="4"><app><lem wit="#D #I">አግለፈ፡</lem><rdg wit="#A #B #C #F #G #H">ገለፈ፡</rdg><rdg wit="#E">አግበረ፡</rdg></app> <app><lem wit="#A #B #C #D #E #H">አምሳሊክሙ፡</lem><rdg wit="#F">አምሳሌ፡ ቲክሙ፡</rdg><rdg wit="#G">ምስሌክሙ፡</rdg><rdg wit="#I">አርአያክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H">ለቤተ፡</lem><rdg wit="#F #I">ለእሙ፡</rdg></app> <app><lem wit="#A #B #D #E #G">አምላኩ፡</lem><rdg wit="#C #H">አምላክ፡</rdg><rdg wit="#F #I"/></app> በከርሣ፡</l>
-          <l n="5">ድኅረ፡ <app><lem wit="#A #B #C #D #E #G #H #I">ተፈጸመ፡</lem><rdg wit="#F">ተፈጸሙ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I">ዓመታት፡</lem><rdg wit="#D">ሱባዕያት፡</rdg></app> <app><lem wit="#H">ሠላሳ፡</lem><rdg wit="#A">፴ሳ፡</rdg><rdg wit="#B #C #E #F">፴፡</rdg><rdg wit="#D #G">ስሳ፡</rdg><rdg wit="#I">እስሳ፡</rdg></app></l>
+          <l n="3">ንጉሠ፡ ይሁዳ፡ ሰሎሞን፡ <app><lem wit="#A #B #C #D #E #G #H #J">ወመልአከ፡ ኤፍሬም፡</lem><rdg wit="#I">መልአከ፡ ኤፍሬም፡</rdg><rdg wit="#F"/></app> <app><lem wit="#A #C #J">ዘወለምሕሳ፡</lem><rdg wit="#E #F #H">ዘወለ፡ ምሕሳ፡</rdg><rdg wit="#B #G">ዘደወለ፡ ምሕሳ፡</rdg><rdg wit="#D #I">ዘወልደ፡ ምሕሳ፡</rdg></app></l>
+          <l n="4"><app><lem wit="#D #I">አግለፈ፡</lem><rdg wit="#A #B #C #F #G #H #J">ገለፈ፡</rdg><rdg wit="#E">አግበረ፡</rdg></app> <app><lem wit="#A #B #C #D #E #H">አምሳሊክሙ፡</lem><rdg wit="#J">አምሳላቲክሙ፡</rdg><rdg wit="#F">አምሳሌ፡ ቲክሙ፡</rdg><rdg wit="#G">ምስሌክሙ፡</rdg><rdg wit="#I">አርአያክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H">ለቤተ፡</lem><rdg wit="#F #I #J">ለእሙ፡</rdg></app> <app><lem wit="#A #B #D #E #G">አምላኩ፡</lem><rdg wit="#C #H">አምላክ፡</rdg><rdg wit="#F #I #J"/></app> በከርሣ፡</l>
+          <l n="5">ድኅረ፡ <app><lem wit="#A #B #C #D #E #G #H #I">ተፈጸመ፡</lem><rdg wit="#F #J">ተፈጸሙ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I #J">ዓመታት፡</lem><rdg wit="#D">ሱባዕያት፡</rdg></app> <app><lem wit="#H">ሠላሳ፡</lem><rdg wit="#A">፴ሳ፡</rdg><rdg wit="#B #C #E #F #J">፴፡</rdg><rdg wit="#D #G">ስሳ፡</rdg><rdg wit="#I">እስሳ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="7">
-          <l n="1">ሰላም፡ <app><lem wit="#B #C #E #F #H">ሰላም፡</lem><rdg wit="#G #I">እብል፡</rdg><rdg wit="#A #D"/></app> ለአዕይንቲክሙ፡ <app><lem wit="#B #C #D #E #F #G #H #I"/><rdg wit="#A">ዘታሕተ፡ ቀራንብት፡</rdg></app> <app><lem wit="#B #C #E #F #G #H #I">ዘገጽ፡</lem><rdg wit="#A">ወገጽ፡</rdg><rdg wit="#D">በገጽ፡</rdg></app></l>
-          <l n="2"><app><lem wit="#A #B #C #H">አኃወ፡</lem><rdg wit="#D #E #G">እኅወ፡</rdg><rdg wit="#F">እኃው፡</rdg><rdg wit="#I">አሐወ፡</rdg></app> መባርቅት፡ <app><lem wit="#B #C #D #E #F #H #I">ኪሩቤል፡</lem><rdg wit="#A #G">አርባዕ፡</rdg></app> <app><lem wit="#C #G #I">ወዘእለ፡ ቄጥሩ፡</lem><rdg wit="#A">ወዘእለቄጥሩ፡</rdg><rdg wit="#B">ወዘኤልቄጥሩ፡</rdg><rdg wit="#D">ወዘእለ፡ ቂጥሩ፡</rdg><rdg wit="#E #H">ወዘእለ፡ ኬጥሩ፡</rdg><rdg wit="#F">ወዘኤሊቄጥሩ፡</rdg></app> አብያጽ፡</l>
-          <l n="3"><app><rdg wit="#A #B #C #D #G #H #I">አርአያ፡</rdg><rdg wit="#E #F">አምሳለ፡</rdg></app> ዚአክሙ፡ <app><lem wit="#A #B #C #E #F #I">ቅድመ፡ ዲበ፡</lem><rdg wit="#D #H">ቅድመ፡</rdg><rdg wit="#G">በዲበ፡</rdg></app> ምሕዋጽ፡</l>
-          <l n="4"><app><lem wit="#A #B #C #E #F #H">በካልእ፡</lem><rdg wit="#D #G #I">በካልዕ፡</rdg></app> <app><lem wit="#A #B #C #F #G">ዓም፡</lem><rdg wit="#E #H">አም፡</rdg><rdg wit="#I">አመ፡</rdg><rdg wit="#D"/></app> <app><rdg wit="#A #B #C #E #F">እምዘ፡ ተደምሰሱ፡</rdg><rdg wit="#D #H">እምዘተደምሰሱ፡</rdg><rdg wit="#G">እምዘ፡ ተደምሱሱ፡</rdg><rdg wit="#I">ተደምሱ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #H #I">ግብጽ፡</lem><rdg wit="#G">ግብፅ፡</rdg></app></l>
-          <l n="5">ሙሴ፡ <app><lem wit="#A #B #C #D #E #G #H #I">አግበረ፡</lem><rdg wit="#F">አግበሪ፡</rdg></app> <app><lem wit="#A #B #C #G #H #I">ኪሩበ፡</lem><rdg wit="#D #E #F">ኪሩቤል፡</rdg></app> <app><lem wit="#A #E #F #H #I">ዘዕፅ፡</lem><rdg wit="#B #C #D #G">በዕፅ፡</rdg></app></l>
+          <l n="1">ሰላም፡ <app><lem wit="#B #C #E #F #H #J">ሰላም፡</lem><rdg wit="#G #I">እብል፡</rdg><rdg wit="#A #D"/></app> ለአዕይንቲክሙ፡ <app><lem wit="#B #C #D #E #F #G #H #I #J"/><rdg wit="#A">ዘታሕተ፡ ቀራንብት፡</rdg></app> <app><lem wit="#B #C #E #F #G #H #I #J">ዘገጽ፡</lem><rdg wit="#A">ወገጽ፡</rdg><rdg wit="#D">በገጽ፡</rdg></app></l>
+          <l n="2"><app><lem wit="#A #B #C #H #J">አኃወ፡</lem><rdg wit="#D #E #G">እኅወ፡</rdg><rdg wit="#F">እኃው፡</rdg><rdg wit="#I">አሐወ፡</rdg></app> መባርቅት፡ <app><lem wit="#B #C #D #E #F #H #I #J">ኪሩቤል፡</lem><rdg wit="#A #G">አርባዕ፡</rdg></app> <app><lem wit="#C #G #I #J">ወዘእለ፡ ቄጥሩ፡</lem><rdg wit="#A">ወዘእለቄጥሩ፡</rdg><rdg wit="#B">ወዘኤልቄጥሩ፡</rdg><rdg wit="#D">ወዘእለ፡ ቂጥሩ፡</rdg><rdg wit="#E #H">ወዘእለ፡ ኬጥሩ፡</rdg><rdg wit="#F">ወዘኤሊቄጥሩ፡</rdg></app> አብያጽ፡</l>
+          <l n="3"><app><rdg wit="#A #B #C #D #G #H #I">አርአያ፡</rdg><rdg wit="#E #F #J">አምሳለ፡</rdg></app> ዚአክሙ፡ <app><lem wit="#A #B #C #E #F #I #J">ቅድመ፡ ዲበ፡</lem><rdg wit="#D #H">ቅድመ፡</rdg><rdg wit="#G">በዲበ፡</rdg></app> ምሕዋጽ፡</l>
+          <l n="4"><app><lem wit="#A #B #C #E #F #H #J">በካልእ፡</lem><rdg wit="#D #G #I">በካልዕ፡</rdg></app> <app><lem wit="#A #B #C #F #G #J">ዓም፡</lem><rdg wit="#E #H">አም፡</rdg><rdg wit="#I">አመ፡</rdg><rdg wit="#D"/></app> <app><rdg wit="#A #B #C #E #F #J">እምዘ፡ ተደምሰሱ፡</rdg><rdg wit="#D #H">እምዘተደምሰሱ፡</rdg><rdg wit="#G">እምዘ፡ ተደምሱሱ፡</rdg><rdg wit="#I">ተደምሱ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #H #I #J">ግብጽ፡</lem><rdg wit="#G">ግብፅ፡</rdg></app></l>
+          <l n="5">ሙሴ፡ <app><lem wit="#A #B #C #D #E #G #H #I #J">አግበረ፡</lem><rdg wit="#F">አግበሪ፡</rdg></app> <app><lem wit="#A #B #C #G #H #I #J">ኪሩበ፡</lem><rdg wit="#D #E #F">ኪሩቤል፡</rdg></app> <app><lem wit="#A #E #F #H #I #J">ዘዕፅ፡</lem><rdg wit="#B #C #D #G">በዕፅ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="8">
-          <l n="1">ሰላም፡ <app><lem wit="#A #B #C #E #G">ለአእዛኒክሙ፡</lem><rdg wit="#D #F #H #I">ለአዕዛኒክሙ፡</rdg></app> እለ፡ <app><lem wit="#B #C #E #I">ያጸምአ፡</lem><rdg wit="#A #F #G #H">ያጸምዓ፡</rdg><rdg wit="#D">ያጸምዐ፡</rdg></app> ንባቦ፡</l>
-          <l n="2"><app><lem wit="#A #B #C #E #F #G #H">ለመንበረ፡ ንግሡ፡</lem><rdg wit="#D">ለንጉሥ፡</rdg><rdg wit="#I">መንበረ፡ ንግሡ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H">ስቡሕ፡</lem><rdg wit="#I">ስቡሐ፡</rdg></app> ዲበ፡ አክናፊክሙ፡ <app><rdg wit="#A #B #C #F #G">ለዘረበቦ፡</rdg><rdg wit="#D #H #I">ዘረበቦ፡</rdg><rdg wit="#E">ለዘ፡ ረበቦ፡</rdg></app></l>
-          <l n="3">አቅርንተ፡ ቅዳሴ፡ <app><lem wit="#B #C #D #E #F #H #I">ኪሩቤል፡</lem><rdg wit="#A #G">አርባዕ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ወመሰናቅው፡</lem><rdg wit="#F">ወበሰናቅው፡</rdg></app> <app><lem wit="#A #B #D #E #F #H #I">ዘቃለ፡</lem><rdg wit="#C">ዘቀርነ፡</rdg><rdg wit="#G">ለቃለ፡</rdg></app> የብቦ፡</l>
-          <l n="4"><app><lem wit="#A #B #C #D #F #G #H #I">መኑሂ፡</lem><rdg wit="#E">መኑ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">እመላእክት፡</lem><rdg wit="#F">ዘመላእክት፡</rdg></app> ሞገሰ፡ <app><lem wit="#A #C #D #E #F #G #H #I">ረኪቦ፡</lem><rdg wit="#B">ረከቦ፡</rdg></app></l>
-          <l n="5"><app><lem wit="#A #B #C #D #E #G #H #I">ኀበ፡</lem><rdg wit="#F">አመ፡</rdg></app> <app><lem wit="#A #B #C #G">ዓቅምክሙ፡</lem><rdg wit="#D #E #F #H #I">አቅምክሙ፡</rdg></app> ዘይበጽሕ፡ አልቦ፡</l>
+          <l n="1">ሰላም፡ <app><lem wit="#A #B #C #E #G #J">ለአእዛኒክሙ፡</lem><rdg wit="#D #F #H #I">ለአዕዛኒክሙ፡</rdg></app> እለ፡ <app><lem wit="#B #C #E #I">ያጸምአ፡</lem><rdg wit="#A #F #G #H #J">ያጸምዓ፡</rdg><rdg wit="#D">ያጸምዐ፡</rdg></app> ንባቦ፡</l>
+          <l n="2"><app><lem wit="#A #B #C #E #F #G #H #J">ለመንበረ፡ ንግሡ፡</lem><rdg wit="#D">ለንጉሥ፡</rdg><rdg wit="#I">መንበረ፡ ንግሡ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J">ስቡሕ፡</lem><rdg wit="#I">ስቡሐ፡</rdg></app> ዲበ፡ አክናፊክሙ፡ <app><rdg wit="#A #B #C #F #G #J">ለዘረበቦ፡</rdg><rdg wit="#D #H #I">ዘረበቦ፡</rdg><rdg wit="#E">ለዘ፡ ረበቦ፡</rdg></app></l>
+          <l n="3">አቅርንተ፡ ቅዳሴ፡ <app><lem wit="#B #C #D #E #F #H #I #J">ኪሩቤል፡</lem><rdg wit="#A #G">አርባዕ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ወመሰናቅው፡</lem><rdg wit="#J">ወመሰናቅዉ፡</rdg><rdg wit="#F">ወበሰናቅው፡</rdg></app> <app><lem wit="#A #B #D #E #F #H #I #J">ዘቃለ፡</lem><rdg wit="#C">ዘቀርነ፡</rdg><rdg wit="#G">ለቃለ፡</rdg></app> የብቦ፡</l>
+          <l n="4"><app><lem wit="#A #B #C #D #F #G #H #I #J">መኑሂ፡</lem><rdg wit="#E">መኑ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I #J">እመላእክት፡</lem><rdg wit="#F">ዘመላእክት፡</rdg></app> ሞገሰ፡ <app><lem wit="#A #C #D #E #F #G #H #I #J">ረኪቦ፡</lem><rdg wit="#B">ረከቦ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#A #B #C #D #E #G #H #I #J">ኀበ፡</lem><rdg wit="#F">አመ፡</rdg></app> <app><lem wit="#A #B #C #G #J">ዓቅምክሙ፡</lem><rdg wit="#D #E #F #H #I">አቅምክሙ፡</rdg></app> ዘይበጽሕ፡ አልቦ፡</l>
         </lg>
         
         <lg type="stanza" n="9">
-          <l n="1">ሰላም፡ <app><lem wit="#A #B #C #E #G #H">ለመላትሒክሙ፡</lem><rdg wit="#D #F #I">ለመላትሂክሙ፡</rdg></app> እለ፡ ይመስላ፡ <app><lem wit="#E #F #I">አፍሐመ፡</lem><rdg wit="#A #H">ፍሕመ፡</rdg><rdg wit="#B #C #D #G">ፍጹመ፡</rdg></app></l>
-          <l n="2"><app><lem wit="#A #E #F #I">ወንጥረ፡</lem><rdg wit="#B #C #D #G #H">ንጥረ፡</rdg></app> መባርቅት፡ ግሩመ፡</l>
-          <l n="3"><app><lem wit="#A #B #C #D #F #H #I">እንስሳ፡ እሳት፡ ኪሩቤል፡</lem><rdg wit="#E">ኪሩቤል፡ ፬፡</rdg><rdg wit="#G">ኪሩባውያን፡ ኪሩብ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I">ዘትጸውሩ፡</lem><rdg wit="#D">እለ፡ ትፀውሩ፡</rdg></app> <app><lem wit="#A #B #C #E #G #H #I">አርያመ፡</lem><rdg wit="#D">አያመ፡</rdg><rdg wit="#F">አፍሐመ፡</rdg></app></l>
-          <l n="4"><app><lem wit="#A #C #H">ጸግዉኒ፡</lem><rdg wit="#B #D #E #F #G">ጸግውኒ፡</rdg><rdg wit="#I">ጸግወኒ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #I">አጋእዝትየ፡</lem><rdg wit="#D #H">አጋዕዝትየ፡</rdg></app> ዘሰላም፡ <app><lem wit="#A #B #C #G">ዓመ፡</lem><rdg wit="#D">ወአመ፡</rdg><rdg wit="#E #F #H #I">አመ፡</rdg></app></l>
-          <l n="5"><app><lem wit="#C #E #G #H">ለኍላቌሁ፡</lem><rdg wit="#A">ዘለኍላቌሁ፡</rdg><rdg wit="#B #D">ዘኍላቌሁ፡</rdg><rdg wit="#F">ለኍልቍ</rdg><rdg wit="#I">ኍልቈ፡</rdg></app> <app><lem wit="#B #C #D #E #F #G #H">ዘአልቦ፡</lem><rdg wit="#I">አልቦ፡</rdg><rdg wit="#A">ተኃጥአ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H">ሐሳበ፡</lem><rdg wit="#I">ሐሳብ፡</rdg></app> <app><lem wit="#A #B #C #G #H">ወዓቅመ፡</lem><rdg wit="#D #E #F #I">ወአቅመ፡</rdg></app></l>
+          <l n="1">ሰላም፡ <app><lem wit="#A #B #C #E #G #H #J">ለመላትሒክሙ፡</lem><rdg wit="#D #F #I">ለመላትሂክሙ፡</rdg></app> እለ፡ ይመስላ፡ <app><lem wit="#E #F #I #J">አፍሐመ፡</lem><rdg wit="#A #H">ፍሕመ፡</rdg><rdg wit="#B #C #D #G">ፍጹመ፡</rdg></app></l>
+          <l n="2"><app><lem wit="#A #E #F #I #J">ወንጥረ፡</lem><rdg wit="#B #C #D #G #H">ንጥረ፡</rdg></app> መባርቅት፡ ግሩመ፡</l>
+          <l n="3"><app><lem wit="#A #B #C #D #F #H #I #J">እንስሳ፡ እሳት፡ ኪሩቤል፡</lem><rdg wit="#E">ኪሩቤል፡ ፬፡</rdg><rdg wit="#G">ኪሩባውያን፡ ኪሩብ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I #J">ዘትጸውሩ፡</lem><rdg wit="#D">እለ፡ ትፀውሩ፡</rdg></app> <app><lem wit="#A #B #C #E #G #H #I #J">አርያመ፡</lem><rdg wit="#D">አያመ፡</rdg><rdg wit="#F">አፍሐመ፡</rdg></app></l>
+          <l n="4"><app><lem wit="#A #C #H #J">ጸግዉኒ፡</lem><rdg wit="#B #D #E #F #G">ጸግውኒ፡</rdg><rdg wit="#I">ጸግወኒ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #I #J">አጋእዝትየ፡</lem><rdg wit="#D #H">አጋዕዝትየ፡</rdg></app> ዘሰላም፡ <app><lem wit="#A #B #C #G #J">ዓመ፡</lem><rdg wit="#D">ወአመ፡</rdg><rdg wit="#E #F #H #I">አመ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#C #E #G #H">ለኍላቌሁ፡</lem><rdg wit="#A">ዘለኍላቌሁ፡</rdg><rdg wit="#B #D">ዘኍላቌሁ፡</rdg><rdg wit="#F">ለኍልቍ</rdg><rdg wit="#I">ኍልቈ፡</rdg><rdg wit="#J"/></app> <app><lem wit="#B #C #D #E #F #G #H #J">ዘአልቦ፡</lem><rdg wit="#I">አልቦ፡</rdg><rdg wit="#A">ተኃጥአ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #I"/><rdg wit="#J">ውስቴቱ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J">ሐሳበ፡</lem><rdg wit="#I">ሐሳብ፡</rdg></app> <app><lem wit="#A #B #C #G #H #J">ወዓቅመ፡</lem><rdg wit="#D #E #F #I">ወአቅመ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="10">
-          <l n="1">ሰላም፡ <app><lem wit="#A #C #D #E">ለአእናፊክሙ፡</lem><rdg wit="#B #F">ለአናፊክሙ፡</rdg><rdg wit="#G #H #I">ለአዕናፊክሙ፡</rdg></app> <!-- corr in D --><app><lem wit="#A #B #C #F #G #H">ርቡዓነ፡</lem><rdg wit="#I">ርቡአነ፡</rdg><rdg wit="#E">ግሩማነ፡</rdg></app> ገጽ፡ <app><lem wit="#A #C #E #F #G #H #I">ኪሩብ፡</lem><rdg wit="#B">ኪሩቤል፡</rdg></app></l>
-          <l n="2"><app><lem wit="#A #B #C #D #E #F #H #I">አዝማደ፡</lem><rdg wit="#G">አእማደ፡</rdg></app> <app><lem wit="#A #B #C #E #G">መደንግፅ፡</lem><rdg wit="#D #F #H">መደንግጽ፡</rdg><rdg wit="#I"/></app> <app><lem wit="#A #B #C #D #E #F #H">መብረቅ፡</lem><rdg wit="#I">መባርቅት፡</rdg><rdg wit="#G">ኪሩብረቅ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H"/><rdg wit="#I">ግሩመ፡</rdg></app> <app><lem wit="#A #B #C #H">ወአኃወ፡</lem><rdg wit="#D #E #G">ወእኅወ፡</rdg><rdg wit="#F #I">ወአሐወ፡</rdg></app> <app><lem wit="#B #C #D #E #F #I">ጽዱል፡</lem><rdg wit="#A #G #H">ፅዱል፡</rdg></app> ኮከብ፡</l>
-          <l n="3">ሊቃናት፡ አንትሙ፡ ዘፈለገ፡ <app><lem wit="#A #B #C #E #F">ስብሐት፡</lem><rdg wit="#D">እሳብሐት፡</rdg><rdg wit="#G #H #I">እሳት፡</rdg></app> <app><lem wit="#B #C #D #H">ናህብ፡</lem><rdg wit="#A">ናሀብ፡</rdg><rdg wit="#E">ንሁብ፡</rdg><rdg wit="#F">አናህብ፡</rdg><rdg wit="#G">ናኅብ፡</rdg><rdg wit="#I">ልሁብ፡</rdg></app></l>
-          <l n="4"><app><lem wit="#A #B #C #D #F #G #H #I">ሶበ፡</lem><rdg wit="#E"/></app> <app><lem wit="#A #B #C #E #F #G #H">ይደምፅ፡</lem><rdg wit="#D">ይደምጽ፡</rdg><rdg wit="#I">ይሰምዕ፡</rdg></app> <app><lem wit="#A #B #D #F #G #H #I">እምአፉክሙ፡</lem><rdg wit="#C #E">አፉክሙ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I">ዘአስተብቍዖ፡</lem><rdg wit="#D">ዘያስተበቍዖ፡</rdg></app> ንባብ፡</l>
-          <l n="5">እምነ፡ መዓት፡ <app><rdg wit="#B #C">ይትራኅራኅ፡ ወይትየዋህ፡</rdg><rdg wit="#A">ይትረኃራኅ፡</rdg><rdg wit="#D">ይትየዋህ፡ ወይትራኅራ</rdg><rdg wit="#E #G #H">ይትራኅራኅ፡</rdg><rdg wit="#F">ይረኀርኀ፡</rdg><rdg wit="#I">ይትራራኅ፡</rdg></app> አብ፡</l>
+          <l n="1">ሰላም፡ <app><lem wit="#A #C #D #E #J">ለአእናፊክሙ፡</lem><rdg wit="#B #F">ለአናፊክሙ፡</rdg><rdg wit="#G #H #I">ለአዕናፊክሙ፡</rdg></app> <app><lem wit="#A #B #C #F #G #H #J">ርቡዓነ፡</lem><rdg wit="#I">ርቡአነ፡</rdg><rdg wit="#E">ግሩማነ፡</rdg></app> ገጽ፡ <app><lem wit="#A #C #E #F #G #H #I #J">ኪሩብ፡</lem><rdg wit="#B">ኪሩቤል፡</rdg></app></l>
+          <l n="2"><app><lem wit="#A #B #C #D #E #F #H #I #J">አዝማደ፡</lem><rdg wit="#G">አእማደ፡</rdg></app> <app><lem wit="#A #B #C #E #G #J">መደንግፅ፡</lem><rdg wit="#D #F #H">መደንግጽ፡</rdg><rdg wit="#I"/></app> <app><lem wit="#A #B #C #D #E #F #H #J">መብረቅ፡</lem><rdg wit="#I">መባርቅት፡</rdg><rdg wit="#G">ኪሩብረቅ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J"/><rdg wit="#I">ግሩመ፡</rdg></app> <app><lem wit="#A #B #C #H #J">ወአኃወ፡</lem><rdg wit="#D #E #G">ወእኅወ፡</rdg><rdg wit="#F #I">ወአሐወ፡</rdg></app> <app><lem wit="#B #C #D #E #F #I">ጽዱል፡</lem><rdg wit="#A #G #H #J">ፅዱል፡</rdg></app> ኮከብ፡</l>
+          <l n="3">ሊቃናት፡ አንትሙ፡ ዘፈለገ፡ <app><lem wit="#A #B #C #E #F">ስብሐት፡</lem><rdg wit="#D">እሳብሐት፡</rdg><rdg wit="#G #H #I #J">እሳት፡</rdg></app> <app><lem wit="#B #C #D #H">ናህብ፡</lem><rdg wit="#A">ናሀብ፡</rdg><rdg wit="#E">ንሁብ፡</rdg><rdg wit="#F #J">አናህብ፡</rdg><rdg wit="#G">ናኅብ፡</rdg><rdg wit="#I">ልሁብ፡</rdg></app></l>
+          <l n="4"><app><lem wit="#A #B #C #D #F #G #H #I #J">ሶበ፡</lem><rdg wit="#E"/></app> <app><lem wit="#A #B #C #E #F #G #H #J">ይደምፅ፡</lem><rdg wit="#D">ይደምጽ፡</rdg><rdg wit="#I">ይሰምዕ፡</rdg></app> <app><lem wit="#A #B #D #F #G #H #I #J">እምአፉክሙ፡</lem><rdg wit="#C #E">አፉክሙ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #I #J">ዘአስተብቍዖ፡</lem><rdg wit="#D">ዘያስተበቍዖ፡</rdg></app> ንባብ፡</l>
+          <l n="5">እምነ፡ መዓት፡ <app><rdg wit="#B #C">ይትራኅራኅ፡ ወይትየዋህ፡</rdg><rdg wit="#A">ይትረኃራኅ፡</rdg><rdg wit="#D">ይትየዋህ፡ ወይትራኅራ</rdg><rdg wit="#E #G #H">ይትራኅራኅ፡</rdg><rdg wit="#F #J">ይረኀርኀ፡</rdg><rdg wit="#I">ይትራራኅ፡</rdg></app> አብ፡</l>
         </lg>
         
         <lg type="stanza" n="11">
-          <l n="1">ሰላም፡ <app><lem wit="#A #B #D #E #G #H #I">ለከናፍሪክሙ፡</lem><rdg wit="#C">ለከናፍርክሙ፡</rdg><rdg wit="#F">ለከናፍረከሙ፡</rdg></app> እለ፡ <app><lem wit="#A #C #E #F #G #I">ይትፌሥሐ፡</lem><rdg wit="#B">ይትፌሐ፡</rdg><rdg wit="#D">ይትፊስሕ፡</rdg><rdg wit="#H">ይፈትሐ፡</rdg></app> ጥቀ፡</l>
+          <l n="1">ሰላም፡ <app><lem wit="#A #B #D #E #G #H #I #J">ለከናፍሪክሙ፡</lem><rdg wit="#C">ለከናፍርክሙ፡</rdg><rdg wit="#F">ለከናፍረከሙ፡</rdg></app> እለ፡ <app><lem wit="#A #C #E #F #G #I #J">ይትፌሥሐ፡</lem><rdg wit="#B">ይትፌሐ፡</rdg><rdg wit="#D">ይትፊስሕ፡</rdg><rdg wit="#H">ይፈትሐ፡</rdg></app> ጥቀ፡</l>
           <l n="2">
             <app type="line">
-              <lem wit="#A #B #C #D #E #G #H #I">ጊዜ፡ <app><lem wit="#A #C #H">ይቄድሳ፡</lem><rdg wit="#B">ይቅዳ፡</rdg><rdg wit="#D">ይቄድስ፡</rdg><rdg wit="#E">ይቀድሳ፡</rdg><rdg wit="#I">ይቄድሶአ፡</rdg><rdg wit="#G">ይዌድሳ፡</rdg></app> ወጊዜ፡ <app><lem wit="#A #B #C #D #E #H">ይባርካ፡</lem><rdg wit="#G">ይቄድሳ፡</rdg><rdg wit="#I">ይባርክ፡</rdg></app> ሊቀ፡</lem>
+              <lem wit="#A #B #C #D #E #G #H #I #J">ጊዜ፡ <app><lem wit="#A #C #H #J">ይቄድሳ፡</lem><rdg wit="#B">ይቅዳ፡</rdg><rdg wit="#D">ይቄድስ፡</rdg><rdg wit="#E">ይቀድሳ፡</rdg><rdg wit="#I">ይቄድሶአ፡</rdg><rdg wit="#G">ይዌድሳ፡</rdg></app> ወጊዜ፡ <app><lem wit="#A #B #C #D #E #H #J">ይባርካ፡</lem><rdg wit="#G">ይቄድሳ፡</rdg><rdg wit="#I">ይባርክ፡</rdg></app> ሊቀ፡</lem>
               <rdg wit="#F"/>
             </app>
           </l>
-          <l n="3">እንስሳ፡ <app><lem wit="#A #B #C #D #F #H #I">አርባዕ፡</lem><rdg wit="#E">፬፡</rdg><rdg wit="#G">፬ዕ፡</rdg></app> <app><lem wit="#A #B #F">ዘትትዓጸፉ፡</lem><rdg wit="#C #E">ዘትትዓፀፉ፡</rdg><rdg wit="#D #G #I">ዘትትአጸፉ፡</rdg><rdg wit="#H">ዘትትአፀፉ፡</rdg></app> መብረቀ፡</l>
-          <l n="4"><app><lem wit="#A #C #H">ጸግዉኒ፡</lem><rdg wit="#B #D #E #F #G #I">ጸግውኒ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #I">አጋእዝትየ፡</lem><rdg wit="#H">አጋዕዝትየ፡</rdg></app> <app><rdg wit="#A #E">እምነ፡</rdg><rdg wit="#B #C #D">እምብዕለ፡</rdg><rdg wit="#F #G #H #I">እም</rdg></app> ጸጋክሙ፡ <app><lem wit="#A #B #C #D #G #H">ሕቀ፡</lem><rdg wit="#E #F">ህቀ፡</rdg><rdg wit="#I">ኅቀ፡</rdg></app></l>
-          <l n="5">ሰላመ፡ <app><lem wit="#A #B #C #D #E #G #H #I">ሕይወት፡</lem><rdg wit="#F"/></app> <app><rdg wit="#A #B #C #D #E #F #G #H">እለድ፡</rdg><rdg wit="#I">ይለድ፡</rdg></app> <app><lem wit="#A #B #C #E #H">ፀኒስየ፡</lem><rdg wit="#D #F">ጸኒስየ፡</rdg><rdg wit="#G">ፀኒሲየ፡</rdg><rdg wit="#I">ድርሰትየ፡</rdg></app> ጽድቀ፡</l>
+          <l n="3">እንስሳ፡ <app><lem wit="#A #B #C #D #F #H #I #J">አርባዕ፡</lem><rdg wit="#E">፬፡</rdg><rdg wit="#G">፬ዕ፡</rdg></app> <app><lem wit="#A #B #F">ዘትትዓጸፉ፡</lem><rdg wit="#C #E #J">ዘትትዓፀፉ፡</rdg><rdg wit="#D #G #I">ዘትትአጸፉ፡</rdg><rdg wit="#H">ዘትትአፀፉ፡</rdg></app> መብረቀ፡</l>
+          <l n="4"><app><lem wit="#A #C #H #J">ጸግዉኒ፡</lem><rdg wit="#B #D #E #F #G #I">ጸግውኒ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #I #J">አጋእዝትየ፡</lem><rdg wit="#H">አጋዕዝትየ፡</rdg></app> <app><rdg wit="#A #E">እምነ፡</rdg><rdg wit="#B #C #D">እምብዕለ፡</rdg><rdg wit="#F #G #H #I #J">እም</rdg></app> ጸጋክሙ፡ <app><lem wit="#A #B #C #D #G #H #J">ሕቀ፡</lem><rdg wit="#E #F">ህቀ፡</rdg><rdg wit="#I">ኅቀ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#A #B #C #D #E #F #G #H #I">ሰላመ፡</lem><rdg wit="#J">ሰላመክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #I">ሕይወት፡</lem><rdg wit="#F #J"/></app> <app><rdg wit="#A #B #C #D #E #F #G #H #J">እለድ፡</rdg><rdg wit="#I">ይለድ፡</rdg></app> <app><lem wit="#A #B #C #E #H #J">ፀኒስየ፡</lem><rdg wit="#D #F">ጸኒስየ፡</rdg><rdg wit="#G">ፀኒሲየ፡</rdg><rdg wit="#I">ድርሰትየ፡</rdg></app> ጽድቀ፡</l>
         </lg>
         
         <lg type="stanza" n="12">
@@ -778,7 +779,7 @@
         <lg type="stanza" n="6">
           <l n="1">Salutation to your eyelashes, four-faced Creatures,</l>
           <l n="2">The face of an ox and an eagle, the face of a man and the face of a lion.</l>
-          <l n="3">Solomon, the King of Judah, and the messenger of Ephraim, of the region of Mǝḥsa<note>Unclear; also mentioned in stanza 14 of መልክአ፡ መስቀል፡ (ነቢያተ፡ ራእይ፡ ዘደወለ፡ ምሕሳ፡) and መጽሐፈ፡ ስንክሳር፡ for Ḫǝdār 6 (ክርስቶስ፡ ጐይየከ፡ እምደወለ፡ ምሕሳ፡)</note>,</l>
+          <l n="3">Solomon, the King of Judah, who governed Bethel in Ephraim<note>ወለምሕሳ፡ is the Ethiopic form of LXX Ουλαμλους, i.e. Luza, also attested in Ethiopic as ሉዛ፡, identified in the OT as an older name for Bethel</note>,</l>
           <l n="4">Had your likeness engraved in the interior of the Temple of his God<note>The image of the Four Living Creatures carved in the Temple of Solomon is the subject of one of the miracles of Jesus (PO 14.5, no. 14)</note></l>
           <l n="5">Once it was completed after thirty years.</l>
         </lg>
