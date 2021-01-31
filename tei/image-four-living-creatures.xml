@@ -394,7 +394,7 @@
           <lem wit="#A #B #C #E #F #G #H #I">
             <lg type="stanza" n="15">
               <l n="1">ሰላም፡ <app><lem wit="#A #B #C #E #F #H #I #J">ለቃልክሙ፡</lem><rdg wit="#G">ለቃልከ፡</rdg></app> ዘጥቀ፡ <app><lem wit="#A #B #C #G #J">ድሙፅ፡</lem><rdg wit="#E #F #H #I">ድሙጽ፡</rdg></app></l>
-              <l n="2"><app><lem wit="#A #B #C #G">እምድምፀ፡</lem><rdg wit="#E #F #H #I #J">እምቃለ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #J">መጥቅዕ፡</lem><rdg wit="#I">መብረቅ፡</rdg></app> <app><rdg wit="#A">መፍርህ፡</rdg><rdg wit="#B #C #E #F #J">በሊሕ፡</rdg><rdg wit="#G">ዘይባልሕ፡</rdg><rdg wit="#H #I">በሊህ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #J">ወእምጕሕና፡</lem><rdg wit="#H">ወእምጎሐ፡</rdg><rdg wit="#I">ወሕጉና፡</rdg></app> <app><lem wit="#A #B #C #J">ፀዓዕ፡</lem><rdg wit="#E #F">ፀአዕ፡</rdg><rdg wit="#G #H">ጸዓዕ፡</rdg><rdg wit="#I">ጸአዕ፡</rdg></app> መደንግፅ፡</l>
+              <l n="2"><app><lem wit="#A #B #C #G">እምድምፀ፡</lem><rdg wit="#E #F #H #I #J">እምቃለ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #J">መጥቅዕ፡</lem><rdg wit="#I">መብረቅ፡</rdg></app> <app><rdg wit="#B #C #E #F #J">በሊሕ፡</rdg><rdg wit="#H #I">በሊህ፡</rdg><rdg wit="#G">ዘይባልሕ፡</rdg><rdg wit="#A">መፍርህ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #J">ወእምጕሕና፡</lem><rdg wit="#H">ወእምጎሐ፡</rdg><rdg wit="#I">ወሕጉና፡</rdg></app> <app><lem wit="#A #B #C #J">ፀዓዕ፡</lem><rdg wit="#E #F">ፀአዕ፡</rdg><rdg wit="#G #H">ጸዓዕ፡</rdg><rdg wit="#I">ጸአዕ፡</rdg></app> መደንግፅ፡</l>
               <l n="3"><app><lem wit="#A #B #C #F #H #I #J">እንስሳ፡</lem><rdg wit="#G">ኪሩቤል፡</rdg><rdg wit="#E"/></app> <app><lem wit="#A #B #C #F #G #H #I #J">እሳት፡</lem><rdg wit="#E"/></app> ኪሩቤል፡ <app><lem wit="#A #B #C #F #G #H #I #J"/><rdg wit="#E">፬</rdg></app> <app><lem wit="#A #B #C #F #G #J">ርቡዓነ፡</lem><rdg wit="#E #I">ርቡአነ፡</rdg><rdg wit="#H">ግሩማነ፡</rdg></app> ገጽ፡</l>
               <l n="4"><app><lem wit="#A #B #C #E #H #I #J">ጸሎትየ፡</lem><rdg wit="#F">ጸሎት፡</rdg><rdg wit="#G">ጸሎትክሙ፡</rdg></app> <app><rdg wit="#A #F #I #J">መንገሌክሙ፡</rdg><rdg wit="#B #C #E #H">በቅድሜክሙ፡</rdg><rdg wit="#G">መንገሌየ፡</rdg></app> <app><rdg wit="#A #B #C #E #F #H #I #J">ለትሩጽ፡</rdg><rdg wit="#G">ለትሩፅ፡</rdg></app></l>
               <l n="5">እምቀስተ፡ ኃያል፡ ከመ፡ <app><lem wit="#A #C #E #F #G #H #I #J">ይሰርር፡</lem><rdg wit="#B">ይሠርር፡</rdg></app> <app><lem wit="#A #B #C #E #F #H #I #J">ሐፅ፡</lem><rdg wit="#G">ሐጽ፡</rdg></app></l>
@@ -404,7 +404,7 @@
         </app>
         
         <lg type="stanza" n="16">
-          <l n="1">ሰላም፡ <app><lem wit="#A #B #C #D #G #H #I #J">ለእስትንፋስክሙ፡</lem><rdg wit="#E">ለእስትንፋክሙ፡</rdg><rdg wit="#F">ለእስትፋስክሙ፡</rdg></app> <app><lem wit="#A #B #C #E #G #H">ዘኢያስተርኢ፡</lem><rdg wit="#D #J">ዘያስተርኢ፡</rdg><rdg wit="#F">ዘያስተሪኢ፡</rdg><rdg wit="#I">ዘአይትረአይ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J">ኅብሩ፡</lem><rdg wit="#I">ሕብሩ፡</rdg></app></l>
+          <l n="1">ሰላም፡ <app><lem wit="#A #B #C #D #G #H #I #J">ለእስትንፋስክሙ፡</lem><rdg wit="#E">ለእስትንፋክሙ፡</rdg><rdg wit="#F">ለእስትፋስክሙ፡</rdg></app> <app><lem wit="#A #B #C #E #G #H">ዘኢያስተርኢ፡</lem><rdg wit="#D #J">ዘያስተርኢ፡</rdg><rdg wit="#F">ዘያስተሪኢ፡</rdg><rdg wit="#I">ዘአይትረአይ፡</rdg></app> <app><lem wit="#I">ሕብሩ፡</lem><rdg wit="#A #B #C #D #E #F #G #H #J">ኅብሩ፡</rdg></app></l>
           <l n="2">
             <app type="line">
               <lem wit="#A #B #C #D #E #F #H #I #J"><app><rdg wit="#A #B #C #D #E">ወዘኢይትገሰስ፡</rdg><rdg wit="#F">ዘኢይትገሰስ፡</rdg><rdg wit="#H #J">ወዘኢይትገሠሥ፡</rdg><rdg wit="#I">ወዘኢይትአመር፡</rdg></app> ግብሩ፡</lem>
@@ -417,8 +417,8 @@
               <rdg wit="#G">ነፋሰ፡ ቅዳሴ፡ ይነፍሕ፡ ዘመንክር፡ ፆታ፡ ነገሩ፡</rdg>
             </app>
           </l>
-          <l n="4"><app><lem wit="#B">ዕደወ፡</lem><rdg wit="#A #C #E #J">ዕድወ፡</rdg><rdg wit="#D #F #G #H">እድወ፡</rdg><rdg wit="#I">እድዋንየ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J">ደም፡</lem><rdg wit="#I"/></app> <app><rdg wit="#A #B #C #E #F #G #H #I #J">በላዕሌየ፡</rdg><rdg wit="#D">ላዕሌየ፡</rdg></app> እመ፡ <app><rdg wit="#A #E">እኩየ፡</rdg><rdg wit="#B #C #F #G #H #I #J">እኪተ፡</rdg><rdg wit="#D">እኵየ፡</rdg></app> መከሩ</l>
-          <l n="5">እስትንፋስክሙ፡ <app><rdg wit="#A">ነበልባለ፡</rdg><rdg wit="#E #G">ነበልባል፡</rdg><rdg wit="#B #C #D #F #H #I #J"/></app> ዲቤሆሙ፡ <app><rdg wit="#B #D #F #H #I #J">ነበልባለ፡</rdg><rdg wit="#C">ነበልባል፡</rdg><rdg wit="#A #E #G"/></app> ይዝሩ፡</l>
+          <l n="4"><app><lem wit="#B">ዕደወ፡</lem><rdg wit="#A #C #E #J">ዕድወ፡</rdg><rdg wit="#D #F #G #H">እድወ፡</rdg><rdg wit="#I">እድዋንየ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #H #J">ደም፡</lem><rdg wit="#I"/></app> <app><rdg wit="#A #B #C #E #F #G #H #I #J">በላዕሌየ፡</rdg><rdg wit="#D">ላዕሌየ፡</rdg></app> እመ፡ <app><lem wit="#B #C #F #G #H #I #J">እኪተ፡</lem><rdg wit="#A #E">እኩየ፡</rdg><rdg wit="#D">እኵየ፡</rdg></app> መከሩ</l>
+          <l n="5">እስትንፋስክሙ፡ <app><rdg wit="#B #C #D #F #H #I #J"/><rdg wit="#A">ነበልባለ፡</rdg><rdg wit="#E #G">ነበልባል፡</rdg></app> ዲቤሆሙ፡ <app><lem wit="#B #D #F #H #I #J">ነበልባለ፡</lem><rdg wit="#C">ነበልባል፡</rdg><rdg wit="#A #E #G"/></app> ይዝሩ፡</l>
         </lg>
         
         <app type="stanza">
@@ -779,7 +779,7 @@
         <lg type="stanza" n="6">
           <l n="1">Salutation to your eyelashes, four-faced Creatures,</l>
           <l n="2">The face of an ox and an eagle, the face of a man and the face of a lion.</l>
-          <l n="3">Solomon, the King of Judah and ruler Bethel in Ephraim<note>ወለምሕሳ፡ is the Ethiopic form of LXX Ουλαμλους, i.e. Luza, also attested in Ethiopic as ሉዛ፡, identified in the OT as an older name for Bethel</note>,</l>
+          <l n="3">Solomon, the King of Judah and ruler of Ephraim, (the place) of Bethel<note>ወለምሕሳ፡ is the Ethiopic form of LXX Ουλαμλους, i.e. Luza, also attested in Ethiopic as ሉዛ፡, identified in the OT as an older name for Bethel</note>,</l>
           <l n="4">Had your likeness engraved in the interior of the Temple of his God<note>The image of the Four Living Creatures carved in the Temple of Solomon is the subject of one of the miracles of Jesus (PO 14.5, no. 14)</note></l>
           <l n="5">Once it was completed after thirty years.</l>
         </lg>
@@ -840,6 +840,49 @@
           <l n="5">Upon the two supports of the Ark of the Law<note>cf. Ex. 25:18-20</note>.</l>
         </lg>
         
+        <lg type="stanza" n="14">
+          <l n="1">Salutation to your tongues, intercessory and merciful,</l>
+          <l n="2">Which the Creator established.</l>
+          <l n="3">
+            <app type="line">
+              <lem wit="#B #C #D #E #F #H #I #J">
+                (Four Living) Creatures, yours is the flying chariot of the Spirit.
+              </lem>
+              <rdg wit="#A #G">
+                Four (Living) Creatures, you whose wings fly,
+              </rdg>
+            </app>
+          </l>
+          <l n="4">Protect my tongue from false, ensnaring words</l>
+          <l n="5">As you protected the tree in Eden which bore fruit.</l>
+        </lg>
+        
+        <lg type="stanza" n="15">
+          <l n="1">Salutation to your voice, which resounds greatly,</l>
+          <l n="2">More sharp than the sound of a trumpet and more terrifying than the loud voice of thunder.</l>
+          <l n="3">Creatures of fire, four-faced Cherubim,</l>
+          <l n="4">Let my prayer rush to you</l>
+          <l n="5">Like an arrow flying from a mighty bow.</l>
+        </lg>
+        
+        <lg type="stanza" n="16">
+          <l n="1">Salutation to your breath, its colour is invisible</l>
+          <l n="2">
+            <app type="line">
+              <lem wit="#A #B #C #D #E #F #H #I #J">And its effect is intangible.</lem>
+              <rdg wit="#G">Four Creatures, bearers of the Lord's throne,</rdg>
+            </app>
+          </l>
+          <l n="3">
+            <app type="line">
+              <lem wit="#A #B #C #D #E #F #H #I #J">Four Creatures, bearers of the Lord's throne,</lem>
+              <rdg wit="#G">Wind of sanctification blowing which is wondrous (in) the type of its nature</rdg>
+            </app>
+          </l>
+          <l n="4">If men of blood conspire evil against me<note>cf. Ps. 58:2-3</note>,</l>
+          <l n="5">Let your breath spread flames upon them.</l>
+        </lg>
+        
       </div>
       <div type="incomplete-translation">
         
@@ -851,34 +894,10 @@
           <l n="5">So that I may stand nearby with your company.</l>
         </lg>
         
-        <lg type="stanza" n="14">
-          <l n="1">Salutation to your tongues, intercessory and merciful,</l>
-          <l n="2">Which the Creator fashioned.</l>
-          <l n="3">Creatures, upon you is the chariot of the flying Spirit.</l>
-          <l n="4">Protect my tongue from the hunting speaker of lies</l>
-          <l n="5">As you protected the tree in Eden which bore fruit.</l>
-        </lg>
-        
-        <lg type="stanza" n="15">
-          <l n="1">Salutation to your voice, which resounds greatly,</l>
-          <l n="2">More than the sound of a sharp trumpet or the mystery of terrifying thunder.</l>
-          <l n="3">Creatures of fire, four-faced Cherubim,</l>
-          <l n="4">Let my prayer rush to you</l>
-          <l n="5">Like an arrow flying from a mighty bow.</l>
-        </lg>
-        
-        <lg type="stanza" n="16">
-          <l n="1">Salutation to your breath, its colour is invisible</l>
-          <l n="2">And its effect is untouchable.</l>
-          <l n="3">Four Creatures, bearers of the Lord's throne,</l>
-          <l n="4">If men of blood conspire evil against me,</l>
-          <l n="5">Let your breath spread flames upon them.</l>
-        </lg>
-        
         <app type="stanza">
           <lem wit="#A #B #C #D #F #G #H #I #J">
             <lg type="stanza" n="17">
-              <l n="1">Salutation to your throats, which shouts holiness.</l>
+              <l n="1">Salutation to your throats, which shout holiness.</l>
               <l n="2">Creatures of fire, Cherubim, fountains of glorification and praise</l>
               <l n="3">From the face of your shining beauty, three in five lights</l>
               <l n="4">When she became human</l>
