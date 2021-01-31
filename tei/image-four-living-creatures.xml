@@ -242,7 +242,7 @@
         <app type="stanza">
           <lem wit="#I">
             <lg type="stanza" n="1">
-              <l n="1">ሰላም፡ ለተፈጥሮትክሙ፡ አምሳለ፡ ነፋስ፡ ወነድ፡</l>
+              <l n="1">ሰላም፡ <app><lem>ፍጥረትክሙ፡</lem><rdg wit="#I">ለተፈጥሮትክሙ፡</rdg></app> <app><lem>እምነፋስ፡</lem><rdg wit="#I">አምሳለ፡ ነፋስ፡</rdg></app> ወነድ፡</l>
               <l n="2">ምስለ፡ ሰማያት፡ ወምድር፡ በዕለተ፡ እሁድ፡</l>
               <l n="3">ዘታጸንዑ፡ እንስሳ፡ መንበረ፡ ሥላሴ፡ በእድ፡</l>
               <l n="4">ክፍሉኒአ፡ እንተ፡ ለክሙ፡ ጸማድ፡</l>
@@ -727,6 +727,14 @@
       
       <div type="translation">
         
+        <lg type="stanza" n="1">
+          <l n="1">Salutation to your creation from wind and fire</l>
+          <l n="2"><!--On Sunday along with the heavens and the earth.--></l>
+          <l n="3"><!--Creatures, you who sustain the throne of the Trinity upon (your) hand(s),--></l>
+          <l n="4"><!--Grant that I may be a servant to you--></l>
+          <l n="5"><!--So that I may stand nearby with your company.--></l>
+        </lg>
+        
         <lg type="stanza" n="2">
           <l n="1">Salutation to the commemoration of your names; their greatness is exalted</l>
           <l n="2">More than the memory of the four stars which separate the seasons of the years.</l>
@@ -898,14 +906,6 @@
         
       </div>
       <div type="incomplete-translation">
-        
-        <lg type="stanza" n="1">
-          <l n="1">Salutation to your creation from wind and fire</l>
-          <l n="2">On Sunday along with the heavens and the earth.</l>
-          <l n="3">Creatures, you who sustain the throne of the Trinity upon (your) hand(s),</l>
-          <l n="4">Grant that I may be a servant to you</l>
-          <l n="5">So that I may stand nearby with your company.</l>
-        </lg>
         
         <app type="stanza">
           <lem wit="#A #B #C #D #F #G #H #I #J">
