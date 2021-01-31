@@ -133,7 +133,7 @@
               </msContents>
               <history>
                 <origin>
-                  <origDate></origDate>
+                  <origDate>unk.</origDate>
                   <origPlace>Wollo Zammado Maryam</origPlace>
                 </origin>
               </history>
@@ -212,11 +212,24 @@
               </msContents>
               <history>
                 <origin>
-                  <origDate></origDate>
+                  <origDate>unk.</origDate>
                 </origin>
               </history>
             </msDesc>
           </witness>
+          
+          <!--
+          <witness xml:id="X">
+            <bibl>
+              <title></title>
+              <editor></editor>
+              <publisher></publisher>
+              <pubPlace></pubPlace>
+              <date></date>
+              <citedRange from="0" to="0"/>
+            </bibl>
+          </witness>
+          -->
           
         </listWit>
       </sourceDesc>

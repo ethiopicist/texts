@@ -110,42 +110,77 @@
 
   <xsl:template match="tei:witness">
     <li>
-      <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:repository"/>
-      <xsl:text> </xsl:text>
-      <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:collection"/>
-      <xsl:text> </xsl:text>
-      <xsl:value-of select="tei:msDesc/tei:msIdentifier/tei:idno"/>
+      <xsl:attribute name="value">
+        <xsl:value-of select="translate(@xml:id,'JKLMNOPQRSTUVWXYZABCDEFGHI','11111111112222222')"/>
+        <xsl:value-of select="translate(@xml:id,'ABCDEFGHIJKLMNOPQRSTUVWXYZ','12345678901234567890123456')"/>
+      </xsl:attribute>
+      
+      <xsl:apply-templates select="tei:msDesc|tei:bibl"/>
 
-      <xsl:apply-templates select="tei:msDesc/tei:msIdentifier/tei:altIdentifier"/>
-
-      <xsl:if test="tei:msDesc/tei:history/tei:origin/tei:origPlace">
-        <xsl:text>, </xsl:text>
-        <xsl:value-of select="tei:msDesc/tei:history/tei:origin/tei:origPlace"/>
+      <xsl:if test="@facs">
+        <xsl:text> [</xsl:text>
+        <a target="_blank">
+          <xsl:attribute name="href">
+            <xsl:value-of select="@facs"/>
+          </xsl:attribute>
+          <xsl:text>Images</xsl:text>
+        </a>
+        <xsl:text>]</xsl:text>
       </xsl:if>
-
-      <xsl:text>, </xsl:text>
-      <xsl:value-of select="tei:msDesc/tei:history/tei:origin/tei:origDate"/>
-
-      <xsl:text>, ff. </xsl:text>
-      <xsl:value-of select="tei:msDesc/tei:msContents/tei:msItem/tei:locus/@from"/>
-      <xsl:text>-</xsl:text>
-      <xsl:value-of select="tei:msDesc/tei:msContents/tei:msItem/tei:locus/@to"/>
-
-      <xsl:text> [</xsl:text>
-      <a target="_blank">
-        <xsl:attribute name="href">
-          <xsl:value-of select="@facs"/>
-        </xsl:attribute>
-        <xsl:text>Images</xsl:text>
-      </a>
-      <xsl:text>]</xsl:text>
     </li>
+  </xsl:template>
+  
+  <xsl:template match="tei:msDesc">
+    <xsl:value-of select="tei:msIdentifier/tei:repository"/>
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="tei:msIdentifier/tei:collection"/>
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="tei:msIdentifier/tei:idno"/>
+
+    <xsl:apply-templates select="tei:msIdentifier/tei:altIdentifier"/>
+
+    <xsl:if test="tei:history/tei:origin/tei:origPlace">
+      <xsl:text>, </xsl:text>
+      <xsl:value-of select="tei:history/tei:origin/tei:origPlace"/>
+    </xsl:if>
+
+    <xsl:if test="tei:history/tei:origin/tei:origDate">
+      <xsl:text>, </xsl:text>
+      <xsl:value-of select="tei:history/tei:origin/tei:origDate"/>
+    </xsl:if>
+
+    <xsl:text>, ff. </xsl:text>
+    <xsl:value-of select="tei:msContents/tei:msItem/tei:locus/@from"/>
+    <xsl:text>-</xsl:text>
+    <xsl:value-of select="tei:msContents/tei:msItem/tei:locus/@to"/>
   </xsl:template>
 
   <xsl:template match="tei:altIdentifier">
     <xsl:text> (</xsl:text>
     <xsl:value-of select="tei:idno"/>
     <xsl:text>)</xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="tei:bibl">
+    <xsl:value-of select="tei:editor"/>
+    <xsl:text>, ed. </xsl:text>
+    
+    <u><xsl:value-of select="tei:title"/></u>
+    <xsl:text>. </xsl:text>
+    
+    <xsl:value-of select="tei:pubPlace"/>
+    <xsl:text>: </xsl:text>
+    
+    <xsl:value-of select="tei:publisher"/>
+    <xsl:text>, </xsl:text>
+    
+    <xsl:value-of select="tei:date"/>
+    <xsl:text>, </xsl:text>
+    
+    <xsl:text>pp. </xsl:text>
+    <xsl:value-of select="tei:citedRange/@from"/>
+    <xsl:text>-</xsl:text>
+    <xsl:value-of select="tei:citedRange/@to"/>
   </xsl:template>
 
   
