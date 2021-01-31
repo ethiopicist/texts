@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type='text/xsl' href='../style.xsl'?>
+<?xml-stylesheet href="../style.xsl" type="text/xsl"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -973,15 +974,213 @@
           <l n="5">He told Moses "Fashion a cherub."</l>
         </lg>
         
-        <!--
-        <lg type="stanza" n="">
-          <l n="1"></l>
+        <lg type="stanza" n="22">
+          <l n="1">Salutation to</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
           <l n="5"></l>
         </lg>
-        -->
+        
+        <lg type="stanza" n="23">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="24">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="25">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="26">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="27">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="28">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="29">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="30">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="31">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="32">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="33">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="34">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="35">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="36">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="37">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="38">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="39">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="40">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="41">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="42">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="43">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="44">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="45">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="46">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="47">
+          <l n="1">Salutation to</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
         
       </div>
     </body>
