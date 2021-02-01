@@ -269,7 +269,7 @@
         
         <lg type="stanza" n="3">
           <l n="1">ሰላም፡ <app><lem wit="#C #E">ለሥዕርተ፡ ርእስክሙ፡</lem><rdg wit="#A #D #G #J">ለስእርተ፡ ርእስክሙ፡</rdg><rdg wit="#B #H #K">ለሥዕርትክሙ፡</rdg><rdg wit="#F">ለዝክረ፡ ስምክሙ፡</rdg></app> <app><lem wit="#B #C #D #J">አርአያ፡</lem><rdg wit="#A">ከመ፡</rdg><rdg wit="#E #F #H #K">ዘአርአያ፡</rdg><rdg wit="#G">አምሳለ፡</rdg></app> በረድ፡ ንጹሕ፡</l>
-          <l n="2"><app><lem wit="#A #B #C #E #H #J #K">ወዘኅብረ፡</lem><rdg wit="#D">ዘኅብረ፡</rdg><rdg wit="#F">ወዘሕብረ፡</rdg><rdg wit="#G">ወኅብረ፡</rdg></app> ያክንት፡ ቀይሕ፡</l>
+          <l n="2"><app><lem wit="#F">ወዘሕብረ፡</lem><rdg wit="#A #B #C #E #H #J #K">ወዘኅብረ፡</rdg><rdg wit="#D">ዘኅብረ፡</rdg><rdg wit="#G">ወኅብረ፡</rdg></app> ያክንት፡ ቀይሕ፡</l>
           <l n="3"><app><lem wit="#A #B #D #F #G #H #J #K">ሰረገላቲሁ፡</lem><rdg wit="#C">ሠረገላቲሁ፡</rdg><rdg wit="#E">መናብርቲሁ፡</rdg></app> ኪሩቤል፡ <app><lem wit="#A #B #C #D #F #H #J #K">ለአምላክ፡</lem><rdg wit="#E">ለእግዚአብሔር፡</rdg><rdg wit="#G">ለአምላከ፡ ሰማይ፡</rdg></app> ስቡሕ፡</l>
           <l n="4"><app><lem wit="#A #C #H #K">ጸግዉኒ፡</lem><rdg wit="#B #E #G #J">ጸግውኒ፡</rdg><rdg wit="#D">ፀግውኒ፡</rdg><rdg wit="#F">ጸግወኒ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #G #J #K">አጋእዝትየ፡</lem><rdg wit="#H">አጋዕዝትየ፡</rdg></app> <app><lem wit="#A #B #C #E #F #G #H #J #K">እምጸጋክሙ፡</lem><rdg wit="#D">እምላዕለ፡ ጸጋክሙ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #J #K">ብዙኅ፡</lem><rdg wit="#F">ብዙሕ፡</rdg></app></l>
           <l n="5"><app><lem wit="#B #D #E #F #G #J #K">ናህየ፡</lem><rdg wit="#A #C">ናኅየ፡</rdg><rdg wit="#H">ናሕየ፡</rdg></app> <app><lem wit="#A #B #C #D #E #F #J #K">በሰርክ፡</lem><rdg wit="#G #H">በሠርክ፡</rdg></app> <app><lem wit="#A #B #C #D #E #G #H #J #K">ወሣህለ፡</lem><rdg wit="#F">ወሣህል፡</rdg></app> በነግህ፡</l>
@@ -769,7 +769,7 @@
         <lg type="stanza" n="2">
           <l n="1">Salutation to the commemoration of your names; their greatness is exalted</l>
           <l n="2">More than the memory of the four stars which separate the seasons of the years.</l>
-          <l n="3">Four Creatures, bearers of the heaven of the Lord,</l>
+          <l n="3">Four (Living) Creatures, bearers of the heaven of the Lord,</l>
           <l n="4">In order that I may sing a song for the memory of your name with it,</l>
           <l n="5">
             <app type="line">
@@ -780,7 +780,7 @@
         </lg>
         
         <lg type="stanza" n="3">
-          <l n="1">Salutation to the hair of your heads; their appearance is like pure snow,</l>
+          <l n="1">Salutation to the hair of your heads; (their) appearance (is like) pure snow,</l>
           <l n="2">And the red colour of jacinth<note>cf. Ez. 28:13-14</note>.</l>
           <l n="3">Cherubim, chariots of glorified God,</l>
           <l n="4">Grant me, my lords, out of the multitude of your grace,</l>
@@ -819,7 +819,7 @@
           </l>
           <l n="2">
             <app type="line">
-              <lem>The prophet Ezekiel saw them<note>Ez. 1:1-27</note> with the eye of understanding.</lem>
+              <lem>The prophet Ezekiel saw them with the eye of understanding<note>Ez. 1:1-27</note>.</lem>
               <rdg wit="#E #F #J">Each one of your four faces.</rdg>
             </app>
           </l>
@@ -830,7 +830,13 @@
         
         <lg type="stanza" n="6">
           <l n="1">Salutation to your eyelashes, four-faced Creatures,</l>
-          <l n="2">The face of an ox and an eagle, the face of a man and the face of a lion.</l>
+          <l n="2">
+            <app type="line">
+              <lem>The face of a fatted ox and the face of a terrifying lion.</lem>
+              <rdg wit="#A #E #G">The face of an ox and an eagle, the face of a man, and the face of a lion.</rdg>
+              <rdg wit="#J">In the likeness of an ox, a man, and an eagle and the face of a terrifying lion.</rdg>
+            </app>
+          </l>
           <l n="3">Solomon, the King of Judah and ruler of Ephraim, (the place) of Bethel<note>ወለምሕሳ፡ is the Ethiopic form of LXX Ουλαμλους, i.e. Luza, also attested in Ethiopic as ሉዛ፡, identified in the OT as an older name for Bethel</note>,</l>
           <l n="4">Had your likeness engraved in the interior of the Temple of his God<note>The image of the Four Living Creatures carved in the Temple of Solomon is the subject of one of the miracles of Jesus (PO 14.5, no. 14)</note></l>
           <l n="5">Once it was completed after thirty years.</l>
@@ -871,7 +877,7 @@
         <lg type="stanza" n="11">
           <l n="1">Salutation to your lips, which rejoice greatly</l>
           <l n="2">When they hallow and when they bless the Lord.</l>
-          <l n="3">Four Living Creatures, clothed with lightning,</l>
+          <l n="3">Four (Living) Creatures, clothed with lightning,</l>
           <l n="4">Grant me, lords, a small (portion) of your grace,</l>
           <l n="5">Having conceived righteousness, let me beget peace of life.</l>
         </lg>
@@ -887,7 +893,7 @@
         <lg type="stanza" n="13">
           <l n="1">Salutation to your teeth, which are ardorned with light</l>
           <l n="2">For the consumption of food which they do not chew.</l>
-          <l n="3">Four Living Creatures of the heavenly palace,</l>
+          <l n="3">Four (Living) Creatures of the heavenly palace,</l>
           <l n="4">Your likeness was crafted, through the skill of the relative of Achsah<note>Unclear; see Js. 15 and Jg. 1</note>,</l>
           <l n="5">Upon the two supports of the Ark of the Law<note>cf. Ex. 25:18-20</note>.</l>
         </lg>
@@ -897,12 +903,8 @@
           <l n="2">Which the Creator established.</l>
           <l n="3">
             <app type="line">
-              <lem wit="#B #C #D #E #F #H #J #K">
-                (Four Living) Creatures, yours is the flying chariot of the Spirit.
-              </lem>
-              <rdg wit="#A #G">
-                Four (Living) Creatures, you whose wings fly,
-              </rdg>
+              <lem>Creatures, yours is the flying chariot of the Spirit.</lem>
+              <rdg wit="#A #G">Four (Living) Creatures, you whose wings fly,</rdg>
             </app>
           </l>
           <l n="4">Protect my tongue from false, ensnaring words</l>
@@ -921,13 +923,13 @@
           <l n="1">Salutation to your breath, its colour is invisible</l>
           <l n="2">
             <app type="line">
-              <lem wit="#A #B #C #D #E #F #H #J #K">And its effect is intangible.</lem>
-              <rdg wit="#G">Four Creatures, bearers of the Lord's throne,</rdg>
+              <lem>And its effect is intangible.</lem>
+              <rdg wit="#G">Four (Living) Creatures, bearers of the Lord's throne,</rdg>
             </app>
           </l>
           <l n="3">
             <app type="line">
-              <lem wit="#A #B #C #D #E #F #H #J #K">Four Creatures, bearers of the Lord's throne,</lem>
+              <lem>Four (Living) Creatures, bearers of the Lord's throne,</lem>
               <rdg wit="#G">Wind of sanctification blowing which is wondrous (in) the type of its nature</rdg>
             </app>
           </l>
@@ -943,18 +945,28 @@
             <lg type="stanza" n="17">
               <l n="1">Salutation to your throats, which shout holiness.</l>
               <l n="2">Creatures of fire, Cherubim, fountains of glorification and praise</l>
-              <l n="3">From the face of your shining beauty, three in five lights</l>
-              <l n="4">When she became human</l>
+              <l n="3">
+                <app type="line">
+                  <lem>From the face of your shining beauty, three in five lights</lem>
+                  <rdg wit="#G">The face of an ox and an eagle, the face of a lion and the face of a man</rdg>
+                </app>
+              </l>
+              <l n="4">
+                <app type="line">
+                  <lem>When she became human</lem>
+                  <rdg wit="#G"><!--same as above--></rdg>
+                </app>
+              </l>
               <l n="5">The queen of the night, Bǝnāse<note>The third name of the moon; see Hen. 78:2</note>, became dull.</l>
             </lg>
           </lem>
           <rdg wit="#E">
             <lg type="stanza" n="17">
-              <l n="1">Salutation to your throats,</l>
-              <l n="2"></l>
-              <l n="3"></l>
-              <l n="4"></l>
-              <l n="5"></l>
+              <l n="1">Salutation to your throats, which shout like trumpets</l>
+              <l n="2">And which do not cease (even) a little.</l>
+              <l n="3">Four Cherubim, I who tells you "Look!,"</l>
+              <l n="4">By your power you cause the power of my enemy to fall away</l>
+              <l n="5">In Sion make the plants of Paradise near to me.</l>
             </lg>
           </rdg>
         </app>
@@ -1002,7 +1014,7 @@
         <lg type="stanza" n="23">
           <l n="1">Salutation to</l>
           <l n="2"></l>
-          <l n="3"></l>
+          <l n="3">Four (Living) Creatures who go back (and forth) like lightning<note>cf. Ez. 1:14</note></l>
           <l n="4"></l>
           <l n="5"></l>
         </lg>
