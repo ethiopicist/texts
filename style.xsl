@@ -17,6 +17,35 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"/>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@creativebulma/bulma-tooltip@1.2.0/dist/bulma-tooltip.min.css"/>
         <style>
+          @import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700");
+          @import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600");
+          
+          @font-face {
+            font-family: "Noto Serif";
+            font-weight: 400;
+            src: local("Noto Serif Ethiopic"),
+                 local("NotoSerifEthiopic-Regular"),
+                 url("https://cdn.jsdelivr.net/gh/googlefonts/noto-fonts/hinted/ttf/NotoSerifEthiopic/NotoSerifEthiopic-Regular.ttf") format("truetype");
+            unicode-range: U+1200-1380;
+          }
+          
+          @font-face {
+            font-family: "Noto Serif";
+            font-weight: 600;
+            src: local("Noto Serif Ethiopic"),
+                 local("NotoSerifEthiopic-SemiBold"),
+                 url("https://cdn.jsdelivr.net/gh/googlefonts/noto-fonts/hinted/ttf/NotoSerifEthiopic/NotoSerifEthiopic-SemiBold.ttf") format("truetype");
+            unicode-range: U+1200-1380;
+          }
+          
+          * {
+            font-family: "Noto Serif", serif;
+          }
+          
+          h1, h2, h3, h4, h5, h6 {
+            font-family: "Roboto Slab", serif;
+          }
+          
           span.alt-stanza {
             display: block;
           }
@@ -43,7 +72,7 @@
         <section class="section">
           <div class="container content">
 
-            <h1 class="title is-3">
+            <h1 class="title is-3" style="font-family: 'Noto Serif', serif;">
               <xsl:value-of select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@xml:lang='gez']"/>
             </h1>
             <h2 class="subtitle is-5">
