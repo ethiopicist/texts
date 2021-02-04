@@ -50,6 +50,71 @@
             </msDesc>
           </witness>
           
+          <!--
+          <witness xml:id="">
+            <msDesc>
+              <msIdentifier>
+                <repository>BL</repository>
+                <collection>Or.</collection>
+                <idno>574</idno>                
+                <altIdentifier>
+                  <idno>Wright CLXXXIX</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="101v" to="103r"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>17th c.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="">
+            <msDesc>
+              <msIdentifier>
+                <repository>BL</repository>
+                <collection>Or.</collection>
+                <idno>582</idno>                
+                <altIdentifier>
+                  <idno>Wright CLXXXVI</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="79r" to="80r"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>18th c.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="">
+            <msDesc>
+              <msIdentifier>
+                <repository>BnF</repository>
+                <collection>éth.</collection>
+                <idno>197</idno>                
+                <altIdentifier>
+                  <idno>Chaîne 11</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="2r" to="4r"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>19th c.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          -->
+          
           <witness xml:id="B" facs="https://gundagunde.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A94859#page/114/mode/1up">
             <msDesc>
               <msIdentifier>
