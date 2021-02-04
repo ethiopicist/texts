@@ -579,43 +579,68 @@
       <div type="incomplete-text">
         
         <lg type="stanza" n="26">
-          <l n="1">ሰላም፡ ለኵርናዕክሙ፡ መናቅዕቲሃ፡ ለእድ፡</l>
-          <l n="2">መንፈሳውን፡ ዘአፍራስ፡ ነድ፡</l>
-          <l n="3">እለ፡ ትጸውሩ፡ ሰማየ፡ ዘኅብረ፡ በረድ፡</l>
-          <l n="4">ነዋ፡ ውዳሴክሙ፡ ውስተ፡ አፉየ፡ ለአብድ፡</l>
-          <l n="5">ከመ፡ ውፅቦ፡ ወርቅ፡ በስንፀት፡ ወዱድ፡</l>
+          <l n="1">ሰላም፡ <app><rdg wit="#A">ለኵርናዕክሙ፡</rdg><rdg wit="#B #C #E">ለኵርናዓቲክሙ፡</rdg><rdg wit="#D">ለኵርናዒክሙ፡</rdg></app> <app><rdg wit="#A #B #C #E">መናቅዕቲሃ፡</rdg><rdg wit="#D">መናቅናቲሃ፡</rdg></app> ለእድ፡</l>
+          <l n="2"><app><rdg wit="#B #C #D">መንፈሳውን፡ እንስሳ፡</rdg><rdg wit="#A">መንፈሳውን፡</rdg><rdg wit="#E">እንስሳ፡ መንፈስ፡</rdg></app> <app><rdg wit="#A">ዘአፍራስ፡</rdg><rdg wit="#B #C #D 3E">ወአፍራሰ፡</rdg></app> ነድ፡</l>
+          <l n="3"><app><lem wit="#A #B #C #D">እለ፡</lem><rdg wit="#E">ዘ</rdg></app> <app><lem wit="#A #B #C #E">ትጸውሩ፡</lem><rdg wit="#D">ትፀውሩ፡</rdg></app> ሰማየ፡ ዘኅብረ፡ በረድ፡</l>
+          <l n="4">
+            <app type="line">
+              <lem wit="#A #B #C #D">ነዋ፡ ውዳሴክሙ፡ ውስተ፡ <app><rdg wit="#A #B #C">አፉየ፡</rdg><rdg wit="#D">ልብየ፡</rdg></app> <app><rdg wit="#A #B #D">ለአብድ፡</rdg><rdg wit="#C">ለዐብድ፡</rdg></app></lem>
+              <rdg wit="#E">በዕበየ፡ ስምክሙ፡ ተማኅፀንኩ፡ ገብርክሙ፡ አብድ፡</rdg>
+            </app>
+          </l>
+          <l n="5">
+            <app type="line">
+              <lem wit="#A #B #C #D">ከመ፡ <app><rdg wit="#A">ውፅቦ፡</rdg><rdg wit="#B #C">ውፅበ፡</rdg><rdg wit="#D">ለጽሕቦ፡</rdg></app> ወርቅ፡ <app><rdg wit="#A">በስንፀት፡</rdg><rdg wit="#B">በስንጸት፡</rdg><rdg wit="#C">በስንጻት፡</rdg><rdg wit="#D">በሰጽንት፡</rdg></app> <app><rdg wit="#A #B">ወዱድ፡</rdg><rdg wit="#C #D">ውዱድ፡</rdg></app></lem>
+              <rdg wit="#E">ከመ፡ ትዕቀቡኒ፡ በኵሉ፡ ትውልድ፡</rdg>
+            </app>
+          </l>
         </lg>
         
         <lg type="stanza" n="27">
-          <l n="1">ሰላም፡ ለእመታቲክሙ፡ እለ፡ ይነብራ፡ ማእከለ፡</l>
-          <l n="2">እምነ፡ እራኅ፡ ታሕተ፡ ወእምነ፡ ኵርናዕ፡ ላዕለ፡</l>
-          <l n="3">እንስሳ፡ አርባዕ፡ ዘትፄዓኑ፡ ጌልጌለ፡</l>
-          <l n="4">አሰስሉ፡ እምአባልየ፡ ሕገ፡ ኃጢአት፡ ኅዩለ፡</l>
+          <l n="1">ሰላም፡ <app><lem wit="#A #B #C">ለእመታቲክሙ፡</lem><rdg wit="#D">ለእመታክሙ፡</rdg><rdg wit="#E">ለእመትክሙ፡</rdg></app> እለ፡ ይነብራ፡ <app><rdg wit="#A #B #C #E">ማእከለ፡</rdg><rdg wit="#D">ማዕከለ፡</rdg></app></l>
+          <l n="2"><app><rdg wit="#A #B #C #D">እምነ፡</rdg><rdg wit="#E">እም</rdg></app> <app><rdg wit="#A #B #C">እራኅ፡</rdg><rdg wit="#D">ኵርናዕ፡</rdg><rdg wit="#E">ኵርናዓቲክሙ፡</rdg></app> ታሕተ፡ <app><rdg wit="#A #B #C #D">ወእምነ፡</rdg><rdg wit="#E">ወእም</rdg></app> <app><rdg wit="#A #B #C">ኵርናዕ፡</rdg><rdg wit="#D">እራኅ፡</rdg><rdg wit="#E">እራኅክሙ፡</rdg></app> ላዕለ፡</l>
+          <l n="3"><app><rdg wit="#A #B #C #D">እንስሳ፡ አርባዕ፡</rdg><rdg wit="#E">ኪሩቤል፡</rdg></app> <app><rdg wit="#A">ዘትፄዓኑ፡</rdg><rdg wit="#B #C #E">ዘተጸውሩ፡</rdg><rdg wit="#D">ዘተአጥኑ፡</rdg></app> <app><lem wit="#A #C">ጌልጌለ፡</lem><rdg wit="#B #E">ጌርጌለ፡</rdg><rdg wit="#D">ጊርጌለ፡</rdg></app></l>
+          <l n="4"><app><rdg wit="#A #B #E">አሰስሉ፡</rdg><rdg wit="#C #D">አስስሉ፡</rdg></app> <app><rdg wit="#A #B #C #D">እምአባልየ፡</rdg><rdg wit="#E">እምላዕሌየ፡</rdg></app> ሕገ፡ ኃጢአት፡ <app><rdg wit="#A #B #C #E">ኅዩለ፡</rdg><rdg wit="#D">ኅዱለ፡</rdg></app></l>
           <l n="5">ምስለ፡ ሕግ፡ መንፈሳዊ፡ ዘይገብር፡ ቀትለ፡</l>
         </lg>
         
         <lg type="stanza" n="28">
-          <l n="1">ሰላም፡ ለእራኃቲክሙ፡ እለ፡ ኃፈና፡ አፍሐመ፡</l>
-          <l n="2">በዓፀድ፡ ጸናፊ፡ ለባሴ፡ ቅድሳት፡ አመ፡ ቆመ፡</l>
-          <l n="3">እምአመ፡ ሰማዕኩ፡ ኪሩብ፡ ሠናይተክሙ፡ አዳመ፡</l>
-          <l n="4">አፍቅሮተክሙ፡ ልብየ፡ ቀደመ፡</l>
-          <l n="5">ወውዳሴክሙ፡ አፉየ፡ ደገመ፡</l>
+          <l n="1">ሰላም፡ <app><rdg wit="#A #B #C">ለእራኃቲክሙ፡</rdg><rdg wit="#D">ለእራኅቲክሙ፡</rdg><rdg wit="#E">ለእራኀክሙ፡</rdg></app> እለ፡ <app><rdg wit="#A">ኃፈና፡</rdg><rdg wit="#B #C #D #E">ሐፈና፡</rdg></app> አፍሐመ፡</l>
+          <l n="2"><app><rdg wit="#A #B #C">በዓፀድ፡</rdg><rdg wit="#D">በአጸደ፡</rdg><rdg wit="#E">በዐፀደ፡</rdg></app> <app><rdg wit="#A #B #C #E">ጸናፊ፡</rdg><rdg wit="#D">ጽናፊ፡</rdg></app> ለባሴ፡ <app><rdg wit="#A #C #D #E">ቅድሳት፡</rdg><rdg wit="#B">ቅዳሴ፡</rdg></app> አመ፡ ቆመ፡</l>
+          <l n="3"><app><rdg wit="#A #E">እምአመ፡</rdg><rdg wit="#B #C #D">እምከመ፡</rdg></app> ሰማዕኩ፡ <app><rdg wit="#A">ኪሩብ፡</rdg><rdg wit="#B #C #D #E">ኪሩቤል፡</rdg></app> <app><rdg wit="#A #E">ሠናይተክሙ፡</rdg><rdg wit="#B #C #D">ሠናያቲክሙ፡</rdg></app> <app><rdg wit="#A #B #C #D">አዳመ፡</rdg><rdg wit="#E">አደ??መ፡</rdg></app></l>
+          <l n="4">አፍቅሮተክሙ፡ ልብየ፡ <app><rdg wit="#A #B #C #E">ቀደመ፡</rdg><rdg wit="#D">አቅደመ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#A #B #C #E">ወውዳሴክሙ፡</lem><rdg wit="#D">ወውዳሲክሙ፡</rdg></app> አፉየ፡ <app><lem wit="#A #B #C #E">ደገመ፡</lem><rdg wit="#D">ደንመ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="29">
-          <l n="1">ሰላም፡ ለአፃብዒክሙ፡ ፀዳለ፡ ሱራኄ፡ ምውቀ፡</l>
-          <l n="2">እለ፡ ረሰያ፡ ሕላቀ፡</l>
-          <l n="3">እንስሳ፡ አርባዕ፡ ዘትጸሩ፡ መብረቀ፡</l>
-          <l n="4">ጸሐፉ፡ በአፅባዕትክሙ፡ ቃለ፡ ማኅሌትየ፡ ጽድቀ፡</l>
-          <l n="5">ረሲየክሙ፡ ብዙኃ፡ እመ፡ ኮነ፡ ሕቀ፡</l>
+          <l n="1">
+            <app type="line">
+              <lem wit="#A #B #C #D">ሰላም፡ <app><rdg wit="#A #B #C">ለአፃብዒክሙ፡</rdg><rdg wit="#D">ለዓፃብዓ፡ እዴክሙ፡</rdg></app> <app><rdg wit="#A #C">ፀዳለ፡</rdg><rdg wit="#B #C">ጸዳለ፡</rdg></app> <app><rdg wit="#A">ሱራኄ፡</rdg><rdg wit="#B #C">ሱራሔ፡</rdg><rdg wit="#D">ሱራሂ፡</rdg></app> <app><lem wit="#B #C">ምዉቀ፡</lem><rdg wit="#A #D">ምውቀ፡</rdg></app></lem>
+              <rdg wit="#E">ሰላም፡ ለአፃብዒክሙ፡ እለ፡ ረሰያ፡ ኅላቀ፡</rdg>
+            </app>
+          </l>
+          <l n="2">
+            <app type="line">
+              <lem wit="#A #B #C #D">እለ፡ <app><rdg wit="#A #C">ረሰያ፡</rdg><rdg wit="#B #D">ረስያ፡</rdg></app> <app><rdg wit="#A #D">ሕላቀ፡</rdg><rdg wit="#B #C">ኅላቀ፡</rdg></app></lem>
+              <rdg wit="#E">ጸዳለ፡ ሱራሔ፡ ምውቀ፡</rdg>
+            </app>
+          </l>
+          <l n="3">
+            <app type="line">
+              <lem wit="#A #B #C #D">እንስሳ፡ አርባዕ፡ <app><rdg wit="#A #B #C">ዘትጸውሩ፡</rdg><rdg wit="#D">ዘትትዓጸፉ፡</rdg></app> መብረቀ፡</lem>
+              <rdg wit="#E">እንስሳ፡ ፬፡ እለ፡ ትቄድሱ፡ ሊቀ፡</rdg>
+            </app>
+          </l>
+          <l n="4">ጸሐፉ፡ <app><rdg wit="#A #B #C">በአፅባዕትክሙ፡</rdg><rdg wit="#D">በአፃብዒክሙ፡</rdg><rdg wit="#E">በአጽባዕቲክሙ፡</rdg></app> ቃለ፡ ማኅሌትየ፡ ጽድቀ፡</l>
+          <l n="5"><app><rdg wit="#A">ረሲየክሙ፡</rdg><rdg wit="#B #C #D">ረስየክሙ፡</rdg><rdg wit="#E">ረሰየክሙ፡</rdg></app> ብዙኃ፡ <app><rdg wit="#A #B #C #E">እመ፡ ኮነ፡</rdg><rdg wit="#D">ወአኮ፡</rdg></app> <app><rdg wit="#A #B #C #D">ሕቀ፡</rdg><rdg wit="#E">ህቀ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="30">
-          <l n="1">ሰላም፡ ለአጽፋረ፡ እዴክሙ፡ ዘአፃብዕ፡ ተውሳክ፡</l>
-          <l n="2">ወመናብርቲሁ፡ ለሕያው፡ አምላክ፡</l>
-          <l n="3">ክብርክሙኒ፡ ውስተ፡ ርእሰ፡ መጽሐፍ፡ ሲሩክ፡</l>
-          <l n="4">ጸግዉኒ፡ አጋእዝትየ፡ ለዘለክሙ፡ ላእክ፡</l>
-          <l n="5">በጽባሕ፡ ሰላመ፡ ወሣህለ፡ በሰርክ፡</l>
+          <l n="1">ሰላም፡ <app><rdg wit="#A #C #D #E">ለአጽፋረ፡</rdg><rdg wit="#B">ለአፅፋረ፡</rdg></app> እዴክሙ፡ <app><rdg wit="#A">ዘአፃብዕ፡</rdg><rdg wit="#B #C">ዘአፃብዒክሙ፡</rdg><rdg wit="#D">ለአፃብዒክሙ፡</rdg><rdg wit="#E">በጽንፈ፡ አፃብዕ፡</rdg></app> <app><rdg wit="#A #B #C #D">ተውሳክ፡</rdg><rdg wit="#E">ውሱክ፡</rdg></app></l>
+          <l n="2"><app><rdg wit="#A">ወመናብርቲሁ፡</rdg><rdg wit="#B #C #D #E">መናብርቲሁ፡</rdg></app> <app><rdg wit="#E">ኪሩቤል፡</rdg><rdg wit="#D">ኬሩቤል፡</rdg><rdg wit="#A #B #C"/></app> <app><rdg wit="#A #B #C #E">ለሕያው፡</rdg><rdg wit="#D">ለሕያወ፡ ሕያው፡</rdg></app> አምላክ፡</l>
+          <l n="3"><app><rdg wit="#A #B #D #E">ክብርክሙኒ፡</rdg><rdg wit="#C">ክብርክሙ፡</rdg></app> ውስተ፡ ርእሰ፡ መጽሐፍ፡ <app><rdg wit="#A #C #E">ሲሩክ፡</rdg><rdg wit="#D">ሢሩክ፡</rdg><rdg wit="#B">ኪሩክ፡</rdg></app></l>
+          <l n="4"><app><lem wit="#A #C">ጸግዉኒ፡</lem><rdg wit="#B #D #E">ጸግውኒ፡</rdg></app> <app><lem wit="#A #C #E">አጋእዝትየ፡</lem><rdg wit="#D">አጋዕዝትየ፡</rdg><rdg wit="#B">አጋዝዕትየ፡</rdg></app> ለዘለክሙ፡ ላእክ፡</l>
+          <l n="5"><app><lem wit="#A #B #C #D"/><rdg wit="#E">ናህየ፡</rdg></app> <app><lem wit="#A #B #C #D">በጽባሕ፡</lem><rdg wit="#E">በነግህ፡</rdg></app> <app><rdg wit="#A #B #C">ሰላመ፡</rdg><rdg wit="#D">ሰላምክሙ፡</rdg><rdg wit="#E"/></app> <app><rdg wit="#A #B #C #E">ወሣህለ፡</rdg><rdg wit="#D">ወሣህል፡</rdg></app> በሰርክ፡</l>
         </lg>
         
         <lg type="stanza" n="31">
@@ -1046,7 +1071,7 @@
         <lg type="stanza" n="27">
           <l n="1">Salutation to</l>
           <l n="2"></l>
-          <l n="3"></l>
+          <l n="3"><note>cf. Ez. 10:13; ጌልጌል፡, often ጌርጌል፡, is a transliteration of Γελγελ, itself a transliteration of the Hebrew; traditionally, it is taken as a name for the first heaven: "ቀዳሚት፡ ሰማይ፡ ጌርጌል፡ ነድ፡ ስማ።" (Grébaut, 1913, p. 204)</note></l>
           <l n="4"></l>
           <l n="5"></l>
         </lg>
