@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet href="../style.xsl" type="text/xsl"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title xml:lang="gez">መልክአ፡ ዕሥራ፡ ወርብዕ፡ ካህናተ፡ ሰማይ፡</title>
+        <title xml:lang="en">Image of the Twenty-Four Elders</title>
+        
+        <respStmt>
+          <resp>Manuscripts transcribed and encoded in TEI by</resp>
+          <name>Augustine Dickinson</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority/>
+        <date>2021</date>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">This file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 license.</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          
+          <witness xml:id="A" facs="https://www.bl.uk/manuscripts/Viewer.aspx?ref=or_573_f060r">
+            <msDesc>
+              <msIdentifier>
+                <repository>BL</repository>
+                <collection>Or.</collection>
+                <idno>573</idno>                
+                <altIdentifier>
+                  <idno>Wright CXC</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="60r" to="65r"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>17th c.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="B" facs="https://gundagunde.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A94859#page/132/mode/1up">
+            <msDesc>
+              <msIdentifier>
+                <repository>Gunda Gunde</repository>
+                <idno>85</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="58v" to="68r"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>18th c.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="D" facs="https://w3id.org/vhmml/readingRoom/view/203921">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>2092</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="" to=""/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>17th c.</origDate>
+                  <origPlace>Hayq Estifanos</origPlace>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="E" facs="https://w3id.org/vhmml/readingRoom/view/201682">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>8937</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="" to=""/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>17th c.</origDate>
+                  <origPlace>Mahidere Mariam</origPlace>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="F" facs="https://w3id.org/vhmml/readingRoom/view/200618">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>6993</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="" to=""/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>unk.</origDate>
+                  <origPlace>Wollo Zammado Maryam</origPlace>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="H" facs="https://eap.bl.uk/archive-file/EAP526-1-12">
+            <msDesc>
+              <msIdentifier>
+                <repository>May Wayni</repository>
+                <idno>12</idno>
+                <altIdentifier>
+                  <idno>EAP 526/1/12</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="131r" to="135v"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>19th c.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="J" facs="https://w3id.org/vhmml/readingRoom/view/203789">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>1959</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="" to=""/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>17th/18th c.</origDate>
+                  <origPlace>Hayq Estifanos</origPlace>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="K" facs="https://masaheft.eu/manuscripts/EMIP00764/viewer">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMIP</repository>
+                <idno>764</idno>
+                <altIdentifier>
+                  <idno>Chelekot Silasie 23</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <msItem><locus from="109v" to="112v"/><ab/></msItem>
+              </msContents>
+              <history>
+                <origin>
+                  <origDate>unk.</origDate>
+                </origin>
+              </history>
+            </msDesc>
+          </witness>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="text">
+        
+        <lg type="stanza" n="1">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+      </div>
+      
+      <div type="translation">
+        
+        <lg type="stanza" n="1">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
