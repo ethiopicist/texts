@@ -7,7 +7,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title xml:lang="gez">መልክአ፡ ዕሥራ፡ ወርብዕ፡ ካህናተ፡ ሰማይ፡</title>
+        <title xml:lang="gez">መልክአ፡ ካህናተ፡ ሰማይ፡</title>
         <title xml:lang="en">Image of the Twenty-Four Elders</title>
         
         <respStmt>
@@ -46,42 +46,36 @@
             </msDesc>
           </witness>
           
-          <witness xml:id="B" facs="https://gundagunde.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A94859#page/132/mode/1up">
-            <msDesc>
-              <msIdentifier>
-                <repository>Gunda Gunde</repository>
-                <idno>85</idno>
-              </msIdentifier>
-              <msContents>
-                <msItem><locus from="58v" to="68r"/><ab/></msItem>
-              </msContents>
-              <history>
-                <origin>
-                  <origDate>18th c.</origDate>
-                </origin>
-              </history>
-            </msDesc>
-          </witness>
-          
-          <witness xml:id="D" facs="https://w3id.org/vhmml/readingRoom/view/203921">
+          <!--
+          <witness xml:id="D">
             <msDesc>
               <msIdentifier>
                 <repository>EMML</repository>
-                <idno>2092</idno>
+                <idno>659</idno>
               </msIdentifier>
-              <msContents>
-                <msItem><locus from="" to=""/><ab/></msItem>
-              </msContents>
-              <history>
-                <origin>
-                  <origDate>17th c.</origDate>
-                  <origPlace>Hayq Estifanos</origPlace>
-                </origin>
-              </history>
             </msDesc>
           </witness>
           
-          <witness xml:id="E" facs="https://w3id.org/vhmml/readingRoom/view/201682">
+          <witness xml:id="F">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>1950</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          
+          <witness xml:id="H">
+            <msDesc>
+              <msIdentifier>
+                <repository>EMML</repository>
+                <idno>2089</idno>
+              </msIdentifier>
+            </msDesc>
+          </witness>
+          -->
+          
+          <witness xml:id="N" facs="https://w3id.org/vhmml/readingRoom/view/201682">
             <msDesc>
               <msIdentifier>
                 <repository>EMML</repository>
@@ -99,25 +93,24 @@
             </msDesc>
           </witness>
           
-          <witness xml:id="F" facs="https://w3id.org/vhmml/readingRoom/view/200618">
+          <witness xml:id="O" facs="https://gundagunde.digital.utsc.utoronto.ca/islandora/object/gundagunde%3A94859#page/132/mode/1up">
             <msDesc>
               <msIdentifier>
-                <repository>EMML</repository>
-                <idno>6993</idno>
+                <repository>Gunda Gunde</repository>
+                <idno>85</idno>
               </msIdentifier>
               <msContents>
-                <msItem><locus from="" to=""/><ab/></msItem>
+                <msItem><locus from="58v" to="68r"/><ab/></msItem>
               </msContents>
               <history>
                 <origin>
-                  <origDate>unk.</origDate>
-                  <origPlace>Wollo Zammado Maryam</origPlace>
+                  <origDate>18th c.</origDate>
                 </origin>
               </history>
             </msDesc>
           </witness>
           
-          <witness xml:id="H" facs="https://eap.bl.uk/archive-file/EAP526-1-12">
+          <witness xml:id="Q" facs="https://eap.bl.uk/archive-file/EAP526-1-12">
             <msDesc>
               <msIdentifier>
                 <repository>May Wayni</repository>
@@ -137,25 +130,7 @@
             </msDesc>
           </witness>
           
-          <witness xml:id="J" facs="https://w3id.org/vhmml/readingRoom/view/203789">
-            <msDesc>
-              <msIdentifier>
-                <repository>EMML</repository>
-                <idno>1959</idno>
-              </msIdentifier>
-              <msContents>
-                <msItem><locus from="" to=""/><ab/></msItem>
-              </msContents>
-              <history>
-                <origin>
-                  <origDate>17th/18th c.</origDate>
-                  <origPlace>Hayq Estifanos</origPlace>
-                </origin>
-              </history>
-            </msDesc>
-          </witness>
-          
-          <witness xml:id="K" facs="https://masaheft.eu/manuscripts/EMIP00764/viewer">
+          <witness xml:id="S" facs="https://masaheft.eu/manuscripts/EMIP00764/viewer">
             <msDesc>
               <msIdentifier>
                 <repository>EMIP</repository>
@@ -576,7 +551,7 @@
         </lg>
         
         <lg type="stanza" n="50">
-          <l n="1">አምላክነ፡ ከመ፡ አፄነወ፡ እሙነ፡</l>
+          <l n="1"><app><lem>እግዚአብሔር፡</lem><rdg wit="#A"/></app> አምላክነ፡ ከመ፡ አፄነወ፡ እሙነ፡</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -592,7 +567,7 @@
         </lg>
         
         <lg type="stanza" n="52">
-          <l n="1">በግዓ፡ ትንቢት፡ እምገጸ፡ ሐራውያ፡ አመ፡ ተሰደ፡</l>
+          <l n="1"><app><lem>ያዕቆብ፡</lem><rdg wit="#A"/></app>በግዓ፡ ትንቢት፡ እምገጸ፡ ሐራውያ፡ አመ፡ ተሰደ፡</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -604,7 +579,7 @@
       <div type="translation">
         
         <lg type="stanza" n="1">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -612,7 +587,7 @@
         </lg>
         
         <lg type="stanza" n="2">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -620,7 +595,7 @@
         </lg>
         
         <lg type="stanza" n="3">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -628,7 +603,7 @@
         </lg>
         
         <lg type="stanza" n="4">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -636,7 +611,7 @@
         </lg>
         
         <lg type="stanza" n="5">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -644,7 +619,7 @@
         </lg>
         
         <lg type="stanza" n="6">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -652,7 +627,7 @@
         </lg>
         
         <lg type="stanza" n="7">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -660,7 +635,7 @@
         </lg>
         
         <lg type="stanza" n="8">
-          <l n="1"></l>
+          <l n="1">Salutation to your</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -668,6 +643,350 @@
         </lg>
         
         <lg type="stanza" n="9">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="10">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="11">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="12">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="13">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="14">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="15">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="16">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="17">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="18">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="19">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="20">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="21">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="22">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="23">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="24">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="25">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="26">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="27">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="28">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="29">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="30">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="31">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="32">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="33">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="34">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="35">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="36">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="37">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="38">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="39">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="40">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="41">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="42">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="43">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="44">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="45">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="46">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="47">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="48">
+          <l n="1">Salutation to your</l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="49">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="50">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="51">
+          <l n="1"></l>
+          <l n="2"></l>
+          <l n="3"></l>
+          <l n="4"></l>
+          <l n="5"></l>
+        </lg>
+        
+        <lg type="stanza" n="52">
           <l n="1"></l>
           <l n="2"></l>
           <l n="3"></l>
