@@ -1123,9 +1123,6 @@
           <l n="5">Which, like you, have wings.</l>
         </lg>
         
-      </div>
-      <div type="incomplete-translation">
-        
         <lg type="stanza" n="20">
           <l n="1">Salutation to your wings, which are full of eyes;</l>
           <l n="2">Cherubim, chariots of Him Who is clothed with fire,</l>
@@ -1137,14 +1134,14 @@
         <lg type="stanza" n="21">
           <l n="1">Salutation to your backs, which are in the middle (of your bodies),</l>
           <l n="2">Beneath your shoulders and above your hips.</l>
-          <l n="3">Cherubim, chariots of Him Who governs all</l>
+          <l n="3">Cherubim, chariots of Him Who governs all,</l>
           <l n="4">The Lord of Spirits elevated your honour among angels</l>
           <l n="5">(When) He said to Moses, "Fashion a cherub."</l>
         </lg>
         
         <lg type="stanza" n="22">
           <l n="1">Salutation to your chests, which understanding makes heavy</l>
-          <l n="2">And are a tower for chosen wisdom.</l>
+          <l n="2">And are a tower for choice wisdom.</l>
           <l n="3">Cherubim, give me the wages of my labour openly.</l>
           <l n="4">Does a labourer not grow exceedingly distressed</l>
           <l n="5">If one deprives him (of) what he usually receives?</l>
@@ -1154,29 +1151,32 @@
           <l n="1">
             <app type="line">
               <lem>Salutation to your bosoms; having arisen from the mouth of the Most High,</lem>
-              <rdg wit="#G #M #N #T">Salutation to your bosoms, beds of chosen wisdom,</rdg>
+              <rdg wit="#G #M #N #T">Salutation to your bosoms, beds of choice wisdom,</rdg>
             </app>
             </l>
           <l n="2">
             <app type="line">
-              <lem>Chosen wisdom made them its bed.</lem>
+              <lem>Choice wisdom made them its bed.</lem>
               <rdg wit="#G #M #N #T">Having arisen from the mouth of the Most High.</rdg>
             </app>
           </l>
           <l n="3">Four (Living) Creatures who go back (and forth) like lightning<note>cf. Ez. 1:14</note></l>
           <l n="4">
             <app type="line">
-              <lem>Let your supplication hide me from the oppression of the hour of judgement,</lem>
+              <lem>Let your intercession hide me from the oppression of the hour of judgement,</lem>
               <rdg wit="#N">Come to me, next to where I am, without delay</rdg>
             </app>
           </l>
           <l n="5">
             <app type="line">
               <lem>When a mother is unable to save her children.</lem>
-              <rdg wit="#N">That you may fulfil the desire of my heart always.</rdg>
+              <rdg wit="#N">So that you may fulfill the desire of my heart always.</rdg>
             </app>
           </l>
         </lg>
+        
+      </div>
+      <div type="incomplete-translation">
         
         <lg type="stanza" n="24">
           <l n="1">Salutation to your hands, which sprout from your shoulders</l>
