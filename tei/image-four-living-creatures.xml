@@ -626,15 +626,15 @@
           <l n="1">ሰላም፡ <app><lem wit="#A #O #S #J #N #M #P #T">ለእንግድዓክሙ፡</lem><rdg wit="#G">ለእንግድአክሙ፡</rdg><rdg wit="#Q">ለእንግድአቲክሙ፡</rdg></app> <app><lem wit="#A #O #S #N #M #P #Q #G #T">ልቡና፡</lem><rdg wit="#J"/></app> <app><lem wit="#A #G #J #M #O #P #Q #S #T"/><rdg wit="#N">መንፈስ፡</rdg></app> <app><rdg wit="#A #O #N">ዘክብደ፡</rdg><rdg wit="#S #J #Q #T">ዘከብደ፡</rdg><rdg wit="#G">ዘክበደ፡</rdg><rdg wit="#M">ዘአክበደ፡</rdg><rdg wit="#P">ዘአክበዳ፡</rdg></app></l>
           <l n="2"><app><lem wit="#A #O #S #N #M #P #Q #T"/><rdg wit="#J">ልቡና፡</rdg></app> <app><lem wit="#A #O #S #J #N #M #Q #T">ወለጥበብ፡</lem><rdg wit="#P #Q">ለጥበብ፡</rdg></app> ኅሪት፡ <app><rdg wit="#A #N #M #P #T"/><rdg wit="#O #S #J #Q">እንተ፡</rdg><rdg wit="#G">ወእለ፡</rdg></app> <app><rdg wit="#A #O #S #P">ዘኮነ፡</rdg><rdg wit="#J">ኮነት፡</rdg><rdg wit="#N #M #T">ዘኮና፡</rdg><rdg wit="#G">ኮና፡</rdg><rdg wit="#Q"/></app> <app><lem wit="#A #O #S #J #N #M #Q #G #T">ማኅፈደ፡</lem><rdg wit="#P">ማኅፈዳ፡</rdg></app></l>
           <l n="3"><app><lem wit="#O #S #J #N #M #P #Q #G #T">ኪሩቤል፡</lem><rdg wit="#A">እንስሳ፡</rdg></app> <app><lem wit="#A #O #S #J #N #M #P #Q #T">ሀቡኒ፡</lem><rdg wit="#G"/></app> <app><rdg wit="#A #O #S #M #Q #T">ዓስበ፡</rdg><rdg wit="#P">ዐስበ፡</rdg><rdg wit="#J #N #G">አስበ፡</rdg></app> <app><rdg wit="#A #O #S #N #G">ጻማየ፡</rdg><rdg wit="#M #P #Q #T">ፃማየ፡</rdg><rdg wit="#J">ማኅሌት፡</rdg></app> <app><lem wit="#A #M #N #O #P #Q #T">ገሃደ፡</lem><rdg wit="#J #G">ገሀደ፡</rdg><rdg wit="#S">ውኁደ፡</rdg></app></l>
-          <l n="4">አኮኑ፡ <app><lem wit="#J">ዐሰብ፡</lem><rdg wit="#A #O #S">ዓሳብ፡</rdg><rdg wit="#N #M #Q #T">አሳብ፡</rdg><rdg wit="#P #G">አስብ፡</rdg></app> <app><rdg wit="#A #O #S #J #N #M #Q #G #T">ይግዕር፡</rdg><rdg wit="#P">ይግእር፡</rdg></app> ፈድፋደ፡</l>
-        <l n="5"><app><lem wit="#A #G #J #M #O #P #Q #S #T">ለእመ፡</lem><rdg wit="#N">ወሶበ፡</rdg></app> <app><lem wit="#A #N #O #Q #S #T">ከልእዎ፡</lem><rdg wit="#J #M #P #G">ከልዕዎ፡</rdg></app> <app><lem wit="#A #S #J #N #M #P #Q #G #T">እንተቦ፡ ልማደ፡</lem><rdg wit="#O">እንተ፡ ቦልማደ፡</rdg></app></l>
+          <l n="4">አኮኑ፡ <app><lem wit="#A #O #S">ዓሳብ፡</lem><rdg wit="#J">ዐሰብ፡</rdg><rdg wit="#N #M #Q #T">አሳብ፡</rdg><rdg wit="#P #G">አስብ፡</rdg></app> <app><rdg wit="#A #O #S #J #N #M #Q #G #T">ይግዕር፡</rdg><rdg wit="#P">ይግእር፡</rdg></app> ፈድፋደ፡</l>
+          <l n="5"><app><lem wit="#A #G #J #M #O #P #Q #S #T">ለእመ፡</lem><rdg wit="#N">ወሶበ፡</rdg></app> <app><lem wit="#A #N #O #Q #S #T">ከልእዎ፡</lem><rdg wit="#J #M #P #G">ከልዕዎ፡</rdg></app> <app><lem wit="#A #S #J #N #M #P #Q #G #T">እንተቦ፡ ልማደ፡</lem><rdg wit="#O">እንተ፡ ቦልማደ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="23">
           <l n="1">
             <app type="line">
-              <lem wit="#A #O #S #J #P #Q">ሰላም፡ <app><rdg wit="#A #S #P #Q">ለሕፅንክሙ፡</rdg><rdg wit="#O #J">ለኅፅንክሙ፡</rdg></app> <app><lem wit="#A #O #P #Q">እምአፈ፡</lem><rdg wit="#S #J">እምኀበ፡</rdg></app> ልዑል፡ <app><rdg wit="#A">ሰራቃ፡</rdg><rdg wit="#O #S #J #P #Q">ሠሪቃ፡</rdg></app></lem>
-              <rdg wit="#N #M #G #T">ሰላም፡ <app><lem wit="#N #T">ለሕፅንክሙ፡</lem><rdg wit="#M">ለሕናክሙ፡</rdg><rdg wit="#G">ለኅፅንክሙ፡</rdg></app> <app><lem wit="#N #G #T">ለጥበበ፡</lem><rdg wit="#M">ለጥበብ፡</rdg></app> ሰማይ፡ ምርፋቃ፡</rdg>
+              <lem wit="#A #J #O #P #Q #S">ሰላም፡ <app><rdg wit="#A #S #P #Q">ለሕፅንክሙ፡</rdg><rdg wit="#O #J">ለኅፅንክሙ፡</rdg></app> <app><lem wit="#A #O #P #Q">እምአፈ፡</lem><rdg wit="#S #J">እምኀበ፡</rdg></app> ልዑል፡ <app><rdg wit="#A">ሰራቃ፡</rdg><rdg wit="#O #S #J #P #Q">ሠሪቃ፡</rdg></app></lem>
+              <rdg wit="#G #M #N #T">ሰላም፡ <app><lem wit="#N #T">ለሕፅንክሙ፡</lem><rdg wit="#M">ለሕናክሙ፡</rdg><rdg wit="#G">ለኅፅንክሙ፡</rdg></app> <app><lem wit="#N #G #T">ለጥበበ፡</lem><rdg wit="#M">ለጥበብ፡</rdg></app> ሰማይ፡ ምርፋቃ፡</rdg>
             </app>
           </l>
           <l n="2">
@@ -652,7 +652,7 @@
           </l>
           <l n="5">
             <app type="line">
-              <lem wit="#A #G #J #M #O #P #Q #S #T"><app><lem wit="#A #O #S #J #M #T">አመ፡</lem><rdg wit="#G">ወአመ፡</rdg><rdg wit="#Q">እመ፡</rdg><rdg wit="#P">ከመ፡</rdg></app> <app><rdg wit="#A #O #S #M #P #Q #G #T">ኢትክል፡</rdg><rdg wit="#J">ኢትክህል፡</rdg></app> <app><lem wit="#A #O #S #J #M #Q #G #T">እም፡</lem><rdg wit="#P"/></app> <app><lem wit="#A #O #S #J #M #Q #G #T">አድኅኖ፡</lem><rdg wit="#P">ታድኅን፡</rdg></app> ደቂቃ፡</lem>
+              <lem wit="#A #G #J #M #O #P #Q #S #T"><app><lem wit="#A #O #S #J #M #T">አመ፡</lem><rdg wit="#G">ወአመ፡</rdg><rdg wit="#Q">እመ፡</rdg><rdg wit="#P">ከመ፡</rdg></app> <app><lem wit="#A #O #S #M #P #Q #G #T">ኢትክል፡</lem><rdg wit="#J">ኢትክህል፡</rdg></app> <app><lem wit="#A #O #S #J #M #Q #G #T">እም፡</lem><rdg wit="#P"/></app> <app><lem wit="#A #O #S #J #M #Q #G #T">አድኅኖ፡</lem><rdg wit="#P">ታድኅን፡</rdg></app> ደቂቃ፡</lem>
               <rdg wit="#N">ከመ፡ ትፈጽሙ፡ ዘልፈ፡ ለልብየ፡ ጻሕቃ፡</rdg>
             </app>
           </l>
@@ -1130,24 +1130,24 @@
           <l n="1">Salutation to your wings, which are full of eyes;</l>
           <l n="2">Cherubim, chariots of Him Who is clothed with fire,</l>
           <l n="3">Accept my song for your wings</l>
-          <l n="4">In emulation of things, while you do not speak,</l>
-          <l n="5">This which is mine and the other which you are.</l>
+          <l n="4">As you do not debate anything with contentious words,</l>
+          <l n="5">(Saying,) "This is mine and that is yours."</l>
         </lg>
         
         <lg type="stanza" n="21">
           <l n="1">Salutation to your backs, which are in the middle (of your bodies),</l>
           <l n="2">Beneath your shoulders and above your hips.</l>
           <l n="3">Cherubim, chariots of Him Who governs all</l>
-          <l n="4">The Lord of Spirits elevated your honour among the angels</l>
+          <l n="4">The Lord of Spirits elevated your honour among angels</l>
           <l n="5">(When) He said to Moses, "Fashion a cherub."</l>
         </lg>
         
         <lg type="stanza" n="22">
-          <l n="1">Salutation to your chests, which are burdened (by) understanding</l>
-          <l n="2">And for chosen wisdom which became a tower.</l>
+          <l n="1">Salutation to your chests, which understanding makes heavy</l>
+          <l n="2">And are a tower for chosen wisdom.</l>
           <l n="3">Cherubim, give me the wages of my labour openly.</l>
-          <l n="4">Does a labourer not groan exceedingly</l>
-          <l n="5">If one prevents him through habit?</l>
+          <l n="4">Does a labourer not grow exceedingly distressed</l>
+          <l n="5">If one deprives him (of) what he usually receives?</l>
         </lg>
         
         <lg type="stanza" n="23">
@@ -1159,7 +1159,7 @@
             </l>
           <l n="2">
             <app type="line">
-              <lem>Chosen wisdom made them her bed.</lem>
+              <lem>Chosen wisdom made them its bed.</lem>
               <rdg wit="#G #M #N #T">Having arisen from the mouth of the Most High.</rdg>
             </app>
           </l>
@@ -1167,13 +1167,13 @@
           <l n="4">
             <app type="line">
               <lem>Let your supplication hide me from the oppression of the hour of judgement,</lem>
-              <rdg wit="#N">Bring me without delay where I can be greatly</rdg>
+              <rdg wit="#N">Come to me, next to where I am, without delay</rdg>
             </app>
           </l>
           <l n="5">
             <app type="line">
               <lem>When a mother is unable to save her children.</lem>
-              <rdg wit="#N">That you may always complete the desire of my heart.</rdg>
+              <rdg wit="#N">That you may fulfil the desire of my heart always.</rdg>
             </app>
           </l>
         </lg>
