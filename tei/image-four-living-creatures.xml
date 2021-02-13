@@ -601,7 +601,7 @@
           </l>
           <l n="3">
             <app type="line">
-              <lem wit="#A #G #J #M #O #P #Q #S #T"><app><rdg wit="#A #P">ዘክንፍክሙ፡</rdg><rdg wit="#O #S">ዘአክናፊክሙ፡</rdg><rdg wit="#J #M #Q #T">ዘክነፊክሙ፡</rdg><rdg wit="#G">ዘክንፈክሙ፡</rdg></app> <app><rdg wit="#A #J">ማኅሌት፡</rdg><rdg wit="#O #S #M #P #Q #G #T">ማኅሌተ፡</rdg></app> <app><rdg wit="#A #O #S #J #P #Q #T">ተወከፉ፡</rdg><rdg wit="#M #G">ተወክፉ፡</rdg></app> ሊተ፡</lem>
+              <lem wit="#A #G #J #M #O #P #Q #S #T"><app><rdg wit="#A #P">ዘክንፍክሙ፡</rdg><rdg wit="#O #S">ዘአክናፊክሙ፡</rdg><rdg wit="#J #M #Q #T">ዘክነፊክሙ፡</rdg><rdg wit="#G">ዘክንፈክሙ፡</rdg></app> <app><lem wit="#O #S #M #P #Q #G #T">ማኅሌተ፡</lem><rdg wit="#A #J">ማኅሌት፡</rdg></app> <app><rdg wit="#A #O #S #J #P #Q #T">ተወከፉ፡</rdg><rdg wit="#M #G">ተወክፉ፡</rdg></app> ሊተ፡</lem>
               <rdg wit="#N">እንስሳ፡ ፬፡ ዘትትዐጸፉ፡ እሳተ፡</rdg>
             </app>
           </l>
@@ -673,7 +673,7 @@
           </l>
           <l n="3"><app><lem wit="#O #S #N #M #Q #T">እንስሳ፡ መንፈስ፡</lem><rdg wit="#A">መንፈሳውያን፡</rdg><rdg wit="#P">መናፍስት፡</rdg><rdg wit="#J">እንስሳ፡ እሳት፡</rdg><rdg wit="#G">፬ንስሳ፡</rdg></app> <app><lem wit="#A #O #S #J #N #M #P #Q #T">ኪሩቤል፡</lem><rdg wit="#G"/></app> <app><lem wit="#A #S #J #N #M #P #Q #G #T">ወእሳታውያን፡</lem><rdg wit="#O">እሳታውያን፡</rdg></app> <app><rdg wit="#A #O #S #N #M #P #Q #T">አዕዋፍ፡</rdg><rdg wit="#J #G">አእዋፍ፡</rdg></app></l>
           <l n="4">አፍጥኑ፡ ከመ፡ ትፈጽሙ፡ <app><rdg wit="#A #J #N #M #Q #G #T">ጻሕቀ፡</rdg><rdg wit="#O #S">ጻህቀ፡</rdg><rdg wit="#P">ፃሕቀ፡</rdg></app> <app><lem wit="#A #G #J #M #O #P #Q #S #T">ልብየ፡</lem><rdg wit="#N">ዚአየ፡</rdg></app> ዘዘልፍ፡</l>
-          <l n="5"><app><lem wit="#A #O #S #N #M #P #Q #T">ፈጽሞ፡</lem><rdg wit="#J">ፍፃሜ፡</rdg><rdg wit="#G">ግብረ፡</rdg></app> <app><lem wit="#A #S #J #M #P #Q #G #T">መፍቅዱ፡</lem><rdg wit="#O #N">ፈቃዱ፡</rdg></app> ለልብ፡ ከመ፡ <app><rdg wit="#A #P">ይጽሕቅ፡</rdg><rdg wit="#O #S #N #Q #T">ይጔጕዕ፡</rdg><rdg wit="#J">ይጓጕዕ፡</rdg><rdg wit="#M">ይጐጕዕ፡</rdg><rdg wit="#G">ይፈጽፍ፡</rdg></app> አፍ፡</l>
+          <l n="5"><app><lem wit="#A #O #S #N #M #P #Q #T">ፈጽሞ፡</lem><rdg wit="#J">ፍፃሜ፡</rdg><rdg wit="#G">ግብረ፡</rdg></app> <app><lem wit="#A #S #J #M #P #Q #G #T">መፍቅዱ፡</lem><rdg wit="#O #N">ፈቃዱ፡</rdg></app> ለልብ፡ ከመ፡ <app><lem wit="#O #S #N #Q #T">ይጔጕዕ፡</lem><rdg wit="#A #P">ይጽሕቅ፡</rdg><rdg wit="#J">ይጓጕዕ፡</rdg><rdg wit="#M">ይጐጕዕ፡</rdg><rdg wit="#G">ይፈጽፍ፡</rdg></app> አፍ፡</l>
         </lg>
         
         <lg type="stanza" n="25">
@@ -1151,55 +1151,75 @@
         </lg>
         
         <lg type="stanza" n="23">
-          <l n="1">Salutation to your bosoms, having arisen from the mouth of the Most High,</l>
-          <l n="2">Chosen wisdom made them her bed.</l>
+          <l n="1">
+            <app type="line">
+              <lem>Salutation to your bosoms; having arisen from the mouth of the Most High,</lem>
+              <rdg wit="#G #M #N #T">Salutation to your bosoms, beds of chosen wisdom,</rdg>
+            </app>
+            </l>
+          <l n="2">
+            <app type="line">
+              <lem>Chosen wisdom made them her bed.</lem>
+              <rdg wit="#G #M #N #T">Having arisen from the mouth of the Most High.</rdg>
+            </app>
+          </l>
           <l n="3">Four (Living) Creatures who go back (and forth) like lightning<note>cf. Ez. 1:14</note></l>
-          <l n="4">Let your supplication hide me from the oppression of the hour of judgement,</l>
-          <l n="5">When a mother is unable to save her children.</l>
+          <l n="4">
+            <app type="line">
+              <lem>Let your supplication hide me from the oppression of the hour of judgement,</lem>
+              <rdg wit="#N">Bring me without delay where I can be greatly</rdg>
+            </app>
+          </l>
+          <l n="5">
+            <app type="line">
+              <lem>When a mother is unable to save her children.</lem>
+              <rdg wit="#N">That you may always complete the desire of my heart.</rdg>
+            </app>
+          </l>
         </lg>
         
         <lg type="stanza" n="24">
-          <l n="1">Salutation to</l>
-          <l n="2"></l>
-          <l n="3"></l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="1">Salutation to your hands, which sprout from your shoulders</l>
+          <l n="2">While your wings shade them.</l>
+          <l n="3">Creatures of spirit, Cherubim, and fiery birds,</l>
+          <l n="4">Hasten to complete the desires of my heart always</l>
+          <l n="5">As the mouth rushes to complete the will of the heart.</l>
         </lg>
         
         <lg type="stanza" n="25">
-          <l n="1">Salutation to</l>
-          <l n="2"></l>
-          <l n="3"></l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="1">Salutation to your arms, arms of fire and wind,</l>
+          <l n="2">Like arms of flesh which do not grow weak.</l>
+          <l n="3">Horses of fire, Cherubim, of the heavenly sanctuary,</l>
+          <l n="4">King Solomon had your likeness carved</l>
+          <l n="5">Three (times) according to a fifth of the size of the area of the courtyard.</l>
         </lg>
         
         <lg type="stanza" n="26">
-          <l n="1">Salutation to</l>
-          <l n="2"></l>
-          <l n="3"></l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="1">Salutation to your elbows, the thighs of the hand.</l>
+          <l n="2">Spiritual creatures and horses of fire</l>
+          <l n="3">You who bear heaven, which is the colour of snow,</l>
+          <l n="4">Behold your praise from my foolish mouth</l>
+          <l n="5">Like a gold ring fixed with brightness.</l>
         </lg>
         
         <lg type="stanza" n="27">
-          <l n="1">Salutation to</l>
-          <l n="2"></l>
-          <l n="3"><note>cf. Ez. 10:13; ጌልጌል፡, often ጌርጌል፡, is a transliteration of Γελγελ, itself a transliteration of the Hebrew, being taken as a proper name for the wheels in Ezekiel's vision; traditionally, it is also taken as a name for the first heaven: "ቀዳሚት፡ ሰማይ፡ ጌርጌል፡ ነድ፡ ስማ።" (Grébaut, 1913, p. 204)</note></l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="1">Salutation to your forearms, which lie in the middle,</l>
+          <l n="2">Below your palms and above your elbows.</l>
+          <l n="3">Four (Living) Creatures who mount Gelgel<note>cf. Ez. 10:13; ጌልጌል፡, often ጌርጌል፡, is a transliteration of Γελγελ, itself a transliteration of the Hebrew, being taken as a proper name for the wheels in Ezekiel's vision; traditionally, it is also taken as a name for the first heaven: "ቀዳሚት፡ ሰማይ፡ ጌርጌል፡ ነድ፡ ስማ።" (Grébaut, 1913, p. 204)</note></l>
+          <l n="4">Remove from my body the power of the law of sin</l>
+          <l n="5">With the spiritual law which kills.</l>
         </lg>
         
         <lg type="stanza" n="28">
-          <l n="1">Salutation to</l>
-          <l n="2"></l>
-          <l n="3"></l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="1">Salutation to your palms, which holds (live) coals</l>
+          <l n="2">When the wearer of holiness stands in the outer courtyard</l>
+          <l n="3">From (the time) when I witnessed, Cherubim, your pleasing beauty</l>
+          <l n="4">My heart began to despire you</l>
+          <l n="5">And then my mouth praised you.</l>
         </lg>
         
         <lg type="stanza" n="29">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your fingers</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1207,7 +1227,7 @@
         </lg>
         
         <lg type="stanza" n="30">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your fingernails</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1231,7 +1251,7 @@
         </lg>
         
         <lg type="stanza" n="33">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your hearts</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1239,7 +1259,7 @@
         </lg>
         
         <lg type="stanza" n="34">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your minds</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1263,7 +1283,7 @@
         </lg>
         
         <lg type="stanza" n="37">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your hips</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1279,7 +1299,7 @@
         </lg>
         
         <lg type="stanza" n="39">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your knees</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1287,7 +1307,7 @@
         </lg>
         
         <lg type="stanza" n="40">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your feet</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1311,7 +1331,7 @@
         </lg>
         
         <lg type="stanza" n="43">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your toes</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1319,7 +1339,7 @@
         </lg>
         
         <lg type="stanza" n="44">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your toenails</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1327,7 +1347,7 @@
         </lg>
         
         <lg type="stanza" n="45">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your stature</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1335,7 +1355,7 @@
         </lg>
         
         <lg type="stanza" n="46">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to your image</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
