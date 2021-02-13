@@ -102,7 +102,7 @@
               <div class="column content">
 
                 <h2 class="is-4">Translation</h2>
-                <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='translation']/tei:lg"/>
+                <xsl:apply-templates select="tei:text/tei:body/tei:div[@type='translation']/tei:lg|tei:text/tei:body/tei:div[@type='translation']/tei:app[@type='stanza']"/>
 
               </div>
               </xsl:if>
