@@ -788,16 +788,21 @@
           <l n="5">ውስተ፡ <app><lem wit="#G #J #M #N #O #Q #R #S">ፍኖተ፡</lem><rdg wit="#A #P">ፍና፡</rdg></app> ጽድቅ፡ <app><rdg wit="#A #J #O #S">ይኩነኒ፡</rdg><rdg wit="#G #M #N #Q">ይኵነኒ፡</rdg><rdg wit="#R">ዘልፈ፡ ኵኑኒ፡</rdg></app> <app><rdg wit="#A #N #O #Q #S">መራሔ፡</rdg><rdg wit="#G #J #P">መራሄ፡</rdg><rdg wit="#M #R">መራኄ፡</rdg></app></l>
         </lg>
         
+        <lg type="stanza" n="33">
+          <l n="1">ሰላም፡ ለልብክሙ፡ <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">ዘኢየአምር፡</lem><rdg wit="#J">ዘኢይሄሊ፡</rdg></app> <app><lem wit="#A #G #J #M #N #R #S #T">ጽልሑተ፡</lem><rdg wit="#O">ጽሑተ፡</rdg><rdg wit="#P #Q">ጽልሁተ፡</rdg></app></l>
+          <l n="2">እንበለ፡ <app><rdg wit="#A #G #M #N #O #Q #S #T">ዳእሙ፡</rdg><rdg wit="#J #P #R">ዳዕሙ፡</rdg></app> <app><lem wit="#A #G #J #M #N #O #P #Q">ኂሩተ፡</lem><rdg wit="#R">ሒሩተ፡</rdg><rdg wit="#S">ምሕረተ፡</rdg></app></l>
+          <l n="3">
+            <app type="line">
+              <lem wit="#A #G #J #M #N #O #Q #R #S #T">ለልብየ፡ <app><lem wit="#A #G #J #M #N #O #P #Q #S #T">እብሎ፡</lem><rdg wit="#R">ዕብሎ፡</rdg></app> <app><lem wit="#A #G #J #M #O #Q #R #T">እንዘ፡</lem><rdg wit="#N">ሶበ፡</rdg></app> <app><rdg wit="#A #N #O #S #T">እዛውዖ፡</rdg><rdg wit="#G #Q #R">እዛውኦ፡</rdg><rdg wit="#J">ዕዛዋዕ፡</rdg><rdg wit="#M">ይዛውዖ፡</rdg></app> ሌሊተ፡</lem>
+              <rdg wit="#P">ለብልየ፡ እብሎ፡ እንተ፡ ደፈኖ፡ ጽልመተ፡</rdg>
+            </app>
+          </l>
+          <l n="4"><app><rdg wit="#A #J #N #O #Q #R #S #T">ኪሩቤልሃ፡</rdg><rdg wit="#G">ኪሩቤሃ፡</rdg><rdg wit="#J">ኪሩቤልሂ፡</rdg><rdg wit="#P">ኪሩብሃ፡</rdg></app> <app><lem wit="#A #G #J #M #N #O #P #Q #S #T">እለ፡</lem><rdg wit="#R">እንዘ፡</rdg></app> <app><lem wit="#A #G #J #M #N #O #Q #S #T">ይስእሉ፡</lem><rdg wit="#P">ሰአሉ፡</rdg><rdg wit="#R">ትስዕሉ፡</rdg></app> ምሕረተ፡</l>
+          <l n="5">በታዕካ፡ ሰማይ፡ <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">አጥረይኩ፡</lem><rdg wit="#J"/></app> <app><rdg wit="#A #N">አእርክተ፡</rdg><rdg wit="#G #J #M #O #Q #S #T">አዕርክተ፡</rdg><rdg wit="#P">አዕይንተ፡</rdg><rdg wit="#R">ንሥራተ፡</rdg></app></l>
+        </lg>
+        
       </div>
       <div type="incomplete-text">
-        
-        <lg type="stanza" n="33">
-          <l n="1">ሰላም፡ ለልብክሙ፡ <app><lem wit="#A #G #M #N #O">ዘኢየአምር፡</lem><rdg wit="#J">ዘኢይሄሊ፡</rdg></app> <app><lem wit="#A #G #J #M #N">ጽልሑተ፡</lem><rdg wit="#O">ጽሑተ፡</rdg></app></l>
-          <l n="2">እንበለ፡ <app><rdg wit="#A #G #M #N">ዳእሙ፡</rdg><rdg wit="#J">ዳዕሙ፡</rdg></app> ኂሩተ፡</l>
-          <l n="3">ለልብየ፡ እብሎ፡ <app><rdg wit="#A #G #J #M">እንዘ፡</rdg><rdg wit="#N">ሶበ፡</rdg></app> <app><rdg wit="#A #N">እዛውዖ፡</rdg><rdg wit="#G">እዛውኦ፡</rdg><rdg wit="#J">ዕዛዋዕ፡</rdg><rdg wit="#M">ይዛውዖ፡</rdg></app> ሌሊተ፡</l>
-          <l n="4"><app><rdg wit="#A #J #N">ኪሩቤልሃ፡</rdg><rdg wit="#G">ኪሩቤሃ፡</rdg><rdg wit="#J">ኪሩቤልሂ፡</rdg></app> እለ፡ ይስእሉ፡ ምሕረተ፡</l>
-          <l n="5">በታዕካ፡ ሰማይ፡ <app><rdg wit="#A #G #M #N">አጥረይኩ፡</rdg><rdg wit="#J"/></app> <app><rdg wit="#A #N">አእርክተ፡</rdg><rdg wit="#G #J #M">አዕርክተ፡</rdg></app></l>
-        </lg>
         
         <lg type="stanza" n="34">
           <l n="1">
