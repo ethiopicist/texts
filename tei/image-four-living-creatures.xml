@@ -801,26 +801,31 @@
           <l n="5">በታዕካ፡ ሰማይ፡ <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">አጥረይኩ፡</lem><rdg wit="#J"/></app> <app><rdg wit="#A #N">አእርክተ፡</rdg><rdg wit="#G #J #M #O #Q #S #T">አዕርክተ፡</rdg><rdg wit="#P">አዕይንተ፡</rdg><rdg wit="#R">ንሥራተ፡</rdg></app></l>
         </lg>
         
+        <app type="stanza">
+          <lem wit="#A #G #J #M #O #P #Q #R #S">
+            <lg type="stanza" n="34">
+              <l n="1">
+                <app type="line">
+                  <lem wit="#A #G #J #O #P #Q #R #S">ሰላም፡ ለሕሊናክሙ፡ ዘኢይፈቅድ፡ <app><rdg wit="#A #O #Q #R #S">ዓምፆ፡</rdg><rdg wit="#G #J #P">አምፆ፡</rdg></app></lem>
+                  <rdg wit="#M #T">ሰላም፡ ለሕሊናክሙ፡ ዘንጹሕ፡ እምዓምፆ፡</rdg>
+                </app>
+              </l>
+              <l n="2">
+                <app type="line">
+                  <lem wit="#A #G #J #O #P #Q #S"><app><rdg wit="#A #J #O #P #Q #S">በትዕቢት፡</rdg><rdg wit="#G">በትእኪት፡</rdg></app> <app><rdg wit="#A #Q #S">ወተጋይጾ፡</rdg><rdg wit="#G">ወተጋይፆ፡</rdg><rdg wit="#J">ወበተጋይጾ፡</rdg><rdg wit="#O #P">ወበተጋይፆ፡</rdg></app></lem>
+                  <rdg wit="#M #R #T"><app><lem wit="#R #T">ለልብ፡</lem><rdg wit="#M">ለልብክሙ፡</rdg></app> <app><lem wit="#R #T">ዘተባየጾ፡</lem><rdg wit="#M">ዘትባይጾ፡</rdg></app></rdg>
+                </app>
+              </l>
+              <l n="3"><app><rdg wit="#A #O #T">ተንሥኦትክሙ፡</rdg><rdg wit="#G #M #P #Q #S">ተንሥኦተክሙ፡</rdg><rdg wit="#J">ተንሥአተክሙ፡</rdg><rdg wit="#R">ተዓገሥክሙ፡</rdg></app> <app><lem wit="#J #M #O #P #Q #R #S #T">ኪሩቤል፡</lem><rdg wit="#A">ኪሩብ፡</rdg><rdg wit="#G">ኪሩ፡</rdg></app> <app><lem wit="#A #S #T">ለጌልጌል፡</lem><rdg wit="#G">በጌርጌል፡</rdg><rdg wit="#M #O #P #Q #R">ለጌርጌል፡</rdg><rdg wit="#J">ለመንበረ፡ ክብሩ፡</rdg></app> <app><rdg wit="#A #J #M #T">ዘያረውጾ፡</rdg><rdg wit="#G #P">ዘያረፆ፡</rdg><rdg wit="#O #Q #S">ያረውጾ፡</rdg><rdg wit="#R">ዘታረውጾ፡</rdg></app></l>
+              <l n="4"><app><lem wit="#A #J #M #O #P #S #T">ይቶሳሕ፡</lem><rdg wit="#G">ይትዋሳሕ፡</rdg><rdg wit="#Q #R">ይቶስሕ፡</rdg></app> <app><lem wit="#M #O #P #Q #R #S #T">ሕሊና<!--የ deleted in M-->፡</lem><rdg wit="#A #G #J">ሕሊናየ፡</rdg></app> <app><lem wit="#A #M #O #P #Q #R #S #T">ጥበብ፡</lem><rdg wit="#G">ጥበበ፡</rdg><rdg wit="#J"/></app> እምልብክሙ፡ <app><rdg wit="#A #G #J #M #O #P #S #T">ሠሪፆ፡</rdg><rdg wit="#Q #R">ሠሪጾ፡</rdg></app></l>
+              <l n="5"><app><rdg wit="#A #G #J #M #O #P #Q #S #T">ምስለ፡</rdg><rdg wit="#R">ውስተ፡</rdg></app> ሕሊናየ፡ <app><lem wit="#A #G #J #M #N #O #P #Q #S #T">አእምሮ፡</lem><rdg wit="#R">አዕምሮ፡</rdg></app> <app><rdg wit="#A #P #S">ዘሐፆ፡</rdg><rdg wit="#G #J #R #T">ዘሐጾ፡</rdg><rdg wit="#M">ዘ<!-- add above-->የሀጾ፡</rdg><rdg wit="#O">ዘሓፆ፡</rdg><rdg wit="#Q">ዘየሐፅፆ፡</rdg></app></l>
+            </lg>
+          </lem>
+          <rdg wit="#N"/>
+        </app>
+        
       </div>
       <div type="incomplete-text">
-        
-        <lg type="stanza" n="34">
-          <l n="1">
-            <app type="line">
-              <lem wit="#A #G #J">ሰላም፡ ለሕሊናክሙ፡ ዘኢይፈቅድ፡ <app><rdg wit="#A">ዓምፆ፡</rdg><rdg wit="#G #J">አምፆ፡</rdg></app></lem>
-              <rdg wit="#M">ሰላም፡ ለሕሊናክሙ፡ ዘንጹሕ፡ እምዓምፆ፡</rdg>
-            </app>
-          </l>
-          <l n="2">
-            <app type="line">
-              <lem wit="#A #G #J"><app><rdg wit="#A #J">በትዕቢት፡</rdg><rdg wit="#G">በትእኪት፡</rdg></app> <app><rdg wit="#A">ወተጋይጾ፡</rdg><rdg wit="#G">ወተጋይፆ፡</rdg><rdg wit="#J">ወበተጋይጾ፡</rdg></app></lem>
-              <rdg wit="#M">ለልብክሙ፡ ዘትባይጾ፡</rdg>
-            </app>
-          </l>
-          <l n="3"><app><rdg wit="#A">ተንሥኦትክሙ፡</rdg><rdg wit="#G #M">ተንሥኦተክሙ፡</rdg><rdg wit="#J">ተንሥአተክሙ፡</rdg></app> <app><lem wit="#A">ኪሩብ፡</lem><rdg wit="#G">ኪሩ፡</rdg><rdg wit="#J #M">ኪሩቤል፡</rdg></app> <app><rdg wit="#A">ለጌልጌል፡</rdg><rdg wit="#G">በጌርጌል፡</rdg><rdg wit="#M">ለጌርጌል፡</rdg><rdg wit="#J">ለመንበረ፡ ክብሩ፡</rdg></app> <app><rdg wit="#A #J #M">ዘያረውጾ፡</rdg><rdg wit="#G">ዘያረፆ፡</rdg></app></l>
-          <l n="4"><app><rdg wit="#A #J #M">ይቶሳሕ፡</rdg><rdg wit="#G">ይትዋሳሕ፡</rdg></app> <app><lem wit="#A #G #J">ሕሊናየ፡</lem><rdg wit="#M">ሕሊና<!--የ deleted-->፡</rdg></app> <app><rdg wit="#A #M">ጥበብ፡</rdg><rdg wit="#G">ጥበበ፡</rdg><rdg wit="#J"/></app> እምልብክሙ፡ ሠሪፆ፡</l>
-          <l n="5">ምስለ፡ ሕሊናየ፡ አእምሮ፡ <app><rdg wit="#A">ዘሐፆ፡</rdg><rdg wit="#G #J">ዘሐጾ፡</rdg><rdg wit="#M">ዘ<!-- add above-->የሀጾ፡</rdg></app></l>
-        </lg>
         
         <!-- this is swapped with the following stanza in N -->
         <lg type="stanza" n="35"><!-- Add G later -->
