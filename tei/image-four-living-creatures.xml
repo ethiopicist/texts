@@ -833,12 +833,7 @@
             </app>
           </l>
           <l n="3"><app><lem wit="#A #G #J #M #O #P #Q #R #S #T">እለ፡</lem><rdg wit="#N">ዘ</rdg></app> <app><lem wit="#A #G #J #P #Q #T">ትረውጹ፡</lem><rdg wit="#M">ትፀውሩ፡</rdg><rdg wit="#N">ትጸውሩ፡</rdg><rdg wit="#O">ይረውጹ፡</rdg><rdg wit="#Q">ትረውፁ፡</rdg><rdg wit="#S">ተሐውሩ፡</rdg></app> <app><lem wit="#G #J #N #Q #R #T">ኪሩቤል፡</lem><rdg wit="#A #M #P">ኪሩብ፡</rdg><rdg wit="#O #S">እንስሳ፡</rdg></app> ኀበ፡ <app><lem wit="#A #G #N #O #P #R #S #T">አንጸረ፡</lem><rdg wit="#J #M">አንፀረ፡</rdg></app> ቀዳማዊ፡</l>
-          <l n="4">
-            <app type="line">
-              <lem wit="#A #G #M #N #O #P #Q #R #S #T">በንዋየ፡ <app><lem wit="#G #N #P">ውስጥክሙ፡</lem><rdg wit="#A #M #O #Q #R #S #T">ውሥጥክሙ፡</rdg></app> ተማኅፀንኩ፡ ከመ፡ ፍሬ፡ <app><lem wit="#A #G #O #Q #R">ጻማየ፡</lem><rdg wit="#M #T">ፃማየ፡</rdg><rdg wit="#N #S">ጻማ፡</rdg><rdg wit="#P">ማየ፡</rdg></app> <app><rdg wit="#A #M #N #O #Q #T">ይስዊ፡</rdg><rdg wit="#G #P #S">ይሰዊ፡</rdg></app></lem>
-              <rdg wit="#J">ተማኅፀንኩ፡ በንዋየ፡ ውስጥክሙ፡ ከመ፡ ፍሬ፡ ፃማየ፡ ይስዊ፡</rdg>
-            </app>
-          </l>
+          <l n="4"><app><lem wit="#A #G #M #N #O #P #Q #R #S #T"/><rdg wit="#J">ተማኅፀንኩ፡</rdg></app> በንዋየ፡ <app><lem wit="#G #J #N #P">ውስጥክሙ፡</lem><rdg wit="#A #M #O #Q #R #S #T">ውሥጥክሙ፡</rdg></app> <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">ተማኅፀንኩ፡</lem><rdg wit="#J"/></app> ከመ፡ ፍሬ፡ <app><lem wit="#A #G #O #Q #R">ጻማየ፡</lem><rdg wit="#J #M #T">ፃማየ፡</rdg><rdg wit="#N #S">ጻማ፡</rdg><rdg wit="#P">ማየ፡</rdg></app> <app><rdg wit="#A #J #M #N #O #Q #T">ይስዊ፡</rdg><rdg wit="#G #P #S">ይሰዊ፡</rdg></app></l>
           <l n="5"><app><lem wit="#A #J #M #N #O #P #Q #R #S #T">ገራህተ፡</lem><rdg wit="#G">ለገራህተ፡</rdg></app> <app><lem wit="#A #M #O #Q #T">ተስፋየ፡</lem><rdg wit="#J">ተሥፋየ፡</rdg><rdg wit="#N #S">ልብየ፡</rdg><rdg wit="#G #P">ነፍስየ፡</rdg><rdg wit="#R">ተስፋ፡</rdg></app> <app><lem wit="#A #G #M #N #O #P #R #S #T">ጠልክሙ፡</lem><rdg wit="#Q">ልብክሙ፡ እምጠሉ፡</rdg></app> <app><lem wit="#A #J #O #P #R #S #T">ያርዊ፡</lem><rdg wit="#M">ያ<!--በ deleted-->ዊ፡</rdg><rdg wit="#N">ይርዊ፡</rdg><rdg wit="#G #Q">ያረዊ፡</rdg></app></l>
           <l n="5b">
             <app type="line">
@@ -1347,11 +1342,12 @@
           <l n="2">Cherubim, thrones of the Living God,</l>
           <l n="3">Your honour (is) at the head of the book, the title.</l>
           <l n="4">My lords, grant me, who is a servant to you,</l>
-          <l n="5"><app type="line">
-            <lem>Peace at daybreak and mercy in the evening.</lem>
-            <rdg wit="N">Comfort in the morning and mercy in the evening.</rdg>
-          </app>
-        </l>
+          <l n="5">
+            <app type="line">
+              <lem>Peace at daybreak and mercy in the evening.</lem>
+              <rdg wit="N">Comfort in the morning and mercy in the evening.</rdg>
+            </app>
+          </l>
         </lg>
         
         <lg type="stanza" n="31">
@@ -1426,7 +1422,7 @@
           <l n="2">At the bottom of pure heaven, the courtyard of which is crystal.</l>
           <l n="3">Give me, Cherubim, on the day of judgement and retribution,</l>
           <l n="4"></l>
-          <l n="5"></l>
+          <l n="5">When a mother is unable to save her child.</l>
         </lg>
         
         <lg type="stanza" n="40">
@@ -1438,7 +1434,7 @@
         </lg>
         
         <lg type="stanza" n="41">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to the heels of your feet</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1446,7 +1442,7 @@
         </lg>
         
         <lg type="stanza" n="42">
-          <l n="1">Salutation to</l>
+          <l n="1">Salutation to the soles of your feet</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
@@ -1486,7 +1482,7 @@
         </lg>
         
         <lg type="stanza" n="47">
-          <l n="1">Salutation to</l>
+          <l n="1">O thrones</l>
           <l n="2"></l>
           <l n="3"></l>
           <l n="4"></l>
