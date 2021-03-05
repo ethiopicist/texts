@@ -916,18 +916,13 @@
           </l>
           <l n="4">
             <app type="line">
-              <rdg wit="#G #M #N #O #P #Q #S #T"><app><lem wit="#M #O #P #Q #S #T">አምጣነ፡</lem><rdg wit="#G">አምጣኑ፡</rdg><rdg wit="#N">መጠነ፡</rdg></app> ምግባሩ፡ <app><rdg wit="#O #S">ለሰብእ፡</rdg><rdg wit="#G #M #N #P"/></app> <app><rdg wit="#G">እንተ፡</rdg><rdg wit="#M">ምንተ፡</rdg><rdg wit="#N #P">በጊዜ፡</rdg><rdg wit="#O #Q #S #T">እምእንተ፡</rdg></app> በጽሐቶ፡ <app><rdg wit="#G #M #O #P #Q #S #T">ዕዳ፡</rdg><rdg wit="#N">እዳ፡</rdg></app></rdg>
+              <lem wit="#G #M #N #O #P #Q #S #T"><app><lem wit="#M #O #P #Q #S #T">አምጣነ፡</lem><rdg wit="#G">አምጣኑ፡</rdg><rdg wit="#N">መጠነ፡</rdg></app> ምግባሩ፡ <app><rdg wit="#O #S">ለሰብእ፡</rdg><rdg wit="#G #M #N #P"/></app> <app><rdg wit="#G">እንተ፡</rdg><rdg wit="#M">ምንተ፡</rdg><rdg wit="#N #P">በጊዜ፡</rdg><rdg wit="#O #Q #S #T">እምእንተ፡</rdg></app> በጽሐቶ፡ <app><rdg wit="#G #M #O #P #Q #S #T">ዕዳ፡</rdg><rdg wit="#N">እዳ፡</rdg></app></lem>
               <rdg wit="#A">እመኒ፡ ውእቱ፡ ምሉአ፡ ኃጢአት፡ ወዕዳ፡</rdg>
               <rdg wit="#R">ተነበዩኒ፡ ኪሩቤል፡ እምሰዓተ፡ ኵነኔ፡ ወፍዳ፡</rdg>
               <rdg wit="#J"/>
             </app>
           </l>
-          <l n="5">
-            <app type="line">
-              <lem wit="#G #J #M #N #O #P #Q #R #S #T"><app><lem wit="#J #M #N #O #Q #S #T">አመ፡</lem><rdg wit="#G">ሶበ፡</rdg><rdg wit="#R">ዓመ፡</rdg><rdg wit="#P"/></app> <app><lem wit="#G #M #N #O #P #Q #R #S #T">ኢትክል፡</lem><rdg wit="#J">ኢትክህል፡</rdg></app> እም፡ <app><lem wit="#J #M #N #O #S"/><rdg wit="#G #Q #R #T">ከመ፡</rdg></app> <app><rdg wit="#G #M #P #Q #R #T">ታድኅን፡</rdg><rdg wit="#J #N #O #S">አድኅኖ፡</rdg></app> <app><lem wit="#G #J #M #N #O #Q #R #S #T"/><rdg wit="#P">ዘወለደት፡</rdg></app> <app><rdg wit="#G #M #P #Q #R #T">ወልዳ፡</rdg><rdg wit="#J #N #O #S">ውሉዳ፡</rdg></app></lem>
-              <rdg wit="#A">አምጣነ፡ ኢትጸልእ፡ እም፡ ዘወለደት፡ ወልዳ፡</rdg>
-            </app>
-          </l>
+          <l n="5"><app><lem wit="#J #M #N #O #Q #S #T">አመ፡</lem><rdg wit="#G">ሶበ፡</rdg><rdg wit="#R">ዓመ፡</rdg><rdg wit="#A">አምጣነ፡</rdg><rdg wit="#P"/></app> <app><lem wit="#G #M #N #O #P #Q #R #S #T">ኢትክል፡</lem><rdg wit="#J">ኢትክህል፡</rdg><rdg wit="#A">ኢትጸልእ፡</rdg></app> እም፡ <app><lem wit="#J #M #N #O #S #A"/><rdg wit="#G #Q #R #T">ከመ፡</rdg></app> <app><rdg wit="#G #M #P #Q #R #T">ታድኅን፡</rdg><rdg wit="#J #N #O #S">አድኅኖ፡</rdg><rdg wit="#A"/></app> <app><lem wit="#G #J #M #N #O #Q #R #S #T"/><rdg wit=" #A #P">ዘወለደት፡</rdg></app> <app><rdg wit="#A #G #M #P #Q #R #T">ወልዳ፡</rdg><rdg wit="#J #N #O #S">ውሉዳ፡</rdg></app></l>
         </lg>
         
       </div>
