@@ -1390,17 +1390,29 @@
         <lg type="stanza" n="33">
           <l n="1">Salutation to your hearts, which do not know deceit</l>
           <l n="2">But rather choice goodness.</l>
-          <l n="3">I say to my heart, conversing with it at night,</l>
-          <!-- which he conceals with shadow -->
+          <l n="3">
+            <app type="line">
+              <lem>I say to my heart, conversing with it at night,</lem>
+              <rdg wit="#P">I say to my heart, which he conceals with shadow,</rdg>
+            </app>
+          </l>
           <l n="4">"The cherubim, who intercede for mercy,</l>
           <l n="5">"I have gained (them) as friends in the palace of heaven."</l>
         </lg>
         
         <lg type="stanza" n="34">
-          <l n="1">Salutation to your thoughts, which do not desire to do injustice</l>
-          <!-- pure from injustice -->
-          <l n="2">Pridefully or to be hostile.</l>
-          <!-- companions to (your) hearts -->
+          <l n="1">
+            <app type="line">
+              <lem>Salutation to your minds, which do not desire to do injustice,</lem>
+              <rdg wit="#M #T">Salutation to your minds, which are free from injustice,</rdg>
+            </app>
+          </l>
+          <l n="2">
+            <app type="line">
+              <lem>Pridefully or to hostilely.</lem>
+              <rdg wit="#M #R #T">Companions to (your) hearts.</rdg>
+            </app>
+          </l>
           <l n="3">Cherubim, (you) whose ascent causes Gelgel to run<note>cf. Ez. 1:19, 10:16</note>,</l>
           <l n="4">Let a thought of wisdom, having proceeded from your hearts, mix</l>
           <l n="5">With my thoughts, which are lacking in knowledge.</l>
@@ -1411,17 +1423,35 @@
           <l n="2">And not fleshly (ones).</l>
           <l n="3">Cherubim, you who run where (your) first (face) is turned to look<note>cf. Ez 10:11</note>,</l>
           <l n="4">In your intestines I take refuge, so that the fruits of my labour may mature</l>
-          <l n="5">(And) the field of my hope be irrigated with your dew.</l>
-          <!-- Make my enemies ill with your strength -->
+          <l n="5">
+            <app type="line">
+              <lem>(And) the field of my hope be irrigated by your dew.</lem>
+              <rdg wit="#G"/>
+            </app>
+          </l>
+          <l n="5b">
+            <app type="line">
+              <lem/>
+              <rdg wit="#G">Make my enemies ill through your power.</rdg>
+            </app>
+          </l>
         </lg>
         
         <lg type="stanza" n="36">
-          <l n="1">Salutation to your navels, which is carved like the relief of a seal,</l>
-          <!-- -->
+          <l n="1">
+            <app type="line">
+              <lem>Salutation to your navels, which are carved like the relief of a seal,</lem>
+              <rdg wit="#R">Salutation to your navels, which are carved in the middle of (your) nature,</rdg>
+            </app>
+          </l>
           <l n="2">Always resting in the middle of the width of your stomach.</l>
           <l n="3">Cherubim, thrones of Him who rules the thousands,</l>
-          <l n="4">Grant me, your labourer, your enduring wisdom</l>
-          <!-- -->
+          <l n="4">
+            <app type="line">
+              <lem>Grant me, your labourer, your enduring wisdom</lem>
+              <rdg wit="#G #N #R">Grant me, my lords, an enduring (portion) of your grace</rdg>
+            </app>
+          </l>
           <l n="5">Which uncovers the ears and opens the mouth.</l>
         </lg>
         
