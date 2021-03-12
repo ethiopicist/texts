@@ -920,9 +920,6 @@
           <l n="5"><app><lem wit="#J #M #N #O #Q #S #T">አመ፡</lem><rdg wit="#G">ሶበ፡</rdg><rdg wit="#R">ዓመ፡</rdg><rdg wit="#A">አምጣነ፡</rdg><rdg wit="#P"/></app> <app><lem wit="#G #M #N #O #P #Q #R #S #T">ኢትክል፡</lem><rdg wit="#J">ኢትክህል፡</rdg><rdg wit="#A">ኢትጸልእ፡</rdg></app> እም፡ <app><lem wit="#J #M #N #O #S #A"/><rdg wit="#G #Q #R #T">ከመ፡</rdg></app> <app><rdg wit="#G #M #P #Q #R #T">ታድኅን፡</rdg><rdg wit="#J #N #O #S">አድኅኖ፡</rdg><rdg wit="#A"/></app> <app><lem wit="#G #J #M #N #O #Q #R #S #T"/><rdg wit=" #A #P">ዘወለደት፡</rdg></app> <app><rdg wit="#A #G #M #P #Q #R #T">ወልዳ፡</rdg><rdg wit="#J #N #O #S">ውሉዳ፡</rdg></app></l>
         </lg>
         
-      </div>
-      <div type="incomplete-text">
-        
         <app type="stanza">
           <lem wit="#A #G #M #N #O #P #Q #R #S #T">
             <lg type="stanza" n="40">
@@ -967,6 +964,9 @@
           <l n="4"><app><lem wit="#A #G #J #M #N #O #P #Q #S"/><rdg wit="#R">ኪሩቤል፡</rdg></app> ለዕበይክሙ፡ <app><lem wit="#A #G #J #M #O #P #Q #R #S #T">ሶበ፡</lem><rdg wit="#N">እንተ፡</rdg></app> <app><lem wit="#A #J #M #N #O #P #Q #R #S #T">አቄርብ፡</lem><rdg wit="#G">ዐቄርብ፡</rdg></app> መዝሙረ፡</l>
           <l n="5"><app><rdg wit="#A #G #M #P #R">ቅድመ፡ ገጽክሙ፡</rdg><rdg wit="#J #N #Q #S">በቅድሜክሙ፡</rdg><rdg wit="#O">ቅድሜክሙ፡</rdg></app> <app><lem wit="#A #G #J #M #O #P #Q #R #S #T">ለይኩን፡</lem><rdg wit="#N">ለትኩን፡</rdg></app> <app><rdg wit="#A #G #J #M #N #O #P #Q #R">ሥሙረ፡</rdg><rdg wit="#S">ሥኩረ፡</rdg></app></l>
         </lg>
+        
+      </div>
+      <div type="incomplete-text">
         
         <lg type="stanza" n="43">
           <l n="1">ሰላም፡ ሰላም፡ ለአፃብአ፡ እግርክሙ፡ ዘውግ፡</l>
