@@ -75,6 +75,8 @@
           </witness>
           -->
           
+          <!-- Also EMML 7928, facs #87 -->
+          
           <witness xml:id="N" facs="https://w3id.org/vhmml/readingRoom/view/201682">
             <msDesc>
               <msIdentifier>
