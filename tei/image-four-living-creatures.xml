@@ -975,7 +975,7 @@
           <l n="2"><app><lem wit="#A #G #J #N #O #Q #R #S #T">ነፋስ፡</lem><rdg wit="#M">ነፍሰ፡</rdg><rdg wit="#P">ዘነፋስ፡</rdg></app> <app><lem wit="#A #J #M #N #O #P #Q #R #S #T">ፍጥረቶን፡</lem><rdg wit="#G">ፍጥረቶ፡</rdg></app> <app><lem wit="#A #G #J #M #O #P #Q #S #T">ምስለ፡</lem><rdg wit="#N #R">ዘምስለ፡</rdg></app> ነበልባል፡ <app><rdg wit="#A #P #T">በደርግ፡</rdg><rdg wit="#G #J #M #O #Q #S">ደርግ፡</rdg><rdg wit="#N #R"><!--any other witnesses?-->ድሩግ፡</rdg></app></l>
           <l n="3">እንስሳ፡ <app><lem wit="#A #G #J #M #O #P #Q #S #T">አርባዕ፡</lem><rdg wit="#N #R">፬፡</rdg></app> <app><lem wit="#G #J #N #O #P #Q #S #T">ዘማየ፡</lem><rdg wit="#A #R">ዘሰማየ፡</rdg><rdg wit="#M">ዘየማነ፡</rdg></app> <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">ቅዳሴ፡</lem><rdg wit="#J">ውዳሴ፡</rdg></app> <app><lem wit="#A #J #M #O #Q #R #S #T">አፍላግ፡</lem><rdg wit="#G #N #P">ፈለግ፡</rdg></app></l>
           <l n="4">ተገብረ፡ <app><lem wit="#A #G #M #N #O #P #Q #R #S">አምሳሊክሙ፡</lem><rdg wit="#J">አምሳሌክሙ፡</rdg><rdg wit="#T">አምሳልክሙ፡</rdg></app> በተድባበ፡ <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">ታቦት፡</lem><rdg wit="#J"/></app> ዘሕግ፡</l>
-          <l n="5"><app><lem wit="#A #G #M #O #Q #R #S #T">እምድኅረ፡</lem><rdg wit="#J #N #P">ድኅረ፡</rdg></app> <app><lem wit="#A #G #M #O #Q #R #S #T">ውኅጦሙ፡</lem><rdg wit="#J">ውኅጠቶሙ፡</rdg><rdg wit="#N #P">ውሕጦሙ፡</rdg></app> <app><rdg wit="#A #S">ለአዝብእት፡</rdg><rdg wit="#G #N #O #Q">ለአዝእብት፡</rdg><rdg wit="#G #M #P #R #T">ለአዝዕብት፡</rdg></app> <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">አይግ፡</lem><rdg wit="#J">አድግ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#A #G #M #O #Q #R #S #T">እምድኅረ፡</lem><rdg wit="#J #N #P">ድኅረ፡</rdg></app> <app><lem wit="#A #G #M #O #Q #R #S #T">ውኅጦሙ፡</lem><rdg wit="#J">ውኅጠቶሙ፡</rdg><rdg wit="#N #P">ውሕጦሙ፡</rdg></app> <app><lem wit="#G #N #O #Q">ለአዝእብት፡</lem><rdg wit="#A #S">ለአዝብእት፡</rdg><rdg wit="#G #M #P #R #T">ለአዝዕብት፡</rdg></app> <app><lem wit="#A #G #M #N #O #P #Q #R #S #T">አይግ፡</lem><rdg wit="#J">አድግ፡</rdg></app></l>
         </lg>
         
         <app type="stanza">
@@ -990,11 +990,16 @@
                 </app>
               </l>
               <l n="4"><app><rdg wit="#A #J #O #Q">እምሀኬት፡</rdg><rdg wit="#G">እምኀኪት፡</rdg><rdg wit="#N #P #S #T">እምሐኬት፡</rdg><rdg wit="#M">እምሀኬትየ፡</rdg></app> <app><rdg wit="#A #G #M #O #P #Q #S">ውስተ፡</rdg><rdg wit="#T">ለ</rdg></app> <app><rdg wit="#A #G #M #Q #T">ተገብሮ፡</rdg><rdg wit="#G">ገብሮ፡</rdg><rdg wit="#N">ተናግሮ፡</rdg><rdg wit="#O #S">ተቀንዮ፡</rdg><rdg wit="#P">ተግባር፡</rdg></app> <app><rdg wit="#A #J #M #O #Q #S #T">ግዕዘ፡</rdg><rdg wit="#G">ግእዘ፡</rdg><rdg wit="#P">ግዕዛንየ፡</rdg></app> <app><rdg wit="#A #G #M #N #J #O #Q #T">ዚአየ፡</rdg><rdg wit="#S">ነፍስየ፡</rdg><rdg wit="#P"/></app> ወልጡ፡</l>
-              <l n="5">እስመ፡ <app><lem wit="#G #M #O #P #Q #S #T">ለንዋየ፡ ብዕል፡</lem><rdg wit="#A">ለብዕል፡</rdg><rdg wit="#J">ለንዋየ፡ ጽድቅ፡</rdg><rdg wit="#N">ለንዋየ፡ ውስጥ፡</rdg></app> <app><lem wit="#A #G #J #M #O #S #T">ሰማያዊ፡</lem><rdg wit="#N">ቀዳማዊ፡</rdg></app> ይእዜ፡ <app><rdg wit="#A #M #N #O #Q #S #T">ምሥያጡ፡</rdg><rdg wit="#G #J #P">ምስያጡ፡</rdg></app></l>
+              <l n="5">
+                <app type="line">
+                  <lem wit="#A #G #J #M #O #P #Q #R #S #T">እስመ፡ <app><lem wit="#G #M #O #P #Q #S #T">ለንዋየ፡ ብዕል፡</lem><rdg wit="#A">ለብዕል፡</rdg><rdg wit="#J">ለንዋየ፡ ጽድቅ፡</rdg></app> ሰማያዊ፡ ይእዜ፡ <app><rdg wit="#A #M #O #Q #S #T">ምሥያጡ፡</rdg><rdg wit="#G #J #P">ምስያጡ፡</rdg></app></lem>
+                  <rdg wit="N">እስመ፡ ለንዋየ፡ ውስጥ፡ ቀዳማዊ፡ ይእዜ፡ ምሥያጡ፡</rdg>
+                </app>
+              </l>
             </lg>
           </lem>
           <rdg wit="#R"/>
-        </app>
+        </>
         
         <lg type="stanza" n="45">
           <l n="1">ሰላም፡ <app><lem wit="#A #G #J #M #N #O #P #Q #R #T">ለቆምክሙ፡</lem><rdg wit="#S">ለመልክዕሙ፡</rdg></app> ዘጥቀ፡ <app><lem wit="#A #G #M #O #P #Q #S #T">ሠናይ፡</lem><rdg wit="#J">ሠናየ፡</rdg><rdg wit="#N">ዕሩይ፡</rdg><rdg wit="#R">ኅሩይ፡</rdg></app></l>
@@ -1554,15 +1559,15 @@
           <l n="2">The wind of their creation with fire in a union.</l>
           <l n="3">Four (Living) Creatures, rivers of water of sanctification,</l>
           <l n="4">Your likenesses were fashioned upon the canopy of the Ark of the Law</l>
-          <l n="5">Before</l>
+          <l n="5">After a pond swallowed up the hyenas.</l>
         </lg>
         
         <lg type="stanza" n="44">
           <l n="1">Salutation to your toenails, at the ends of your toes</l>
           <l n="2">Creatures who go back (and forth) like lightning<note>cf. Ez. 1:14</note></l>
-          <l n="3">And, when they go backwards, do not turn</l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="3">And, when they go backwards, do not turn.</l>
+          <l n="4">Exchange habit of idleness for skill</l>
+          <l n="5">Since now the markets of heavenly riches.</l>
         </lg>
         
         <lg type="stanza" n="45">
