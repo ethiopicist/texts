@@ -999,7 +999,7 @@
             </lg>
           </lem>
           <rdg wit="#R"/>
-        </>
+        </app>
         
         <lg type="stanza" n="45">
           <l n="1">ሰላም፡ <app><lem wit="#A #G #J #M #N #O #P #Q #R #T">ለቆምክሙ፡</lem><rdg wit="#S">ለመልክዕሙ፡</rdg></app> ዘጥቀ፡ <app><lem wit="#A #G #M #O #P #Q #S #T">ሠናይ፡</lem><rdg wit="#J">ሠናየ፡</rdg><rdg wit="#N">ዕሩይ፡</rdg><rdg wit="#R">ኅሩይ፡</rdg></app></l>
