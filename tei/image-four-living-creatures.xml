@@ -950,7 +950,7 @@
               <l n="2"><app><lem wit="#A #G #M #N #O #P #Q #S #T"/><rdg wit="#R">ከመ፡</rdg></app> <app><lem wit="#A #G #M #O #Q #S #T">ብርተ፡ ርሱነ፡</lem><rdg wit="#P">ርሱነ፡ ብርት፡</rdg><rdg wit="#R">ርስነ፡ ብርት፡</rdg></app> <app><rdg wit="#A #G #M #N #O #P #Q #S #T">እለ፡</rdg><rdg wit="#R"/></app> ይመስሉ፡</l>
               <l n="3">
                 <app type="line">
-                  <lem wit="#G #M #O #R #S #T"><app><lem wit="#O #S #T">ጸወርት፡</lem><rdg wit="#M #R">ፀወርት፡</rdg><rdg wit="#G">እለ፡ ትጸውሩ፡ ኪሩቤል፡</rdg></app> መንበረ፡ <app><lem wit="#S">ጸባኦት፡</lem><rdg wit="#G #R">ጸባዖት፡</rdg><rdg wit="#M #T">ፀባዖት፡</rdg><rdg wit="#O">ፀባኦት፡</rdg></app> ዘላዕሉ፡</lem>
+                  <lem wit="#G #M #O #R #S #T"><app><lem wit="#G #M #O #R #S"/><rdg wit="#T">ኪሩቤል፡</rdg></app> <app><lem wit="#O #S #T">ጸወርት፡</lem><rdg wit="#M #R">ፀወርት፡</rdg><rdg wit="#G">እለ፡ ትጸውሩ፡ ኪሩቤል፡</rdg></app> መንበረ፡ <app><lem wit="#S">ጸባኦት፡</lem><rdg wit="#G #R">ጸባዖት፡</rdg><rdg wit="#M #T">ፀባዖት፡</rdg><rdg wit="#O">ፀባኦት፡</rdg></app> ዘላዕሉ፡</lem>
                   <rdg wit="#A #N #P"><app><rdg wit="#A">ኦኪሩቤል፡</rdg><rdg wit="#N">እንስሳ፡ ፬፡</rdg><rdg wit="#P">እንስሳ፡ ኪሩቤል፡</rdg></app> <app><lem wit="#A #N">ጸወርተ፡</lem><rdg wit="#P">ፀወርተ፡</rdg></app> መንበር፡ ዘላዕሉ፡</rdg>
                   <rdg wit="#Q">ኪሩቤል፡ ጸወርት፡ መንበረ፡ ታሕቱ፡ ወላዕሉ፡</rdg>
                 </app>
@@ -967,7 +967,7 @@
           <l n="2"><app><lem wit="#A #G #J #N #O #Q #R #S">ሰረገላ፡</lem><rdg wit="#M #P">ሠረገላ፡</rdg></app> <app><lem wit="#A #J #M #N #O #P #Q #R #S #T">መንፈስ፡</lem><rdg wit="#G">መብረቅ፡</rdg></app> <app><rdg wit="#A #J #P #R">ግሩም፡</rdg><rdg wit="#G #M #N #O #Q #S">ግሩመ፡</rdg></app> ዘይመስል፡ ባሕረ፡</l>
           <l n="3"><app><lem wit="#A #G #J #M #O #P #Q #R #S #T">እንስሳ፡</lem><rdg wit="#N">ኪሩቤል፡</rdg></app> <app><lem wit="#A #J #M #O #P #Q #S">አርባዕ፡</lem><rdg wit="#G">፬ቱ፡</rdg><rdg wit="#N #R">፬፡</rdg></app> <app><lem wit="#A #G #N #O #P #Q #R #S #T">ዘትጸውሩ፡</lem><rdg wit="#J #M">ዘትፀውሩ፡</rdg></app> መንበረ፡</l>
           <l n="4"><app><lem wit="#A #G #J #M #N #O #P #Q #S"/><rdg wit="#R">ኪሩቤል፡</rdg></app> ለዕበይክሙ፡ <app><lem wit="#A #G #J #M #O #P #Q #R #S #T">ሶበ፡</lem><rdg wit="#N">እንተ፡</rdg></app> <app><lem wit="#A #J #M #N #O #P #Q #R #S #T">አቄርብ፡</lem><rdg wit="#G">ዐቄርብ፡</rdg></app> መዝሙረ፡</l>
-          <l n="5"><app><rdg wit="#A #G #M #P #R">ቅድመ፡ ገጽክሙ፡</rdg><rdg wit="#J #N #Q #S">በቅድሜክሙ፡</rdg><rdg wit="#O">ቅድሜክሙ፡</rdg></app> <app><lem wit="#A #G #J #M #O #P #Q #R #S #T">ለይኩን፡</lem><rdg wit="#N">ለትኩን፡</rdg></app> <app><rdg wit="#A #G #J #M #N #O #P #Q #R">ሥሙረ፡</rdg><rdg wit="#S">ሥኩረ፡</rdg></app></l>
+          <l n="5"><app><rdg wit="#A #G #M #P #R">ቅድመ፡ ገጽክሙ፡</rdg><rdg wit="#J #N #Q #S">በቅድሜክሙ፡</rdg><rdg wit="#O">ቅድሜክሙ፡</rdg></app> <app><lem wit="#A #G #J #M #O #P #Q #R #S #T">ለይኩን፡</lem><rdg wit="#N">ለትኩን፡</rdg></app> <app><lem wit="#A #G #J #M #N #O #P #Q #R">ሥሙረ፡</lem><rdg wit="#S">ሥኩረ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="43">
@@ -982,7 +982,7 @@
           <lem wit="#A #G #J #M #N #O #P #Q #S #T">
             <lg type="stanza" n="44">
               <l n="1">ሰላም፡ ለአጽፋረ፡ እግርክሙ፡ <app><lem wit="#A #G #M #N #O #P #Q #S #T">በጽንፈ፡</lem><rdg wit="#J">በመልዕተ፡</rdg></app> <app><lem wit="#A #J #M #N #O #P #S #T">አፃብዕ፡</lem><rdg wit="#G">አባል፡</rdg><rdg wit="#Q">አፃብእ፡</rdg></app> እለ፡ <app><lem wit="#A #G #J #N #O #P #Q #S #T">ተለብጡ፡</lem><rdg wit="#M">ተለጡ፡</rdg></app></l>
-              <l n="2">ከመ፡ <app><rdg wit="#A #G #M #P">ባዚቃ፡</rdg><rdg wit="#J">ቤዜቃ፡</rdg><rdg wit="#N #O #Q #S #T">ባዜቃ፡</rdg></app> <app><rdg wit="#A #J #M #N #O #P #Q #S #T">እንስሳ፡</rdg><rdg wit="#G">ኪሩቤል፡</rdg></app> <app><rdg wit="#A #M #Q #T">እንተ፡</rdg><rdg wit="#G #J #O #S">እለ፡</rdg><rdg wit="#N">ዘ</rdg><rdg wit="#P">እንዘ፡</rdg></app> <app><rdg wit="#A #G #M #O #S #T">ትሠወጡ፡</rdg><rdg wit="#J #N #P">ተሰውጡ፡</rdg><rdg wit="#Q">ትሠጠጡ፡</rdg></app></l>
+              <l n="2">ከመ፡ <app><lem wit="#N #O #Q #S #T">ባዜቃ፡</lem><rdg wit="#A #G #M #P">ባዚቃ፡</rdg><rdg wit="#J">ቤዜቃ፡</rdg></app> <app><rdg wit="#A #J #M #N #O #P #Q #S #T">እንስሳ፡</rdg><rdg wit="#G">ኪሩቤል፡</rdg></app> <app><rdg wit="#A #M #Q #T">እንተ፡</rdg><rdg wit="#G #J #O #S">እለ፡</rdg><rdg wit="#N">ዘ</rdg><rdg wit="#P">እንዘ፡</rdg></app> <app><rdg wit="#A #G #M #O #S #T">ትሠወጡ፡</rdg><rdg wit="#J #N #P">ተሰውጡ፡</rdg><rdg wit="#Q">ትሠጠጡ፡</rdg></app></l>
               <l n="3">
                 <app type="line">
                   <lem wit="#A #G #M #N #O #P #Q #S #T"><app><lem wit="#A #G #O #S #T">ወሶበ፡</lem><rdg wit="#M">ሶበ፡</rdg><rdg wit="#N">ቅድመ፡</rdg></app> ተሐውሩ፡ ድኅረ፡ ዘኢትትመየጡ፡</lem>
@@ -1028,9 +1028,6 @@
             </app>
           </l>
         </lg>
-        
-      </div>
-      <div type="incomplete-text">
         
         <lg type="stanza" n="46">
           <l n="1">ሰላም፡ እብል፡ ዘመልክዕክሙ፡ መክብበ፡</l>
@@ -1535,9 +1532,6 @@
           <l n="5">May it be before you (like) frankincense and myrrh.</l>
         </lg>
         
-      </div>
-      <div type="incomplete-translation">
-        
         <lg type="stanza" n="41">
           <l n="1">Salutation to the heels of your feet, the extremities of your whole image,</l>
           <l n="2">Which resemble heated brass<note>cf. Ez. 1:7</note>.</l>
@@ -1548,27 +1542,30 @@
         
         <lg type="stanza" n="42">
           <l n="1">Salutation to the soles of your feet, which tread continually</l>
-          <l n="2">The wheel of the awesome spirit which resembles the sea.</l>
+          <l n="2">The wheel of the awesome spirit which resembles the sea<note>cf. Re. 6:6</note>.</l>
           <l n="3">Four (Living) Creatures who bear the throne,</l>
           <l n="4">When I bring a psalm for your majesty</l>
           <l n="5">Let it be pleasing before your faces.</l>
         </lg>
         
         <lg type="stanza" n="43">
-          <l n="1">Salutation, salutation to the toes of your equal feet</l>
-          <l n="2">The wind of their creation with fire in a union.</l>
-          <l n="3">Four (Living) Creatures, rivers of water of sanctification,</l>
-          <l n="4">Your likenesses were fashioned upon the canopy of the Ark of the Law</l>
+          <l n="1">Salutation, salutation to the toes of your composite feet,</l>
+          <l n="2">Their nature is wind combined with flame.</l>
+          <l n="3">Four (Living) Creatures, rivers of water of praise,</l>
+          <l n="4">Your likenesses were fashioned upon the propitiatory of the Ark of the Law</l>
           <l n="5">After a pond swallowed up the hyenas.</l>
         </lg>
         
         <lg type="stanza" n="44">
-          <l n="1">Salutation to your toenails, at the ends of your toes</l>
+          <l n="1">Salutation to your toenails, which cover the ends of your toes,</l>
           <l n="2">Creatures who go back (and forth) like lightning<note>cf. Ez. 1:14</note></l>
-          <l n="3">And, when they go backwards, do not turn.</l>
-          <l n="4">Exchange habit of idleness for skill</l>
-          <l n="5">Since now the markets of heavenly riches.</l>
+          <l n="3">And, when they go backwards, do not turn<note>cf. Ez. 1:12</note>.</l>
+          <l n="4">Exchange my habit of idleness for skill</l>
+          <l n="5">For now (is) the market (day) for heavenly goods.</l>
         </lg>
+        
+      </div>
+      <div type="incomplete-translation">
         
         <lg type="stanza" n="45">
           <l n="1">Salutation to your statures, which is very beautiful,</l>
