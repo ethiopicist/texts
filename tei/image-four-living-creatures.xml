@@ -1030,24 +1030,24 @@
         </lg>
         
         <lg type="stanza" n="46">
-          <l n="1">ሰላም፡ እብል፡ ዘመልክዕክሙ፡ መክብበ፡</l>
-          <l n="2">እንተ፡ ይሠረገው፡ ላህበ፡</l>
-          <l n="3">እንስሳ፡ አርባዕ፡ ዘትሰመዩ፡ ኪሩበ፡</l>
+          <l n="1">ሰላም፡ እብል፡ ዘመልክዕክሙ፡ <app><rdg wit="#A #T">መክብበ፡</rdg><rdg wit="#O #S">ክበበ፡</rdg></app></l>
+          <l n="2">እንተ፡ <app><rdg wit="#A">ይሠረገው፡</rdg><rdg wit="#O #S">ይሠረጎ፡</rdg><rdg wit="#T">ሠረገው፡</rdg></app> ላህበ፡</l>
+          <l n="3"><app><rdg wit="#A #O #S">እንስሳ፡ አርባዕ፡</rdg><rdg wit="#T">አርባዕቱ፡ እንስሳ፡</rdg></app> <app><lem wit="#A #T">ዘትሰመዩ፡</lem><rdg wit="#O">ዘተሰመዩ፡</rdg><rdg wit="#S">ዘትሠመዩ፡</rdg></app> ኪሩበ፡</l>
           <l n="4">ማኅሌትየ፡ በቅድሜክሙ፡ እመ፡ ሞገሰ፡ ረከበ፡</l>
-          <l n="5">ኑኃ፡ መዋዕል፡ ጸግቁኒ፡ ዓስበ፡</l>
+          <l n="5">ኑኃ፡ መዋዕል፡ <app><lem wit="#A #S #T">ጸግዉኒ፡</lem><rdg wit="#O">ጸግውኒ፡</rdg></app> ዓስበ፡</l>
         </lg>
         
         <lg type="stanza" n="47">
-          <l n="1"><app><rdg wit="#A">ሰላም፡ ሰላም፡</rdg><rdg wit="#T"/></app> <app><rdg wit="#A">መናብርተ፡</rdg><rdg wit="#T">ኦመናብርተ፡</rdg></app> አምላክ፡ <app><rdg wit="#T">አርባዕቱ፡</rdg><rdg wit="#A"/></app> እንስሳ፡</l>
-          <l n="2">ገጸ፡ ላህም፡ ወንስር፡ ገጸ፡ ሰብእ፡ <app><rdg wit="#T">ወገጸ፡</rdg><rdg wit="#A"/></app> <app><rdg wit="#A">ወአንበሳ፡</rdg><rdg wit="#T">አንበሳ፡</rdg></app></l>
+          <l n="1"><app><rdg wit="#A">ሰላም፡ ሰላም፡</rdg><rdg wit="#O #S #T"/></app> <app><rdg wit="#A">መናብርተ፡</rdg><rdg wit="#O #S #T">ኦመናብርተ፡</rdg></app> አምላክ፡ <app><rdg wit="#S #T">አርባዕቱ፡</rdg><rdg wit="#O">፬፡</rdg><rdg wit="#A"/></app> እንስሳ፡</l>
+          <l n="2">ገጸ፡ ላህም፡ ወንስር፡ ገጸ፡ ሰብእ፡ <app><rdg wit="#O #S #T">ወገጸ፡</rdg><rdg wit="#A"/></app> <app><rdg wit="#A">ወአንበሳ፡</rdg><rdg wit="#O #S #T">አንበሳ፡</rdg></app></l>
           <l n="3">
             <app type="line">
               <lem wit="#A">ውስተ፡ ፍጥረትክሙ፡ አልቦ፡ ዘለሞት፡ አበሳ፡</lem>
-              <rdg wit="#T">ፈጺመክሙ፡ ጸሕቅየ፡ ወዘልብይ፡ ኃሠሣ፡</rdg>
+              <rdg wit="#O #S #T">ፈጺመክሙ፡ <app><lem wit="#O">ጻህቅየ፡</lem><rdg wit="#S #T">ጸሕቅየ፡</rdg></app> ወዘልብየ፡ ኃሠሣ፡</rdg>
             </app>
           </l>
-          <l n="4">ረስዩ፡ ፍሬ፡ ዓስብየ፡ ህየንተ፡ <app><lem wit="#T">አሐዱ፡</lem><rdg wit="#A">፩</rdg></app> ሠላሳ፡</l>
-          <l n="5"><app><rdg wit="#A">ወተቅሳኩ፡</rdg><rdg wit="#T">ወተውሳኮ፡</rdg></app> ምስለ፡ <app><lem wit="#T">ምእት፡</lem><rdg wit="#A">፻</rdg></app> <app><lem wit="#T">ወስሳ፡</lem><rdg wit="#A">፷፡</rdg></app></l>
+          <l n="4">ረስዩ፡ ፍሬ፡ ዓስብየ፡ ህየንተ፡ <app><lem wit="#T">አሐዱ፡</lem><rdg wit="#A #O #S">፩</rdg></app> <app><lem wit="#A #T">ሠላሳ፡</lem><rdg wit="#O #S">፴፡</rdg></app></l>
+          <l n="5"><app><rdg wit="#A #O">ወተውሳኩ፡</rdg><rdg wit="#S">ወተውሣኩ፡</rdg><rdg wit="#T">ወተውሳኮ፡</rdg></app> ምስለ፡ <app><lem wit="#T">ምእት፡</lem><rdg wit="#A #O #S">፻</rdg></app> <app><lem wit="#T">ወስሳ፡</lem><rdg wit="#A #O #S">፷፡</rdg></app></l>
         </lg>
         
       </div>
@@ -1578,17 +1578,17 @@
         <lg type="stanza" n="46">
           <l n="1">Salutation, I say, to your images</l>
           <l n="2"></l>
-          <l n="3"></l>
-          <l n="4"></l>
+          <l n="3">Four (Living) Creatures who are called Cherubim,</l>
+          <l n="4">If grace finds my song before you,</l>
           <l n="5"></l>
         </lg>
         
         <lg type="stanza" n="47">
           <l n="1">O thrones of God, Four (Living) Creatures,</l>
-          <l n="2"></l>
+          <l n="2">The face of an ox and an eagle, the face of a man and a lion,</l>
           <l n="3"></l>
-          <l n="4"></l>
-          <l n="5"></l>
+          <l n="4">Change the fruit of my payment, (making it) thirty instead of one,</l>
+          <l n="5">And increase it by one hundred and sixty.</l>
         </lg>
         
       </div>
