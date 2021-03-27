@@ -1039,7 +1039,7 @@
           </l>
           <l n="3"><app><lem wit="#A #J #M #O #P #Q #S">እንስሳ፡ አርባዕ፡</lem><rdg wit="#G #N #R">እንስሳ፡ ፬፡</rdg><rdg wit="#T">አርባዕቱ፡ እንስሳ፡</rdg></app> <app><lem wit="#A #J #M #P #R #T">ዘትሰመዩ፡</lem><rdg wit="#G">ዘትሰምዩ፡</rdg><rdg wit="#N #O">ዘተሰመዩ፡</rdg><rdg wit="#Q #S">ዘትሠመዩ፡</rdg></app> ኪሩበ፡</l>
           <l n="4">ማኅሌትየ፡ በቅድሜክሙ፡ እመ፡ ሞገሰ፡ ረከበ፡</l>
-          <l n="5"><app><rdg wit="#A #J #M #O #P #R #S #T">ኑኃ፡</rdg><rdg wit="#G">ንኅ፡</rdg><rdg wit="#N #Q">ኑኀ፡</rdg></app> መዋዕል፡ <app><lem wit="#A #Q #S #T">ጸግዉኒ፡</lem><rdg wit="#G #M #N #O #P #R">ጸግውኒ፡</rdg></app> <app><lem wit="#A #O #P #Q #S #T">ዓስበ፡</lem><rdg wit="#G #M #N #R">አስበ፡</rdg></app></l>
+          <l n="5"><app><lem wit="#N #Q">ኑኀ፡</lem><rdg wit="#A #J #M #O #P #R #S #T">ኑኃ፡</rdg><rdg wit="#G">ንኅ፡</rdg></app> መዋዕል፡ <app><lem wit="#A #Q #S #T">ጸግዉኒ፡</lem><rdg wit="#G #M #N #O #P #R">ጸግውኒ፡</rdg></app> <app><lem wit="#A #O #P #Q #S #T">ዓስበ፡</lem><rdg wit="#G #M #N #R">አስበ፡</rdg></app></l>
         </lg>
         
         <lg type="stanza" n="47">
@@ -1564,7 +1564,7 @@
           <l n="2">Their nature is wind combined with flame.</l>
           <l n="3">Four (Living) Creatures, rivers of water of praise,</l>
           <l n="4">Your likenesses were fashioned upon the propitiatory of the Ark of the Law</l>
-          <l n="5">After a pond swallowed up the hyenas.</l>
+          <l n="5">After a pond swallowed up the hyenas<note>I.e. the Egyptians who perished when the Red Sea closed in on them.</note>.</l>
         </lg>
         
         <lg type="stanza" n="44">
@@ -1579,25 +1579,26 @@
       <div type="incomplete-translation">
         
         <lg type="stanza" n="45">
-          <l n="1">Salutation to your statures, which is very beautiful,</l>
+          <l n="1">Salutation to your statures, which are very beautiful,</l>
           <l n="2">More (beautiful) than the pillar of pure gold.</l>
           <l n="3">Four (Living) Creatures, bearers of heaven,</l>
-          <l n="4">As was written before the setting of the sun</l>
-          <l n="5"></l>
+          <l n="4">As was written before the setting of the sun,</l>
+          <l n="5">I, a poor man, seek the payment of my song.</l>
         </lg>
         
         <lg type="stanza" n="46">
-          <l n="1">Salutation, I say, to your images</l>
-          <l n="2"></l>
+          <l n="1">Salutation, I say. Your images are wheels</l>
+          <l n="2">Which are adorned with fire.</l>
           <l n="3">Four (Living) Creatures who are called Cherubim,</l>
           <l n="4">If grace finds my song before you,</l>
-          <l n="5"></l>
+          <l n="5">Grant me (as my) wage length of days.</l>
         </lg>
         
         <lg type="stanza" n="47">
           <l n="1">O thrones of God, Four (Living) Creatures,</l>
           <l n="2">The face of an ox and an eagle, the face of a man and a lion,</l>
-          <l n="3"></l>
+          <l n="3">Your nature lacks the flesh of mortals.</l>
+          <!--Having fulfilled my desire and the request of my heart,-->
           <l n="4">Change the fruit of my payment, (making it) thirty instead of one,</l>
           <l n="5">And increase it by one hundred and sixty.</l>
         </lg>
